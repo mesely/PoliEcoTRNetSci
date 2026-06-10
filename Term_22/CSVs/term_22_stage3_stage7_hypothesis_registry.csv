@@ -1,0 +1,6 @@
+﻿hypothesis_id,label,family,outcome,predictors,controls,primary_predictor,expected_sign
+H1,Kriz aylarinda muhalefet konusma yogunlugu artar,speech_intensity,opposition_speeches_per_active_speaker,crisis_month,opposition_speeches_per_active_speaker_lag1,crisis_month,+
+H2,Ekonomi ve enflasyon salience'i makro oynakligi yukari iter,macro_volatility,macro_volatility_index,"economy_negative_share, inflation_negative_share",macro_volatility_index_lag1,economy_negative_share,+
+H3,Kriz salience'i iktidar-muhalefet semantik mesafesini artirir,polarization,gov_opp_cosine_distance_total,crisis_negative_share,gov_opp_cosine_distance_total_lag1,crisis_negative_share,+
+H4a,Negatif ekonomi soylemi gelecek ay finansal stresi ondeleyebilir,lead_macro,lead1_financial_stress_index,"economy_negative_share, gov_opp_cosine_distance_negative",financial_stress_index,economy_negative_share,+
+H4b,Pozitif reform soylemi gelecek ay BIST getirisiyle iliskilidir,lead_macro,lead1_bist_return,"reform_positive_share, democracy_positive_betweenness_centrality",bist_return,reform_positive_share,+

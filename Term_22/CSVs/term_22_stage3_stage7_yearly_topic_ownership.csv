@@ -1,0 +1,870 @@
+﻿year,layer,party,concept_slug,concept,layer_weight,concept_total_weight,party_share_in_concept
+2002,negative,Adalet ve Kalkınma Partisi,constitution,Anayasa,4.2625,21.597260000000002,0.19736299882485092
+2002,negative,Cumhuriyet Halk Partisi,constitution,Anayasa,17.334760000000003,21.597260000000002,0.8026370011751491
+2002,negative,Adalet ve Kalkınma Partisi,democracy,Demokrasi,4.35,21.53698,0.20197817892759337
+2002,negative,Cumhuriyet Halk Partisi,democracy,Demokrasi,17.186980000000002,21.53698,0.7980218210724067
+2002,negative,Adalet ve Kalkınma Partisi,economy,Ekonomi,77.28471,129.65012000000002,0.5961021092768753
+2002,negative,Bağımsız,economy,Ekonomi,5.920000000000001,129.65012000000002,0.0456613538036062
+2002,negative,Cumhuriyet Halk Partisi,economy,Ekonomi,46.445409999999995,129.65012000000002,0.3582365369195184
+2002,negative,Adalet ve Kalkınma Partisi,european_union,Avrupa Birligi,4.1542900000000005,8.15858,0.5091927761938965
+2002,negative,Cumhuriyet Halk Partisi,european_union,Avrupa Birligi,4.00429,8.15858,0.4908072238061035
+2002,negative,Adalet ve Kalkınma Partisi,imf,IMF,0.96,14.255,0.06734479130129778
+2002,negative,Anavatan Partisi,imf,IMF,1.675,14.255,0.1175026306559102
+2002,negative,Cumhuriyet Halk Partisi,imf,IMF,11.620000000000001,14.255,0.8151525780427921
+2002,negative,Adalet ve Kalkınma Partisi,inflation,Enflasyon,10.962775,12.762865000000001,0.8589587839407531
+2002,negative,Cumhuriyet Halk Partisi,inflation,Enflasyon,1.80009,12.762865000000001,0.14104121605924685
+2002,negative,Adalet ve Kalkınma Partisi,interest,Faiz,11.349155,19.886654999999998,0.5706920042611491
+2002,negative,Cumhuriyet Halk Partisi,interest,Faiz,8.5375,19.886654999999998,0.42930799573885103
+2002,negative,Adalet ve Kalkınma Partisi,law_state,Hukuk Devleti,10.71589,16.03268,0.668377963010551
+2002,negative,Cumhuriyet Halk Partisi,law_state,Hukuk Devleti,4.64179,16.03268,0.28952052931886624
+2002,negative,Doğru Yol Partisi,law_state,Hukuk Devleti,0.675,16.03268,0.04210150767058284
+2002,negative,Adalet ve Kalkınma Partisi,reform,Reform,1.175,1.175,1.0
+2002,negative,Adalet ve Kalkınma Partisi,security,Guvenlik,12.65767,19.41106,0.6520854605570227
+2002,negative,Anavatan Partisi,security,Guvenlik,1.675,19.41106,0.086291011413081
+2002,negative,Cumhuriyet Halk Partisi,security,Guvenlik,5.07839,19.41106,0.26162352802989636
+2002,negative,Cumhuriyet Halk Partisi,tutelage,Vesayet,3.5200000000000005,3.5200000000000005,1.0
+2002,positive,Adalet ve Kalkınma Partisi,constitution,Anayasa,74.5954,125.333175,0.5951768157153922
+2002,positive,Cumhuriyet Halk Partisi,constitution,Anayasa,50.737775,125.333175,0.4048231842846078
+2002,positive,Adalet ve Kalkınma Partisi,democracy,Demokrasi,95.96121,143.27382,0.6697749107268864
+2002,positive,Cumhuriyet Halk Partisi,democracy,Demokrasi,47.31261,143.27382,0.33022508927311356
+2002,positive,Adalet ve Kalkınma Partisi,economy,Ekonomi,232.36075499999998,274.83061999999995,0.8454689473829372
+2002,positive,Cumhuriyet Halk Partisi,economy,Ekonomi,42.469865,274.83061999999995,0.15453105261706285
+2002,positive,Adalet ve Kalkınma Partisi,european_union,Avrupa Birligi,15.532499999999999,21.61607,0.7185626249359851
+2002,positive,Cumhuriyet Halk Partisi,european_union,Avrupa Birligi,6.08357,21.61607,0.28143737506401484
+2002,positive,Adalet ve Kalkınma Partisi,imf,IMF,8.75,11.22509,0.7795037723528275
+2002,positive,Cumhuriyet Halk Partisi,imf,IMF,2.47509,11.22509,0.22049622764717253
+2002,positive,Adalet ve Kalkınma Partisi,inflation,Enflasyon,13.691815,13.691815,1.0
+2002,positive,Adalet ve Kalkınma Partisi,interest,Faiz,16.908875,16.908875,1.0
+2002,positive,Adalet ve Kalkınma Partisi,law_state,Hukuk Devleti,98.06848,127.85208,0.7670464180168206
+2002,positive,Cumhuriyet Halk Partisi,law_state,Hukuk Devleti,29.783600000000003,127.85208,0.23295358198317934
+2002,positive,Adalet ve Kalkınma Partisi,reform,Reform,24.597660000000005,27.557660000000006,0.8925888482548954
+2002,positive,Cumhuriyet Halk Partisi,reform,Reform,2.9600000000000004,27.557660000000006,0.10741115174510463
+2002,positive,Adalet ve Kalkınma Partisi,security,Guvenlik,9.752699999999999,12.16086,0.8019745314064959
+2002,positive,Cumhuriyet Halk Partisi,security,Guvenlik,2.40816,12.16086,0.1980254685935041
+2002,positive,Adalet ve Kalkınma Partisi,sovereignty,Egemenlik,0.675,0.675,1.0
+2002,total,Adalet ve Kalkınma Partisi,constitution,Anayasa,142.95,345.34999999999997,0.41392789923266254
+2002,total,Cumhuriyet Halk Partisi,constitution,Anayasa,202.39999999999998,345.34999999999997,0.5860721007673375
+2002,total,Adalet ve Kalkınma Partisi,democracy,Demokrasi,163.2,282.4,0.5779036827195467
+2002,total,Cumhuriyet Halk Partisi,democracy,Demokrasi,119.2,282.4,0.4220963172804533
+2002,total,Adalet ve Kalkınma Partisi,economy,Ekonomi,763.1,977.85,0.7803855397044537
+2002,total,Anavatan Partisi,economy,Ekonomi,6.0,977.85,0.00613591041570793
+2002,total,Bağımsız,economy,Ekonomi,7.4,977.85,0.007567622846039781
+2002,total,Cumhuriyet Halk Partisi,economy,Ekonomi,195.35000000000002,977.85,0.19977501661809072
+2002,total,Doğru Yol Partisi,economy,Ekonomi,6.0,977.85,0.00613591041570793
+2002,total,Adalet ve Kalkınma Partisi,european_union,Avrupa Birligi,76.85000000000001,142.05,0.5410066877859908
+2002,total,Cumhuriyet Halk Partisi,european_union,Avrupa Birligi,65.2,142.05,0.45899331221400913
+2002,total,Adalet ve Kalkınma Partisi,imf,IMF,25.9,51.8,0.5
+2002,total,Anavatan Partisi,imf,IMF,3.35,51.8,0.06467181467181468
+2002,total,Cumhuriyet Halk Partisi,imf,IMF,22.55,51.8,0.43532818532818535
+2002,total,Adalet ve Kalkınma Partisi,inflation,Enflasyon,43.7,57.400000000000006,0.7613240418118467
+2002,total,Anavatan Partisi,inflation,Enflasyon,5.0,57.400000000000006,0.08710801393728222
+2002,total,Cumhuriyet Halk Partisi,inflation,Enflasyon,8.7,57.400000000000006,0.15156794425087106
+2002,total,Adalet ve Kalkınma Partisi,interest,Faiz,71.4,116.9,0.6107784431137725
+2002,total,Anavatan Partisi,interest,Faiz,1.0,116.9,0.00855431993156544
+2002,total,Cumhuriyet Halk Partisi,interest,Faiz,44.5,116.9,0.3806672369546621
+2002,total,Adalet ve Kalkınma Partisi,law_state,Hukuk Devleti,192.2,269.84999999999997,0.7122475449323699
+2002,total,Cumhuriyet Halk Partisi,law_state,Hukuk Devleti,76.3,269.84999999999997,0.28274967574578475
+2002,total,Doğru Yol Partisi,law_state,Hukuk Devleti,1.35,269.84999999999997,0.005002779321845471
+2002,total,Adalet ve Kalkınma Partisi,reform,Reform,69.05,83.45,0.8274415817855002
+2002,total,Cumhuriyet Halk Partisi,reform,Reform,14.4,83.45,0.1725584182144997
+2002,total,Adalet ve Kalkınma Partisi,security,Guvenlik,79.55,136.25,0.5838532110091743
+2002,total,Anavatan Partisi,security,Guvenlik,3.35,136.25,0.024587155963302753
+2002,total,Cumhuriyet Halk Partisi,security,Guvenlik,53.349999999999994,136.25,0.3915596330275229
+2002,total,Adalet ve Kalkınma Partisi,sovereignty,Egemenlik,2.35,3.35,0.7014925373134329
+2002,total,Cumhuriyet Halk Partisi,sovereignty,Egemenlik,1.0,3.35,0.29850746268656714
+2002,total,Adalet ve Kalkınma Partisi,tutelage,Vesayet,1.7,6.1000000000000005,0.2786885245901639
+2002,total,Cumhuriyet Halk Partisi,tutelage,Vesayet,4.4,6.1000000000000005,0.7213114754098361
+2003,negative,Adalet ve Kalkınma Partisi,constitution,Anayasa,128.5636,470.68669500000004,0.2731405016664004
+2003,negative,Bağımsız,constitution,Anayasa,2.375,470.68669500000004,0.00504581927900044
+2003,negative,Cumhuriyet Halk Partisi,constitution,Anayasa,339.073095,470.68669500000004,0.72037960410162
+2003,negative,Doğru Yol Partisi,constitution,Anayasa,0.675,470.68669500000004,0.0014340749529790724
+2003,negative,Adalet ve Kalkınma Partisi,democracy,Demokrasi,65.686015,233.40424000000002,0.28142597152476745
+2003,negative,Anavatan Partisi,democracy,Demokrasi,1.35,233.40424000000002,0.005783956623924227
+2003,negative,Bağımsız,democracy,Demokrasi,3.5200000000000005,233.40424000000002,0.01508113134534317
+2003,negative,Cumhuriyet Halk Partisi,democracy,Demokrasi,162.848225,233.40424000000002,0.6977089405059651
+2003,negative,Adalet ve Kalkınma Partisi,economy,Ekonomi,839.37582,1968.010215,0.426509889838148
+2003,negative,Anavatan Partisi,economy,Ekonomi,85.76876,1968.010215,0.04358146078017181
+2003,negative,Bağımsız,economy,Ekonomi,22.47165,1968.010215,0.011418462073379024
+2003,negative,Cumhuriyet Halk Partisi,economy,Ekonomi,1010.8726750000001,1968.010215,0.5136521483959879
+2003,negative,Doğru Yol Partisi,economy,Ekonomi,9.52131,1968.010215,0.004838038912313268
+2003,negative,Adalet ve Kalkınma Partisi,european_union,Avrupa Birligi,29.08367,72.88221,0.39905033066368323
+2003,negative,Anavatan Partisi,european_union,Avrupa Birligi,1.175,72.88221,0.016121904097035476
+2003,negative,Bağımsız,european_union,Avrupa Birligi,3.3320100000000004,72.88221,0.045717740996053774
+2003,negative,Cumhuriyet Halk Partisi,european_union,Avrupa Birligi,39.29153,72.88221,0.5391100242432275
+2003,negative,Adalet ve Kalkınma Partisi,imf,IMF,11.600280000000001,119.818185,0.09681568786908265
+2003,negative,Anavatan Partisi,imf,IMF,13.22429,119.818185,0.11036964046818101
+2003,negative,Bağımsız,imf,IMF,3.1417900000000003,119.818185,0.026221311898523586
+2003,negative,Cumhuriyet Halk Partisi,imf,IMF,91.851825,119.818185,0.7665933597642128
+2003,negative,Adalet ve Kalkınma Partisi,inflation,Enflasyon,35.663624999999996,117.519975,0.3034686231000304
+2003,negative,Anavatan Partisi,inflation,Enflasyon,2.8625,117.519975,0.024357561342231392
+2003,negative,Bağımsız,inflation,Enflasyon,7.19375,117.519975,0.06121299804565138
+2003,negative,Cumhuriyet Halk Partisi,inflation,Enflasyon,71.1251,117.519975,0.6052171130907746
+2003,negative,Doğru Yol Partisi,inflation,Enflasyon,0.675,117.519975,0.005743704421312207
+2003,negative,Adalet ve Kalkınma Partisi,interest,Faiz,125.98186,311.373545,0.404600397249548
+2003,negative,Anavatan Partisi,interest,Faiz,13.524505000000001,311.373545,0.043434984176321086
+2003,negative,Cumhuriyet Halk Partisi,interest,Faiz,171.86718,311.373545,0.5519646185741309
+2003,negative,Adalet ve Kalkınma Partisi,law_state,Hukuk Devleti,280.14009,834.11543,0.33585290467531576
+2003,negative,Anavatan Partisi,law_state,Hukuk Devleti,23.943839999999998,834.11543,0.028705667271974575
+2003,negative,Bağımsız,law_state,Hukuk Devleti,1.1875,834.11543,0.0014236638686806215
+2003,negative,Cumhuriyet Halk Partisi,law_state,Hukuk Devleti,528.8439999999999,834.11543,0.634017764184029
+2003,negative,Adalet ve Kalkınma Partisi,reform,Reform,55.371345000000005,119.112855,0.46486456058835973
+2003,negative,Bağımsız,reform,Reform,0.675,119.112855,0.005666894643739335
+2003,negative,Cumhuriyet Halk Partisi,reform,Reform,63.066509999999994,119.112855,0.529468544767901
+2003,negative,Adalet ve Kalkınma Partisi,security,Guvenlik,358.202215,881.8027850000001,0.4062157900760089
+2003,negative,Anavatan Partisi,security,Guvenlik,33.957679999999996,881.8027850000001,0.03850938166406448
+2003,negative,Bağımsız,security,Guvenlik,16.365000000000002,881.8027850000001,0.018558571461077887
+2003,negative,Cumhuriyet Halk Partisi,security,Guvenlik,468.50539000000003,881.8027850000001,0.531304048897963
+2003,negative,Doğru Yol Partisi,security,Guvenlik,4.7725,881.8027850000001,0.005412207900885683
+2003,negative,Adalet ve Kalkınma Partisi,sovereignty,Egemenlik,0.675,17.70848,0.038117331357632046
+2003,negative,Bağımsız,sovereignty,Egemenlik,0.675,17.70848,0.038117331357632046
+2003,negative,Cumhuriyet Halk Partisi,sovereignty,Egemenlik,16.35848,17.70848,0.9237653372847359
+2003,negative,Adalet ve Kalkınma Partisi,tutelage,Vesayet,28.695090000000004,63.29346,0.4533657979829196
+2003,negative,Bağımsız,tutelage,Vesayet,0.675,63.29346,0.010664608950119017
+2003,negative,Cumhuriyet Halk Partisi,tutelage,Vesayet,33.92337,63.29346,0.5359695930669613
+2003,positive,Adalet ve Kalkınma Partisi,constitution,Anayasa,390.771385,862.222355,0.4532141653877671
+2003,positive,Anavatan Partisi,constitution,Anayasa,12.72546,862.222355,0.014758907521018752
+2003,positive,Bağımsız,constitution,Anayasa,1.85,862.222355,0.002145618226286884
+2003,positive,Cumhuriyet Halk Partisi,constitution,Anayasa,456.87550999999996,862.222355,0.5298813088649272
+2003,positive,Adalet ve Kalkınma Partisi,democracy,Demokrasi,401.60393,848.11391,0.4735259323833045
+2003,positive,Anavatan Partisi,democracy,Demokrasi,20.55725,848.11391,0.024238784151058197
+2003,positive,Bağımsız,democracy,Demokrasi,17.58565,848.11391,0.02073500952248266
+2003,positive,Cumhuriyet Halk Partisi,democracy,Demokrasi,402.67797,848.11391,0.4747923188761283
+2003,positive,Doğru Yol Partisi,democracy,Demokrasi,5.6891099999999994,848.11391,0.006707955067026314
+2003,positive,Adalet ve Kalkınma Partisi,economy,Ekonomi,2442.635085,4063.40329,0.6011303606046939
+2003,positive,Anavatan Partisi,economy,Ekonomi,41.15688,4063.40329,0.01012867221456623
+2003,positive,Bağımsız,economy,Ekonomi,45.024075,4063.40329,0.011080385525798991
+2003,positive,Cumhuriyet Halk Partisi,economy,Ekonomi,1515.2038400000001,4063.40329,0.3728903413867148
+2003,positive,Doğru Yol Partisi,economy,Ekonomi,19.38341,4063.40329,0.004770240268225997
+2003,positive,Adalet ve Kalkınma Partisi,european_union,Avrupa Birligi,514.82545,835.9487300000001,0.6158576854348472
+2003,positive,Anavatan Partisi,european_union,Avrupa Birligi,2.7,835.9487300000001,0.003229863152014119
+2003,positive,Bağımsız,european_union,Avrupa Birligi,5.214639999999999,835.9487300000001,0.006237990217414409
+2003,positive,Cumhuriyet Halk Partisi,european_union,Avrupa Birligi,303.393015,835.9487300000001,0.36293256286183956
+2003,positive,Doğru Yol Partisi,european_union,Avrupa Birligi,9.815625,835.9487300000001,0.011741898333884664
+2003,positive,Adalet ve Kalkınma Partisi,imf,IMF,19.32036,70.67564999999999,0.2733665696742797
+2003,positive,Cumhuriyet Halk Partisi,imf,IMF,51.35529,70.67564999999999,0.7266334303257205
+2003,positive,Adalet ve Kalkınma Partisi,inflation,Enflasyon,126.73329000000001,248.39533500000002,0.5102080117567426
+2003,positive,Anavatan Partisi,inflation,Enflasyon,1.175,248.39533500000002,0.004730362589136386
+2003,positive,Bağımsız,inflation,Enflasyon,0.675,248.39533500000002,0.0027174423384400516
+2003,positive,Cumhuriyet Halk Partisi,inflation,Enflasyon,119.81204500000001,248.39533500000002,0.482344183315681
+2003,positive,Adalet ve Kalkınma Partisi,interest,Faiz,160.873635,367.55582000000004,0.4376849072883678
+2003,positive,Anavatan Partisi,interest,Faiz,2.7,367.55582000000004,0.007345823009958052
+2003,positive,Bağımsız,interest,Faiz,3.3499999999999996,367.55582000000004,0.00911426188272573
+2003,positive,Cumhuriyet Halk Partisi,interest,Faiz,200.632185,367.55582000000004,0.5458550078189484
+2003,positive,Adalet ve Kalkınma Partisi,law_state,Hukuk Devleti,725.511085,1546.401035,0.4691610187650967
+2003,positive,Anavatan Partisi,law_state,Hukuk Devleti,11.78875,1546.401035,0.007623345906516417
+2003,positive,Cumhuriyet Halk Partisi,law_state,Hukuk Devleti,809.1012000000001,1546.401035,0.5232156353283869
+2003,positive,Adalet ve Kalkınma Partisi,reform,Reform,197.881405,310.14977500000003,0.6380188571795674
+2003,positive,Anavatan Partisi,reform,Reform,2.8499999999999996,310.14977500000003,0.009189108713685184
+2003,positive,Bağımsız,reform,Reform,4.28348,310.14977500000003,0.01381100469926183
+2003,positive,Cumhuriyet Halk Partisi,reform,Reform,101.95989,310.14977500000003,0.328744039875573
+2003,positive,Doğru Yol Partisi,reform,Reform,3.175,310.14977500000003,0.010236989531912443
+2003,positive,Adalet ve Kalkınma Partisi,security,Guvenlik,226.64942000000002,474.27805500000005,0.4778830005111664
+2003,positive,Anavatan Partisi,security,Guvenlik,13.831249999999999,474.27805500000005,0.02916274504836619
+2003,positive,Bağımsız,security,Guvenlik,14.778310000000001,474.27805500000005,0.031159590548628692
+2003,positive,Cumhuriyet Halk Partisi,security,Guvenlik,215.88558500000002,474.27805500000005,0.4551878011728795
+2003,positive,Doğru Yol Partisi,security,Guvenlik,3.13349,474.27805500000005,0.006606862718959239
+2003,positive,Adalet ve Kalkınma Partisi,sovereignty,Egemenlik,15.717250000000002,32.80512,0.47910966336962035
+2003,positive,Cumhuriyet Halk Partisi,sovereignty,Egemenlik,12.61268,32.80512,0.3844729115455148
+2003,positive,Doğru Yol Partisi,sovereignty,Egemenlik,4.47519,32.80512,0.1364174250848648
+2003,positive,Cumhuriyet Halk Partisi,tutelage,Vesayet,0.5125,0.5125,1.0
+2003,total,Adalet ve Kalkınma Partisi,constitution,Anayasa,1449.2,4015.5,0.36090150666168597
+2003,total,Anavatan Partisi,constitution,Anayasa,34.85,4015.5,0.008678869381148051
+2003,total,Bağımsız,constitution,Anayasa,12.45,4015.5,0.003100485618229361
+2003,total,Cumhuriyet Halk Partisi,constitution,Anayasa,2516.65,4015.5,0.626733906113809
+2003,total,Doğru Yol Partisi,constitution,Anayasa,2.35,4015.5,0.0005852322251276305
+2003,total,Adalet ve Kalkınma Partisi,democracy,Demokrasi,1123.5,2744.05,0.40943131502705854
+2003,total,Anavatan Partisi,democracy,Demokrasi,50.4,2744.05,0.018367012262896082
+2003,total,Bağımsız,democracy,Demokrasi,30.0,2744.05,0.010932745394581002
+2003,total,Cumhuriyet Halk Partisi,democracy,Demokrasi,1527.7,2744.05,0.5567318379767132
+2003,total,Doğru Yol Partisi,democracy,Demokrasi,12.45,2744.05,0.004537089338751115
+2003,total,Adalet ve Kalkınma Partisi,economy,Ekonomi,6948.75,13771.3,0.5045819929854117
+2003,total,Anavatan Partisi,economy,Ekonomi,292.45,13771.3,0.02123619411384546
+2003,total,Bağımsız,economy,Ekonomi,202.75,13771.3,0.01472264782555024
+2003,total,Cumhuriyet Halk Partisi,economy,Ekonomi,6262.1,13771.3,0.45472105030026216
+2003,total,Doğru Yol Partisi,economy,Ekonomi,65.25,13771.3,0.004738114774930471
+2003,total,Adalet ve Kalkınma Partisi,european_union,Avrupa Birligi,987.65,1893.0,0.5217379820390914
+2003,total,Anavatan Partisi,european_union,Avrupa Birligi,25.45,1893.0,0.013444268357105124
+2003,total,Bağımsız,european_union,Avrupa Birligi,28.799999999999997,1893.0,0.015213946117274167
+2003,total,Cumhuriyet Halk Partisi,european_union,Avrupa Birligi,825.4000000000001,1893.0,0.436027469624934
+2003,total,Doğru Yol Partisi,european_union,Avrupa Birligi,25.7,1893.0,0.01357633386159535
+2003,total,Adalet ve Kalkınma Partisi,imf,IMF,135.95,552.85,0.2459075698652437
+2003,total,Anavatan Partisi,imf,IMF,28.5,552.85,0.05155105363118386
+2003,total,Bağımsız,imf,IMF,6.050000000000001,552.85,0.010943293841005699
+2003,total,Cumhuriyet Halk Partisi,imf,IMF,382.35,552.85,0.6915980826625667
+2003,total,Adalet ve Kalkınma Partisi,inflation,Enflasyon,387.8,915.2,0.4237325174825175
+2003,total,Anavatan Partisi,inflation,Enflasyon,24.1,915.2,0.02633304195804196
+2003,total,Bağımsız,inflation,Enflasyon,10.15,915.2,0.011090472027972028
+2003,total,Cumhuriyet Halk Partisi,inflation,Enflasyon,490.8,915.2,0.5362762237762237
+2003,total,Doğru Yol Partisi,inflation,Enflasyon,2.35,915.2,0.002567744755244755
+2003,total,Adalet ve Kalkınma Partisi,interest,Faiz,842.55,2116.25,0.39813349084465444
+2003,total,Anavatan Partisi,interest,Faiz,54.099999999999994,2116.25,0.025564087418783223
+2003,total,Bağımsız,interest,Faiz,24.700000000000003,2116.25,0.011671588895451862
+2003,total,Cumhuriyet Halk Partisi,interest,Faiz,1194.9,2116.25,0.5646308328411105
+2003,total,Adalet ve Kalkınma Partisi,law_state,Hukuk Devleti,2645.6,6784.9,0.38992468569912603
+2003,total,Anavatan Partisi,law_state,Hukuk Devleti,94.35,6784.9,0.013905879231823608
+2003,total,Bağımsız,law_state,Hukuk Devleti,23.2,6784.9,0.003419357691344014
+2003,total,Cumhuriyet Halk Partisi,law_state,Hukuk Devleti,4011.35,6784.9,0.591217261860897
+2003,total,Doğru Yol Partisi,law_state,Hukuk Devleti,10.4,6784.9,0.0015328155168093857
+2003,total,Adalet ve Kalkınma Partisi,reform,Reform,764.6,1391.05,0.5496567341217067
+2003,total,Anavatan Partisi,reform,Reform,19.4,1391.05,0.013946299557887926
+2003,total,Bağımsız,reform,Reform,11.45,1391.05,0.008231192264835915
+2003,total,Cumhuriyet Halk Partisi,reform,Reform,586.25,1391.05,0.421444232773804
+2003,total,Doğru Yol Partisi,reform,Reform,9.35,1391.05,0.006721541281765573
+2003,total,Adalet ve Kalkınma Partisi,security,Guvenlik,1625.05,3925.85,0.4139358355515366
+2003,total,Anavatan Partisi,security,Guvenlik,124.75,3925.85,0.03177655794286588
+2003,total,Bağımsız,security,Guvenlik,77.4,3925.85,0.019715475629481515
+2003,total,Cumhuriyet Halk Partisi,security,Guvenlik,2069.7000000000003,3925.85,0.5271979316581124
+2003,total,Doğru Yol Partisi,security,Guvenlik,28.949999999999996,3925.85,0.007374199218003743
+2003,total,Adalet ve Kalkınma Partisi,sovereignty,Egemenlik,53.95,146.4,0.36851092896174864
+2003,total,Anavatan Partisi,sovereignty,Egemenlik,1.0,146.4,0.006830601092896175
+2003,total,Bağımsız,sovereignty,Egemenlik,1.35,146.4,0.009221311475409836
+2003,total,Cumhuriyet Halk Partisi,sovereignty,Egemenlik,83.05,146.4,0.5672814207650273
+2003,total,Doğru Yol Partisi,sovereignty,Egemenlik,7.050000000000001,146.4,0.04815573770491804
+2003,total,Adalet ve Kalkınma Partisi,tutelage,Vesayet,48.15,101.75,0.4732186732186732
+2003,total,Bağımsız,tutelage,Vesayet,1.35,101.75,0.013267813267813268
+2003,total,Cumhuriyet Halk Partisi,tutelage,Vesayet,52.25,101.75,0.5135135135135135
+2004,negative,Adalet ve Kalkınma Partisi,constitution,Anayasa,82.11745,513.90929,0.15978977535121033
+2004,negative,Anavatan Partisi,constitution,Anayasa,10.955000000000002,513.90929,0.021316991564795416
+2004,negative,Bağımsız,constitution,Anayasa,1.5374999999999999,513.90929,0.0029917731201161975
+2004,negative,Cumhuriyet Halk Partisi,constitution,Anayasa,401.15434,513.90929,0.7805936724747667
+2004,negative,Doğru Yol Partisi,constitution,Anayasa,18.145,513.90929,0.035307787489111155
+2004,negative,Adalet ve Kalkınma Partisi,democracy,Demokrasi,25.38285,170.69349,0.14870426517144855
+2004,negative,Anavatan Partisi,democracy,Demokrasi,4.025,170.69349,0.023580278310555373
+2004,negative,Bağımsız,democracy,Demokrasi,2.5125,170.69349,0.014719366274601336
+2004,negative,Cumhuriyet Halk Partisi,democracy,Demokrasi,130.19796,170.69349,0.7627587906252312
+2004,negative,Doğru Yol Partisi,democracy,Demokrasi,8.57518,170.69349,0.050237299618163526
+2004,negative,Adalet ve Kalkınma Partisi,economy,Ekonomi,277.22067,855.35974,0.3240983378525625
+2004,negative,Anavatan Partisi,economy,Ekonomi,47.802215000000004,855.35974,0.05588550964533356
+2004,negative,Cumhuriyet Halk Partisi,economy,Ekonomi,513.505775,855.35974,0.6003389579687255
+2004,negative,Doğru Yol Partisi,economy,Ekonomi,16.83108,855.35974,0.019677194533378437
+2004,negative,Adalet ve Kalkınma Partisi,european_union,Avrupa Birligi,47.73985,111.97418,0.4263469489126868
+2004,negative,Anavatan Partisi,european_union,Avrupa Birligi,1.0125,111.97418,0.009042263136019392
+2004,negative,Cumhuriyet Halk Partisi,european_union,Avrupa Birligi,55.44787,111.97418,0.49518442555239073
+2004,negative,Doğru Yol Partisi,european_union,Avrupa Birligi,7.77396,111.97418,0.06942636239890303
+2004,negative,Adalet ve Kalkınma Partisi,imf,IMF,17.95853,112.86710000000002,0.15911217706488423
+2004,negative,Anavatan Partisi,imf,IMF,7.8125,112.86710000000002,0.06921857653824719
+2004,negative,Bağımsız,imf,IMF,0.675,112.86710000000002,0.0059804850129045566
+2004,negative,Cumhuriyet Halk Partisi,imf,IMF,78.48982000000001,112.86710000000002,0.6954180624823354
+2004,negative,Doğru Yol Partisi,imf,IMF,7.9312499999999995,112.86710000000002,0.07027069890162853
+2004,negative,Adalet ve Kalkınma Partisi,inflation,Enflasyon,37.974065,78.70906500000001,0.4824611371002819
+2004,negative,Anavatan Partisi,inflation,Enflasyon,5.225,78.70906500000001,0.06638371323557203
+2004,negative,Cumhuriyet Halk Partisi,inflation,Enflasyon,35.510000000000005,78.70906500000001,0.45115514966414605
+2004,negative,Adalet ve Kalkınma Partisi,interest,Faiz,33.698119999999996,95.20975999999999,0.3539355629086766
+2004,negative,Anavatan Partisi,interest,Faiz,0.5125,95.20975999999999,0.005382851505980059
+2004,negative,Cumhuriyet Halk Partisi,interest,Faiz,60.99914,95.20975999999999,0.6406815855853434
+2004,negative,Adalet ve Kalkınma Partisi,law_state,Hukuk Devleti,241.01107000000002,901.1546849999999,0.26744694780119804
+2004,negative,Anavatan Partisi,law_state,Hukuk Devleti,16.31912,901.1546849999999,0.01810912185403553
+2004,negative,Bağımsız,law_state,Hukuk Devleti,6.637499999999999,901.1546849999999,0.007365550121952703
+2004,negative,Cumhuriyet Halk Partisi,law_state,Hukuk Devleti,629.682605,901.1546849999999,0.6987508531900937
+2004,negative,Doğru Yol Partisi,law_state,Hukuk Devleti,7.50439,901.1546849999999,0.00832752703272025
+2004,negative,Adalet ve Kalkınma Partisi,reform,Reform,25.131169999999997,91.38701,0.2749971795772725
+2004,negative,Anavatan Partisi,reform,Reform,1.85,91.38701,0.0202435772874066
+2004,negative,Cumhuriyet Halk Partisi,reform,Reform,62.05584,91.38701,0.6790444287432098
+2004,negative,Doğru Yol Partisi,reform,Reform,2.35,91.38701,0.02571481439211109
+2004,negative,Adalet ve Kalkınma Partisi,security,Guvenlik,207.58117,517.771705,0.40091254117487934
+2004,negative,Anavatan Partisi,security,Guvenlik,19.383955,517.771705,0.03743726204582771
+2004,negative,Bağımsız,security,Guvenlik,5.40857,517.771705,0.010445858566180244
+2004,negative,Cumhuriyet Halk Partisi,security,Guvenlik,280.54801,517.771705,0.5418372755614368
+2004,negative,Doğru Yol Partisi,security,Guvenlik,4.85,517.771705,0.009367062651675799
+2004,negative,Adalet ve Kalkınma Partisi,sovereignty,Egemenlik,3.6542900000000005,10.162780000000001,0.3595758247251244
+2004,negative,Cumhuriyet Halk Partisi,sovereignty,Egemenlik,6.50849,10.162780000000001,0.6404241752748755
+2004,negative,Adalet ve Kalkınma Partisi,tutelage,Vesayet,40.147535000000005,146.36726000000002,0.27429313768666574
+2004,negative,Anavatan Partisi,tutelage,Vesayet,3.1248750000000003,146.36726000000002,0.021349549072654635
+2004,negative,Bağımsız,tutelage,Vesayet,0.675,146.36726000000002,0.004611687067176088
+2004,negative,Cumhuriyet Halk Partisi,tutelage,Vesayet,69.793975,146.36726000000002,0.4768414398137944
+2004,negative,Doğru Yol Partisi,tutelage,Vesayet,32.625875,146.36726000000002,0.2229041863597091
+2004,positive,Adalet ve Kalkınma Partisi,constitution,Anayasa,366.47833,752.914095,0.4867465391254231
+2004,positive,Anavatan Partisi,constitution,Anayasa,3.1125,752.914095,0.004133937750228995
+2004,positive,Bağımsız,constitution,Anayasa,1.85,752.914095,0.002457119626642134
+2004,positive,Cumhuriyet Halk Partisi,constitution,Anayasa,379.664875,752.914095,0.5042605491400716
+2004,positive,Doğru Yol Partisi,constitution,Anayasa,1.80839,752.914095,0.002401854357634253
+2004,positive,Adalet ve Kalkınma Partisi,democracy,Demokrasi,327.58083,995.8784949999999,0.3289365436091679
+2004,positive,Anavatan Partisi,democracy,Demokrasi,22.57241,995.8784949999999,0.022665827320631122
+2004,positive,Bağımsız,democracy,Demokrasi,2.46679,995.8784949999999,0.002476998963613528
+2004,positive,Cumhuriyet Halk Partisi,democracy,Demokrasi,642.5834649999999,995.8784949999999,0.645242836577167
+2004,positive,Doğru Yol Partisi,democracy,Demokrasi,0.675,995.8784949999999,0.0006777935294204743
+2004,positive,Adalet ve Kalkınma Partisi,economy,Ekonomi,1856.653675,2819.193735,0.658576121232761
+2004,positive,Anavatan Partisi,economy,Ekonomi,65.667735,2819.193735,0.023293090568676365
+2004,positive,Bağımsız,economy,Ekonomi,31.289789999999996,2819.193735,0.01109884347838195
+2004,positive,Cumhuriyet Halk Partisi,economy,Ekonomi,853.486375,2819.193735,0.3027412995439279
+2004,positive,Doğru Yol Partisi,economy,Ekonomi,12.096160000000001,2819.193735,0.004290645176252848
+2004,positive,Adalet ve Kalkınma Partisi,european_union,Avrupa Birligi,398.575145,755.0909,0.5278505475301053
+2004,positive,Anavatan Partisi,european_union,Avrupa Birligi,8.09089,755.0909,0.010715120523899837
+2004,positive,Bağımsız,european_union,Avrupa Birligi,5.9875,755.0909,0.007929508884294592
+2004,positive,Cumhuriyet Halk Partisi,european_union,Avrupa Birligi,309.399365,755.0909,0.409751150490623
+2004,positive,Doğru Yol Partisi,european_union,Avrupa Birligi,33.038000000000004,755.0909,0.04375367257107721
+2004,positive,Adalet ve Kalkınma Partisi,imf,IMF,22.080099999999998,70.57335,0.3128673925780765
+2004,positive,Cumhuriyet Halk Partisi,imf,IMF,48.49325,70.57335,0.6871326074219234
+2004,positive,Adalet ve Kalkınma Partisi,inflation,Enflasyon,97.66935,164.57253,0.5934729811834332
+2004,positive,Anavatan Partisi,inflation,Enflasyon,1.675,164.57253,0.010177883271284703
+2004,positive,Bağımsız,inflation,Enflasyon,0.675,164.57253,0.004101535049622194
+2004,positive,Cumhuriyet Halk Partisi,inflation,Enflasyon,62.26568,164.57253,0.37834795393860693
+2004,positive,Doğru Yol Partisi,inflation,Enflasyon,2.2874999999999996,164.57253,0.013899646557052989
+2004,positive,Adalet ve Kalkınma Partisi,interest,Faiz,132.433615,224.25787,0.5905416608121713
+2004,positive,Anavatan Partisi,interest,Faiz,1.5374999999999999,224.25787,0.006855946683164341
+2004,positive,Bağımsız,interest,Faiz,2.9624999999999995,224.25787,0.013210238730975191
+2004,positive,Cumhuriyet Halk Partisi,interest,Faiz,87.324255,224.25787,0.3893921537736892
+2004,positive,Adalet ve Kalkınma Partisi,law_state,Hukuk Devleti,766.163235,1660.88931,0.46129698733505603
+2004,positive,Anavatan Partisi,law_state,Hukuk Devleti,2.72,1660.88931,0.0016376768660158335
+2004,positive,Cumhuriyet Halk Partisi,law_state,Hukuk Devleti,884.831075,1660.88931,0.5327453609777283
+2004,positive,Doğru Yol Partisi,law_state,Hukuk Devleti,7.175,1660.88931,0.0043199748211998545
+2004,positive,Adalet ve Kalkınma Partisi,reform,Reform,182.831435,313.80672500000003,0.5826243366836704
+2004,positive,Anavatan Partisi,reform,Reform,2.8625,313.80672500000003,0.009121856773464622
+2004,positive,Bağımsız,reform,Reform,4.137499999999999,313.80672500000003,0.013184867214047115
+2004,positive,Cumhuriyet Halk Partisi,reform,Reform,121.12529,313.80672500000003,0.3859869159910451
+2004,positive,Doğru Yol Partisi,reform,Reform,2.85,313.80672500000003,0.009082023337772636
+2004,positive,Adalet ve Kalkınma Partisi,security,Guvenlik,222.902425,419.65585,0.5311552906983187
+2004,positive,Anavatan Partisi,security,Guvenlik,7.633075,419.65585,0.018188892160087844
+2004,positive,Cumhuriyet Halk Partisi,security,Guvenlik,175.74526,419.65585,0.4187842490459742
+2004,positive,Doğru Yol Partisi,security,Guvenlik,13.37509,419.65585,0.03187156809561931
+2004,positive,Adalet ve Kalkınma Partisi,sovereignty,Egemenlik,7.08357,26.34152,0.26891272789117715
+2004,positive,Anavatan Partisi,sovereignty,Egemenlik,1.80009,26.34152,0.06833660320285238
+2004,positive,Cumhuriyet Halk Partisi,sovereignty,Egemenlik,17.45786,26.34152,0.6627506689059706
+2004,total,Adalet ve Kalkınma Partisi,constitution,Anayasa,1209.05,3723.5,0.3247079360816436
+2004,total,Anavatan Partisi,constitution,Anayasa,36.3,3723.5,0.009748892171344165
+2004,total,Bağımsız,constitution,Anayasa,8.75,3723.5,0.002349939572982409
+2004,total,Cumhuriyet Halk Partisi,constitution,Anayasa,2391.15,3723.5,0.6421780582785014
+2004,total,Doğru Yol Partisi,constitution,Anayasa,78.25,3723.5,0.0210151738955284
+2004,total,Adalet ve Kalkınma Partisi,democracy,Demokrasi,781.05,2543.3999999999996,0.3070889360698278
+2004,total,Anavatan Partisi,democracy,Demokrasi,49.150000000000006,2543.3999999999996,0.019324526224738545
+2004,total,Bağımsız,democracy,Demokrasi,16.75,2543.3999999999996,0.006585672721553826
+2004,total,Cumhuriyet Halk Partisi,democracy,Demokrasi,1659.5,2543.3999999999996,0.6524730675473777
+2004,total,Doğru Yol Partisi,democracy,Demokrasi,36.95,2543.3999999999996,0.014527797436502322
+2004,total,Adalet ve Kalkınma Partisi,economy,Ekonomi,4462.65,8612.6,0.5181536353714324
+2004,total,Anavatan Partisi,economy,Ekonomi,258.7,8612.6,0.03003738708403966
+2004,total,Bağımsız,economy,Ekonomi,69.94999999999999,8612.6,0.008121821517311844
+2004,total,Cumhuriyet Halk Partisi,economy,Ekonomi,3755.2,8612.6,0.436012353992987
+2004,total,Doğru Yol Partisi,economy,Ekonomi,66.1,8612.6,0.00767480203422892
+2004,total,Adalet ve Kalkınma Partisi,european_union,Avrupa Birligi,937.55,1960.1,0.47831743278404165
+2004,total,Anavatan Partisi,european_union,Avrupa Birligi,26.65,1960.1,0.013596245089536248
+2004,total,Bağımsız,european_union,Avrupa Birligi,12.450000000000001,1960.1,0.006351716749145453
+2004,total,Cumhuriyet Halk Partisi,european_union,Avrupa Birligi,911.95,1960.1,0.46525687464925264
+2004,total,Doğru Yol Partisi,european_union,Avrupa Birligi,71.5,1960.1,0.036477730728024085
+2004,total,Adalet ve Kalkınma Partisi,imf,IMF,112.7,528.1,0.21340655178943382
+2004,total,Anavatan Partisi,imf,IMF,33.85,528.1,0.06409770876727892
+2004,total,Bağımsız,imf,IMF,6.050000000000001,528.1,0.01145616360537777
+2004,total,Cumhuriyet Halk Partisi,imf,IMF,365.0,528.1,0.6911569778451051
+2004,total,Doğru Yol Partisi,imf,IMF,10.5,528.1,0.019882597992804393
+2004,total,Adalet ve Kalkınma Partisi,inflation,Enflasyon,378.2,667.15,0.5668890054710335
+2004,total,Anavatan Partisi,inflation,Enflasyon,16.8,667.15,0.02518174323615379
+2004,total,Bağımsız,inflation,Enflasyon,2.35,667.15,0.0035224462264857983
+2004,total,Cumhuriyet Halk Partisi,inflation,Enflasyon,265.75,667.15,0.39833620625046845
+2004,total,Doğru Yol Partisi,inflation,Enflasyon,4.05,667.15,0.006070598815858502
+2004,total,Adalet ve Kalkınma Partisi,interest,Faiz,462.4,977.9499999999999,0.4728258090904443
+2004,total,Anavatan Partisi,interest,Faiz,40.3,977.9499999999999,0.0412086507490158
+2004,total,Bağımsız,interest,Faiz,7.1,977.9499999999999,0.007260084871414694
+2004,total,Cumhuriyet Halk Partisi,interest,Faiz,460.15,977.9499999999999,0.47052507796922133
+2004,total,Doğru Yol Partisi,interest,Faiz,8.0,977.9499999999999,0.008180377319903882
+2004,total,Adalet ve Kalkınma Partisi,law_state,Hukuk Devleti,2219.2,6353.85,0.3492685537115292
+2004,total,Anavatan Partisi,law_state,Hukuk Devleti,46.05,6353.85,0.007247574305342429
+2004,total,Bağımsız,law_state,Hukuk Devleti,20.75,6353.85,0.003265736521951258
+2004,total,Cumhuriyet Halk Partisi,law_state,Hukuk Devleti,4004.75,6353.85,0.6302871487365928
+2004,total,Doğru Yol Partisi,law_state,Hukuk Devleti,63.1,6353.85,0.009930986724584307
+2004,total,Adalet ve Kalkınma Partisi,reform,Reform,632.5,1259.5500000000002,0.5021634710809415
+2004,total,Anavatan Partisi,reform,Reform,22.45,1259.5500000000002,0.01782382596959231
+2004,total,Bağımsız,reform,Reform,14.75,1259.5500000000002,0.011710531539041719
+2004,total,Cumhuriyet Halk Partisi,reform,Reform,568.45,1259.5500000000002,0.45131197649954347
+2004,total,Doğru Yol Partisi,reform,Reform,21.4,1259.5500000000002,0.016990194910880867
+2004,total,Adalet ve Kalkınma Partisi,security,Guvenlik,1172.7,2532.3500000000004,0.4630876458625387
+2004,total,Anavatan Partisi,security,Guvenlik,61.1,2532.3500000000004,0.024127786443422113
+2004,total,Bağımsız,security,Guvenlik,11.15,2532.3500000000004,0.004403024858333169
+2004,total,Cumhuriyet Halk Partisi,security,Guvenlik,1231.15,2532.3500000000004,0.48616897348312826
+2004,total,Doğru Yol Partisi,security,Guvenlik,56.25,2532.3500000000004,0.022212569352577642
+2004,total,Adalet ve Kalkınma Partisi,sovereignty,Egemenlik,35.9,107.80000000000001,0.33302411873840443
+2004,total,Anavatan Partisi,sovereignty,Egemenlik,7.7,107.80000000000001,0.07142857142857142
+2004,total,Bağımsız,sovereignty,Egemenlik,2.0,107.80000000000001,0.018552875695732836
+2004,total,Cumhuriyet Halk Partisi,sovereignty,Egemenlik,61.2,107.80000000000001,0.5677179962894249
+2004,total,Doğru Yol Partisi,sovereignty,Egemenlik,1.0,107.80000000000001,0.009276437847866418
+2004,total,Adalet ve Kalkınma Partisi,tutelage,Vesayet,58.699999999999996,223.7,0.262405006705409
+2004,total,Anavatan Partisi,tutelage,Vesayet,3.75,223.7,0.01676352257487707
+2004,total,Bağımsız,tutelage,Vesayet,1.35,223.7,0.006034868126955745
+2004,total,Cumhuriyet Halk Partisi,tutelage,Vesayet,117.25,223.7,0.524139472507823
+2004,total,Doğru Yol Partisi,tutelage,Vesayet,42.65,223.7,0.19065713008493518
+2005,negative,Adalet ve Kalkınma Partisi,constitution,Anayasa,229.11779,719.90742,0.3182600757191807
+2005,negative,Anavatan Partisi,constitution,Anayasa,8.37509,719.90742,0.011633565327052748
+2005,negative,Bağımsız,constitution,Anayasa,5.22831,719.90742,0.007262475499974705
+2005,negative,Cumhuriyet Halk Partisi,constitution,Anayasa,453.07193,719.90742,0.6293474930429249
+2005,negative,Doğru Yol Partisi,constitution,Anayasa,24.1143,719.90742,0.033496390410866994
+2005,negative,Adalet ve Kalkınma Partisi,democracy,Demokrasi,92.95530000000001,244.54249000000002,0.38011921772776586
+2005,negative,Anavatan Partisi,democracy,Demokrasi,9.52191,244.54249000000002,0.038937650467205105
+2005,negative,Bağımsız,democracy,Demokrasi,0.675,244.54249000000002,0.0027602565100240863
+2005,negative,Cumhuriyet Halk Partisi,democracy,Demokrasi,138.24018999999998,244.54249000000002,0.5653013102140244
+2005,negative,Doğru Yol Partisi,democracy,Demokrasi,3.15009,244.54249000000002,0.012881565080980406
+2005,negative,Adalet ve Kalkınma Partisi,economy,Ekonomi,520.75663,1479.8481299999999,0.3518986978751664
+2005,negative,Anavatan Partisi,economy,Ekonomi,139.01289500000001,1479.8481299999999,0.09393727111713823
+2005,negative,Bağımsız,economy,Ekonomi,45.115399999999994,1479.8481299999999,0.030486506747148437
+2005,negative,Cumhuriyet Halk Partisi,economy,Ekonomi,727.711635,1479.8481299999999,0.49174751128009336
+2005,negative,Doğru Yol Partisi,economy,Ekonomi,47.25157,1479.8481299999999,0.031930012980453615
+2005,negative,Adalet ve Kalkınma Partisi,european_union,Avrupa Birligi,39.080569999999994,141.49991,0.27618794951883713
+2005,negative,Anavatan Partisi,european_union,Avrupa Birligi,11.912679999999998,141.49991,0.08418860478427158
+2005,negative,Bağımsız,european_union,Avrupa Birligi,11.700285000000001,141.49991,0.08268757909457328
+2005,negative,Cumhuriyet Halk Partisi,european_union,Avrupa Birligi,76.45637500000001,141.49991,0.5403280821874729
+2005,negative,Doğru Yol Partisi,european_union,Avrupa Birligi,2.35,141.49991,0.01660778441484521
+2005,negative,Adalet ve Kalkınma Partisi,imf,IMF,13.483265000000001,128.169735,0.10519850883673904
+2005,negative,Anavatan Partisi,imf,IMF,11.57938,128.169735,0.09034410502604223
+2005,negative,Cumhuriyet Halk Partisi,imf,IMF,102.43209,128.169735,0.7991909322430916
+2005,negative,Doğru Yol Partisi,imf,IMF,0.675,128.169735,0.005266453894127191
+2005,negative,Adalet ve Kalkınma Partisi,inflation,Enflasyon,31.47764,80.03377,0.39330447634792165
+2005,negative,Anavatan Partisi,inflation,Enflasyon,18.02969,80.03377,0.22527603035568608
+2005,negative,Bağımsız,inflation,Enflasyon,1.35,80.03377,0.016867879646304304
+2005,negative,Cumhuriyet Halk Partisi,inflation,Enflasyon,15.580449999999999,80.03377,0.19467344847056434
+2005,negative,Doğru Yol Partisi,inflation,Enflasyon,13.59599,80.03377,0.1698781651795236
+2005,negative,Adalet ve Kalkınma Partisi,interest,Faiz,128.648635,243.11260000000001,0.5291730457409447
+2005,negative,Anavatan Partisi,interest,Faiz,10.26425,243.11260000000001,0.04222014819470484
+2005,negative,Bağımsız,interest,Faiz,4.47519,243.11260000000001,0.018407890006523722
+2005,negative,Cumhuriyet Halk Partisi,interest,Faiz,89.220135,243.11260000000001,0.3669909951191341
+2005,negative,Doğru Yol Partisi,interest,Faiz,10.50439,243.11260000000001,0.04320792093869261
+2005,negative,Adalet ve Kalkınma Partisi,law_state,Hukuk Devleti,478.03526,1488.32192,0.3211907676532776
+2005,negative,Anavatan Partisi,law_state,Hukuk Devleti,41.81905999999999,1488.32192,0.0280981281253991
+2005,negative,Bağımsız,law_state,Hukuk Devleti,18.97291,1488.32192,0.012747853636396082
+2005,negative,Cumhuriyet Halk Partisi,law_state,Hukuk Devleti,920.5838,1488.32192,0.6185380915440659
+2005,negative,Doğru Yol Partisi,law_state,Hukuk Devleti,28.91089,1488.32192,0.019425159040861267
+2005,negative,Adalet ve Kalkınma Partisi,reform,Reform,36.724154999999996,87.278625,0.4207691745831238
+2005,negative,Anavatan Partisi,reform,Reform,4.35,87.278625,0.04984038188044323
+2005,negative,Bağımsız,reform,Reform,5.0687500000000005,87.278625,0.05807550244976935
+2005,negative,Cumhuriyet Halk Partisi,reform,Reform,38.82733,87.278625,0.4448664263443655
+2005,negative,Doğru Yol Partisi,reform,Reform,2.30839,87.278625,0.026448514742298014
+2005,negative,Adalet ve Kalkınma Partisi,security,Guvenlik,333.46502999999996,778.68471,0.42824139952613166
+2005,negative,Anavatan Partisi,security,Guvenlik,46.99589999999999,778.68471,0.060352925126782045
+2005,negative,Bağımsız,security,Guvenlik,56.863600000000005,778.68471,0.07302519141540612
+2005,negative,Cumhuriyet Halk Partisi,security,Guvenlik,318.39372000000003,778.68471,0.4088865697645457
+2005,negative,Doğru Yol Partisi,security,Guvenlik,22.96646,778.68471,0.029493914167134476
+2005,negative,Adalet ve Kalkınma Partisi,sovereignty,Egemenlik,6.941879999999999,10.100269999999998,0.6872964782129587
+2005,negative,Cumhuriyet Halk Partisi,sovereignty,Egemenlik,3.15839,10.100269999999998,0.31270352178704136
+2005,negative,Adalet ve Kalkınma Partisi,tutelage,Vesayet,48.148999999999994,99.54583,0.48368676015861234
+2005,negative,Anavatan Partisi,tutelage,Vesayet,0.675,99.54583,0.006780796342749868
+2005,negative,Cumhuriyet Halk Partisi,tutelage,Vesayet,50.04683,99.54583,0.5027516471558879
+2005,negative,Doğru Yol Partisi,tutelage,Vesayet,0.675,99.54583,0.006780796342749868
+2005,positive,Adalet ve Kalkınma Partisi,constitution,Anayasa,406.472805,1056.42523,0.3847624928458022
+2005,positive,Anavatan Partisi,constitution,Anayasa,30.05665,1056.42523,0.028451279983156025
+2005,positive,Bağımsız,constitution,Anayasa,7.685,1056.42523,0.007274532812890127
+2005,positive,Cumhuriyet Halk Partisi,constitution,Anayasa,562.44102,1056.42523,0.5324002153943256
+2005,positive,Doğru Yol Partisi,constitution,Anayasa,49.769755,1056.42523,0.04711147896382596
+2005,positive,Adalet ve Kalkınma Partisi,democracy,Demokrasi,254.64667,591.683595,0.430376424413119
+2005,positive,Anavatan Partisi,democracy,Demokrasi,34.12751,591.683595,0.05767864833230674
+2005,positive,Bağımsız,democracy,Demokrasi,14.77106,591.683595,0.024964457566209863
+2005,positive,Cumhuriyet Halk Partisi,democracy,Demokrasi,282.163165,591.683595,0.47688184594673444
+2005,positive,Doğru Yol Partisi,democracy,Demokrasi,5.97519,591.683595,0.010098623741630017
+2005,positive,Adalet ve Kalkınma Partisi,economy,Ekonomi,2158.0145899999998,3091.72347,0.6979972856369331
+2005,positive,Anavatan Partisi,economy,Ekonomi,173.919215,3091.72347,0.05625315998911119
+2005,positive,Bağımsız,economy,Ekonomi,33.954215,3091.72347,0.010982293639605486
+2005,positive,Cumhuriyet Halk Partisi,economy,Ekonomi,696.2971,3091.72347,0.22521325298216274
+2005,positive,Doğru Yol Partisi,economy,Ekonomi,29.53835,3091.72347,0.00955400775218749
+2005,positive,Adalet ve Kalkınma Partisi,european_union,Avrupa Birligi,273.581845,557.96421,0.4903214939180418
+2005,positive,Anavatan Partisi,european_union,Avrupa Birligi,28.328310000000002,557.96421,0.05077083707573287
+2005,positive,Bağımsız,european_union,Avrupa Birligi,18.28776,557.96421,0.03277586567783622
+2005,positive,Cumhuriyet Halk Partisi,european_union,Avrupa Birligi,220.212275,557.96421,0.39467096823289083
+2005,positive,Doğru Yol Partisi,european_union,Avrupa Birligi,17.55402,557.96421,0.03146083509549833
+2005,positive,Adalet ve Kalkınma Partisi,imf,IMF,18.39848,130.52658,0.1409558114523494
+2005,positive,Anavatan Partisi,imf,IMF,12.487860000000001,130.52658,0.09567292730721974
+2005,positive,Bağımsız,imf,IMF,10.96598,130.52658,0.0840133863922582
+2005,positive,Cumhuriyet Halk Partisi,imf,IMF,81.62087,130.52658,0.6253199156830739
+2005,positive,Doğru Yol Partisi,imf,IMF,7.05339,130.52658,0.05403795916509879
+2005,positive,Adalet ve Kalkınma Partisi,inflation,Enflasyon,141.357015,168.293075,0.839945523605175
+2005,positive,Anavatan Partisi,inflation,Enflasyon,1.13339,168.293075,0.0067346205421702585
+2005,positive,Bağımsız,inflation,Enflasyon,1.35,168.293075,0.008021720442151289
+2005,positive,Cumhuriyet Halk Partisi,inflation,Enflasyon,23.77767,168.293075,0.14128727518942774
+2005,positive,Doğru Yol Partisi,inflation,Enflasyon,0.675,168.293075,0.0040108602210756445
+2005,positive,Adalet ve Kalkınma Partisi,interest,Faiz,194.56256000000002,269.70141,0.7213998621660895
+2005,positive,Anavatan Partisi,interest,Faiz,12.9925,269.70141,0.04817364506918966
+2005,positive,Bağımsız,interest,Faiz,0.675,269.70141,0.0025027677830827804
+2005,positive,Cumhuriyet Halk Partisi,interest,Faiz,61.47135,269.70141,0.22792372498163802
+2005,positive,Adalet ve Kalkınma Partisi,law_state,Hukuk Devleti,628.9844499999999,2009.714,0.31297211941599645
+2005,positive,Anavatan Partisi,law_state,Hukuk Devleti,39.790245,2009.714,0.019798958956349012
+2005,positive,Bağımsız,law_state,Hukuk Devleti,16.54846,2009.714,0.008234236314221825
+2005,positive,Cumhuriyet Halk Partisi,law_state,Hukuk Devleti,1304.056975,2009.714,0.6488768924334507
+2005,positive,Doğru Yol Partisi,law_state,Hukuk Devleti,20.33387,2009.714,0.010117792879981928
+2005,positive,Adalet ve Kalkınma Partisi,reform,Reform,204.801065,318.95723499999997,0.642095687216501
+2005,positive,Anavatan Partisi,reform,Reform,24.98584,318.95723499999997,0.07833601893369813
+2005,positive,Cumhuriyet Halk Partisi,reform,Reform,87.82033,318.95723499999997,0.275335751515403
+2005,positive,Doğru Yol Partisi,reform,Reform,1.35,318.95723499999997,0.004232542334397902
+2005,positive,Adalet ve Kalkınma Partisi,security,Guvenlik,242.926015,455.03969500000005,0.5338567550683683
+2005,positive,Anavatan Partisi,security,Guvenlik,31.779585000000004,455.03969500000005,0.0698391488681004
+2005,positive,Bağımsız,security,Guvenlik,11.86573,455.03969500000005,0.02607625253440801
+2005,positive,Cumhuriyet Halk Partisi,security,Guvenlik,132.949285,455.03969500000005,0.29217074128005466
+2005,positive,Doğru Yol Partisi,security,Guvenlik,35.51908,455.03969500000005,0.07805710224906862
+2005,positive,Adalet ve Kalkınma Partisi,sovereignty,Egemenlik,9.299865,15.649955,0.5942422837637552
+2005,positive,Anavatan Partisi,sovereignty,Egemenlik,2.47509,15.649955,0.1581531704084772
+2005,positive,Bağımsız,sovereignty,Egemenlik,0.675,15.649955,0.04313111443451435
+2005,positive,Cumhuriyet Halk Partisi,sovereignty,Egemenlik,3.2,15.649955,0.20447343139325322
+2005,positive,Cumhuriyet Halk Partisi,tutelage,Vesayet,0.96,0.96,1.0
+2005,total,Adalet ve Kalkınma Partisi,constitution,Anayasa,1848.35,5214.8,0.35444312341796425
+2005,total,Anavatan Partisi,constitution,Anayasa,138.15,5214.8,0.026491907647464907
+2005,total,Bağımsız,constitution,Anayasa,57.25,5214.8,0.010978369256730843
+2005,total,Cumhuriyet Halk Partisi,constitution,Anayasa,2876.95,5214.8,0.5516894224131318
+2005,total,Doğru Yol Partisi,constitution,Anayasa,294.09999999999997,5214.8,0.05639717726470813
+2005,total,Adalet ve Kalkınma Partisi,democracy,Demokrasi,960.5,2419.3999999999996,0.3969992560138878
+2005,total,Anavatan Partisi,democracy,Demokrasi,123.35,2419.3999999999996,0.05098371497065388
+2005,total,Bağımsız,democracy,Demokrasi,65.25,2419.3999999999996,0.026969496569397376
+2005,total,Cumhuriyet Halk Partisi,democracy,Demokrasi,1222.05,2419.3999999999996,0.5051045713813342
+2005,total,Doğru Yol Partisi,democracy,Demokrasi,48.25,2419.3999999999996,0.019942961064726795
+2005,total,Adalet ve Kalkınma Partisi,economy,Ekonomi,5026.6,10281.2,0.48891180017896746
+2005,total,Anavatan Partisi,economy,Ekonomi,727.8,10281.2,0.07078940201532893
+2005,total,Bağımsız,economy,Ekonomi,206.4,10281.2,0.02007547757071159
+2005,total,Cumhuriyet Halk Partisi,economy,Ekonomi,4056.55,10281.2,0.3945599735439443
+2005,total,Doğru Yol Partisi,economy,Ekonomi,263.85,10281.2,0.025663346691047736
+2005,total,Adalet ve Kalkınma Partisi,european_union,Avrupa Birligi,846.5,1972.1999999999998,0.4292161038434236
+2005,total,Anavatan Partisi,european_union,Avrupa Birligi,98.85,1972.1999999999998,0.050121691512017036
+2005,total,Bağımsız,european_union,Avrupa Birligi,66.3,1972.1999999999998,0.033617280194706424
+2005,total,Cumhuriyet Halk Partisi,european_union,Avrupa Birligi,909.4499999999999,1972.1999999999998,0.4611347733495589
+2005,total,Doğru Yol Partisi,european_union,Avrupa Birligi,51.1,1972.1999999999998,0.025910151100294092
+2005,total,Adalet ve Kalkınma Partisi,imf,IMF,124.0,856.1000000000001,0.14484289218549232
+2005,total,Anavatan Partisi,imf,IMF,71.5,856.1000000000001,0.0835182805746992
+2005,total,Bağımsız,imf,IMF,17.2,856.1000000000001,0.02009111085153603
+2005,total,Cumhuriyet Halk Partisi,imf,IMF,618.95,856.1000000000001,0.7229879686952458
+2005,total,Doğru Yol Partisi,imf,IMF,24.45,856.1000000000001,0.02855974769302651
+2005,total,Adalet ve Kalkınma Partisi,inflation,Enflasyon,415.05,719.45,0.576899020084787
+2005,total,Anavatan Partisi,inflation,Enflasyon,55.2,719.45,0.07672527625269303
+2005,total,Bağımsız,inflation,Enflasyon,11.100000000000001,719.45,0.015428452289943708
+2005,total,Cumhuriyet Halk Partisi,inflation,Enflasyon,193.65,719.45,0.26916394467996385
+2005,total,Doğru Yol Partisi,inflation,Enflasyon,44.45,719.45,0.061783306692612415
+2005,total,Adalet ve Kalkınma Partisi,interest,Faiz,981.45,1750.65,0.560620341016194
+2005,total,Anavatan Partisi,interest,Faiz,101.45,1750.65,0.057949904321252105
+2005,total,Bağımsız,interest,Faiz,16.4,1750.65,0.009367949047496642
+2005,total,Cumhuriyet Halk Partisi,interest,Faiz,625.6,1750.65,0.35735298317767683
+2005,total,Doğru Yol Partisi,interest,Faiz,25.75,1750.65,0.0147088224373804
+2005,total,Adalet ve Kalkınma Partisi,law_state,Hukuk Devleti,2975.05,9160.1,0.3247835722317442
+2005,total,Anavatan Partisi,law_state,Hukuk Devleti,209.0,9160.1,0.02281634479972926
+2005,total,Bağımsız,law_state,Hukuk Devleti,81.89999999999999,9160.1,0.008940950426305388
+2005,total,Cumhuriyet Halk Partisi,law_state,Hukuk Devleti,5723.45,9160.1,0.6248239648038777
+2005,total,Doğru Yol Partisi,law_state,Hukuk Devleti,170.7,9160.1,0.018635167738343467
+2005,total,Adalet ve Kalkınma Partisi,reform,Reform,695.3,1213.0,0.5732069249793899
+2005,total,Anavatan Partisi,reform,Reform,71.05,1213.0,0.058573784006595214
+2005,total,Bağımsız,reform,Reform,8.8,1213.0,0.007254740313272878
+2005,total,Cumhuriyet Halk Partisi,reform,Reform,420.1,1213.0,0.34633140972794724
+2005,total,Doğru Yol Partisi,reform,Reform,17.75,1213.0,0.014633140972794724
+2005,total,Adalet ve Kalkınma Partisi,security,Guvenlik,1556.1,3480.85,0.4470459801485269
+2005,total,Anavatan Partisi,security,Guvenlik,196.6,3480.85,0.05648045735955298
+2005,total,Bağımsız,security,Guvenlik,156.5,3480.85,0.04496028268957295
+2005,total,Cumhuriyet Halk Partisi,security,Guvenlik,1415.0,3480.85,0.40650990419006855
+2005,total,Doğru Yol Partisi,security,Guvenlik,156.65,3480.85,0.045003375612278615
+2005,total,Adalet ve Kalkınma Partisi,sovereignty,Egemenlik,46.95,83.2,0.5643028846153846
+2005,total,Anavatan Partisi,sovereignty,Egemenlik,5.050000000000001,83.2,0.06069711538461539
+2005,total,Bağımsız,sovereignty,Egemenlik,1.35,83.2,0.01622596153846154
+2005,total,Cumhuriyet Halk Partisi,sovereignty,Egemenlik,28.85,83.2,0.3467548076923077
+2005,total,Doğru Yol Partisi,sovereignty,Egemenlik,1.0,83.2,0.012019230769230768
+2005,total,Adalet ve Kalkınma Partisi,tutelage,Vesayet,95.64999999999999,178.35,0.536305018222596
+2005,total,Anavatan Partisi,tutelage,Vesayet,3.05,178.35,0.01710120549481357
+2005,total,Cumhuriyet Halk Partisi,tutelage,Vesayet,76.6,178.35,0.4294925707877768
+2005,total,Doğru Yol Partisi,tutelage,Vesayet,3.05,178.35,0.01710120549481357
+2006,negative,Adalet ve Kalkınma Partisi,constitution,Anayasa,165.613425,439.701365,0.3766497859291385
+2006,negative,Anavatan Partisi,constitution,Anayasa,49.76622999999999,439.701365,0.1131818865288262
+2006,negative,Bağımsız,constitution,Anayasa,33.6616,439.701365,0.07655559586447952
+2006,negative,Cumhuriyet Halk Partisi,constitution,Anayasa,158.33483999999999,439.701365,0.3600963121867952
+2006,negative,Doğru Yol Partisi,constitution,Anayasa,32.32527,439.701365,0.07351641949076052
+2006,negative,Adalet ve Kalkınma Partisi,democracy,Demokrasi,45.79285,188.47982,0.24295890138265203
+2006,negative,Anavatan Partisi,democracy,Demokrasi,26.04132,188.47982,0.13816503008120445
+2006,negative,Bağımsız,democracy,Demokrasi,2.47509,188.47982,0.013131856768538935
+2006,negative,Cumhuriyet Halk Partisi,democracy,Demokrasi,103.82975,188.47982,0.550879929745264
+2006,negative,Doğru Yol Partisi,democracy,Demokrasi,10.34081,188.47982,0.054864282022340644
+2006,negative,Adalet ve Kalkınma Partisi,economy,Ekonomi,386.316795,1273.20196,0.30342145797513537
+2006,negative,Anavatan Partisi,economy,Ekonomi,202.32091000000003,1273.20196,0.1589071619085475
+2006,negative,Bağımsız,economy,Ekonomi,75.28248,1273.20196,0.05912846694015457
+2006,negative,Cumhuriyet Halk Partisi,economy,Ekonomi,512.0654949999999,1273.20196,0.4021871714680677
+2006,negative,Doğru Yol Partisi,economy,Ekonomi,97.21628000000001,1273.20196,0.07635574170809477
+2006,negative,Adalet ve Kalkınma Partisi,european_union,Avrupa Birligi,44.93413,168.43796,0.2667696165401196
+2006,negative,Anavatan Partisi,european_union,Avrupa Birligi,16.014380000000003,168.43796,0.0950758368244308
+2006,negative,Bağımsız,european_union,Avrupa Birligi,9.12886,168.43796,0.05419716553204515
+2006,negative,Cumhuriyet Halk Partisi,european_union,Avrupa Birligi,97.2272,168.43796,0.5772285534685886
+2006,negative,Doğru Yol Partisi,european_union,Avrupa Birligi,1.13339,168.43796,0.006728827634815809
+2006,negative,Adalet ve Kalkınma Partisi,imf,IMF,7.645000000000001,168.74378000000002,0.04530537362621603
+2006,negative,Anavatan Partisi,imf,IMF,64.734555,168.74378000000002,0.3836263179596901
+2006,negative,Bağımsız,imf,IMF,2.4350000000000005,168.74378000000002,0.014430161514694055
+2006,negative,Cumhuriyet Halk Partisi,imf,IMF,86.066635,168.74378000000002,0.5100433035220616
+2006,negative,Doğru Yol Partisi,imf,IMF,7.86259,168.74378000000002,0.04659484337733811
+2006,negative,Adalet ve Kalkınma Partisi,inflation,Enflasyon,36.60205,104.84256500000001,0.34911440787432085
+2006,negative,Anavatan Partisi,inflation,Enflasyon,17.291475,104.84256500000001,0.16492800419371653
+2006,negative,Bağımsız,inflation,Enflasyon,11.095,104.84256500000001,0.10582533916448915
+2006,negative,Cumhuriyet Halk Partisi,inflation,Enflasyon,24.87036,104.84256500000001,0.23721624895384807
+2006,negative,Doğru Yol Partisi,inflation,Enflasyon,14.98368,104.84256500000001,0.1429159998136253
+2006,negative,Adalet ve Kalkınma Partisi,interest,Faiz,81.30796,292.068465,0.2783866447204425
+2006,negative,Anavatan Partisi,interest,Faiz,51.234385,292.068465,0.1754190922323641
+2006,negative,Bağımsız,interest,Faiz,11.60839,292.068465,0.03974544119304355
+2006,negative,Cumhuriyet Halk Partisi,interest,Faiz,119.49600000000001,292.068465,0.4091369467087109
+2006,negative,Doğru Yol Partisi,interest,Faiz,28.42173,292.068465,0.09731187514543893
+2006,negative,Adalet ve Kalkınma Partisi,law_state,Hukuk Devleti,307.76153,870.77388,0.353434498976933
+2006,negative,Anavatan Partisi,law_state,Hukuk Devleti,58.625705,870.77388,0.06732598019591493
+2006,negative,Bağımsız,law_state,Hukuk Devleti,6.975289999999999,870.77388,0.008010449279898014
+2006,negative,Cumhuriyet Halk Partisi,law_state,Hukuk Devleti,477.003375,870.77388,0.5477924705320744
+2006,negative,Doğru Yol Partisi,law_state,Hukuk Devleti,20.40798,870.77388,0.023436601015179737
+2006,negative,Adalet ve Kalkınma Partisi,reform,Reform,86.00758,174.450525,0.49301989776184396
+2006,negative,Anavatan Partisi,reform,Reform,23.01708,174.450525,0.13194044557905457
+2006,negative,Cumhuriyet Halk Partisi,reform,Reform,59.775865,174.450525,0.3426522505449611
+2006,negative,Doğru Yol Partisi,reform,Reform,5.6499999999999995,174.450525,0.03238740611414038
+2006,negative,Adalet ve Kalkınma Partisi,security,Guvenlik,404.190515,1066.205405,0.37909253986571195
+2006,negative,Anavatan Partisi,security,Guvenlik,138.66114,1066.205405,0.1300510570943879
+2006,negative,Bağımsız,security,Guvenlik,43.45073,1066.205405,0.04075268217196855
+2006,negative,Cumhuriyet Halk Partisi,security,Guvenlik,435.632755,1066.205405,0.40858239224551673
+2006,negative,Doğru Yol Partisi,security,Guvenlik,44.270265,1066.205405,0.041521328622414935
+2006,negative,Adalet ve Kalkınma Partisi,sovereignty,Egemenlik,3.80849,12.091755,0.31496585896753615
+2006,negative,Bağımsız,sovereignty,Egemenlik,0.675,12.091755,0.05582316214643781
+2006,negative,Cumhuriyet Halk Partisi,sovereignty,Egemenlik,7.608265,12.091755,0.6292109788860262
+2006,negative,Adalet ve Kalkınma Partisi,tutelage,Vesayet,10.498249999999999,24.977849999999997,0.4203023879156933
+2006,negative,Anavatan Partisi,tutelage,Vesayet,1.13339,24.977849999999997,0.04537580296142382
+2006,negative,Cumhuriyet Halk Partisi,tutelage,Vesayet,13.34621,24.977849999999997,0.534321809122883
+2006,positive,Adalet ve Kalkınma Partisi,constitution,Anayasa,173.89667500000002,604.416695,0.28770991343976693
+2006,positive,Anavatan Partisi,constitution,Anayasa,54.262550000000005,604.416695,0.08977672266316206
+2006,positive,Bağımsız,constitution,Anayasa,21.92385,604.416695,0.03627274061316258
+2006,positive,Cumhuriyet Halk Partisi,constitution,Anayasa,335.66496,604.416695,0.555353554553949
+2006,positive,Doğru Yol Partisi,constitution,Anayasa,18.66866,604.416695,0.03088706872995955
+2006,positive,Adalet ve Kalkınma Partisi,democracy,Demokrasi,202.576095,407.92789000000005,0.49659780555823235
+2006,positive,Anavatan Partisi,democracy,Demokrasi,27.700865,407.92789000000005,0.06790627872980197
+2006,positive,Bağımsız,democracy,Demokrasi,11.12175,407.92789000000005,0.027264009822912574
+2006,positive,Cumhuriyet Halk Partisi,democracy,Demokrasi,166.52918,407.92789000000005,0.408231905889053
+2006,positive,Adalet ve Kalkınma Partisi,economy,Ekonomi,1464.859095,3012.710705,0.4862262720973735
+2006,positive,Anavatan Partisi,economy,Ekonomi,472.73706,3012.710705,0.15691419000683637
+2006,positive,Bağımsız,economy,Ekonomi,158.974885,3012.710705,0.05276805527200462
+2006,positive,Cumhuriyet Halk Partisi,economy,Ekonomi,853.4426550000001,3012.710705,0.28328065273031255
+2006,positive,Doğru Yol Partisi,economy,Ekonomi,62.69701,3012.710705,0.02081082989347296
+2006,positive,Adalet ve Kalkınma Partisi,european_union,Avrupa Birligi,271.014385,633.96932,0.4274881708786791
+2006,positive,Anavatan Partisi,european_union,Avrupa Birligi,116.107495,633.96932,0.18314371269575
+2006,positive,Bağımsız,european_union,Avrupa Birligi,45.434650000000005,633.96932,0.07166695385196242
+2006,positive,Cumhuriyet Halk Partisi,european_union,Avrupa Birligi,190.8819,633.96932,0.30109012215291425
+2006,positive,Doğru Yol Partisi,european_union,Avrupa Birligi,10.53089,633.96932,0.016611040420694174
+2006,positive,Adalet ve Kalkınma Partisi,imf,IMF,13.603455000000002,78.500815,0.173290621250238
+2006,positive,Anavatan Partisi,imf,IMF,35.795359999999995,78.500815,0.4559871130000369
+2006,positive,Bağımsız,imf,IMF,1.175,78.500815,0.01496799746601357
+2006,positive,Cumhuriyet Halk Partisi,imf,IMF,24.902,78.500815,0.3172196365095063
+2006,positive,Doğru Yol Partisi,imf,IMF,3.0250000000000004,78.500815,0.03853463177420515
+2006,positive,Adalet ve Kalkınma Partisi,inflation,Enflasyon,66.34603,118.04177,0.5620555333929675
+2006,positive,Anavatan Partisi,inflation,Enflasyon,14.07697,118.04177,0.11925414198719655
+2006,positive,Cumhuriyet Halk Partisi,inflation,Enflasyon,28.075180000000003,118.04177,0.23784106253235615
+2006,positive,Doğru Yol Partisi,inflation,Enflasyon,9.54359,118.04177,0.08084926208747971
+2006,positive,Adalet ve Kalkınma Partisi,interest,Faiz,112.08729,286.26503,0.3915507597976602
+2006,positive,Anavatan Partisi,interest,Faiz,44.742194999999995,286.26503,0.15629640476868584
+2006,positive,Bağımsız,interest,Faiz,5.666790000000001,286.26503,0.019795606889182377
+2006,positive,Cumhuriyet Halk Partisi,interest,Faiz,120.418755,286.26503,0.42065478623078756
+2006,positive,Doğru Yol Partisi,interest,Faiz,3.3499999999999996,286.26503,0.011702442313683928
+2006,positive,Adalet ve Kalkınma Partisi,law_state,Hukuk Devleti,627.311055,1453.67605,0.4315342850974259
+2006,positive,Anavatan Partisi,law_state,Hukuk Devleti,163.838535,1453.67605,0.11270635916440944
+2006,positive,Bağımsız,law_state,Hukuk Devleti,18.21187,1453.67605,0.012528148895347075
+2006,positive,Cumhuriyet Halk Partisi,law_state,Hukuk Devleti,635.3987,1453.67605,0.43709786647444593
+2006,positive,Doğru Yol Partisi,law_state,Hukuk Devleti,8.915890000000001,1453.67605,0.00613334036837162
+2006,positive,Adalet ve Kalkınma Partisi,reform,Reform,142.92876,248.05324000000002,0.5762019476141493
+2006,positive,Anavatan Partisi,reform,Reform,60.174980000000005,248.05324000000002,0.24258897001305044
+2006,positive,Bağımsız,reform,Reform,6.75759,248.05324000000002,0.027242498424934904
+2006,positive,Cumhuriyet Halk Partisi,reform,Reform,35.491910000000004,248.05324000000002,0.14308182388587226
+2006,positive,Doğru Yol Partisi,reform,Reform,2.7,248.05324000000002,0.010884760061993144
+2006,positive,Adalet ve Kalkınma Partisi,security,Guvenlik,655.28073,989.1815099999999,0.6624474106880547
+2006,positive,Anavatan Partisi,security,Guvenlik,63.996345,989.1815099999999,0.06469626085105452
+2006,positive,Bağımsız,security,Guvenlik,47.44705999999999,989.1815099999999,0.047965979469228044
+2006,positive,Cumhuriyet Halk Partisi,security,Guvenlik,157.137915,989.1815099999999,0.15885650248355332
+2006,positive,Doğru Yol Partisi,security,Guvenlik,65.31946,989.1815099999999,0.06603384650810953
+2006,positive,Adalet ve Kalkınma Partisi,sovereignty,Egemenlik,0.675,10.81429,0.06241741251621698
+2006,positive,Anavatan Partisi,sovereignty,Egemenlik,1.35,10.81429,0.12483482503243395
+2006,positive,Bağımsız,sovereignty,Egemenlik,1.80009,10.81429,0.16645475569824741
+2006,positive,Cumhuriyet Halk Partisi,sovereignty,Egemenlik,6.989199999999999,10.81429,0.6462930067531016
+2006,positive,Cumhuriyet Halk Partisi,tutelage,Vesayet,1.025,1.025,1.0
+2006,total,Adalet ve Kalkınma Partisi,constitution,Anayasa,1325.1,3627.6,0.3652828316242143
+2006,total,Anavatan Partisi,constitution,Anayasa,315.0,3627.6,0.08683427059212703
+2006,total,Bağımsız,constitution,Anayasa,184.25,3627.6,0.05079115668761716
+2006,total,Cumhuriyet Halk Partisi,constitution,Anayasa,1629.45,3627.6,0.44918127687727427
+2006,total,Doğru Yol Partisi,constitution,Anayasa,173.8,3627.6,0.04791046421876723
+2006,total,Adalet ve Kalkınma Partisi,democracy,Demokrasi,689.65,1835.05,0.3758208223209177
+2006,total,Anavatan Partisi,democracy,Demokrasi,151.65,1835.05,0.08264079997820223
+2006,total,Bağımsız,democracy,Demokrasi,131.75,1835.05,0.07179640881719844
+2006,total,Cumhuriyet Halk Partisi,democracy,Demokrasi,835.45,1835.05,0.4552736982643525
+2006,total,Doğru Yol Partisi,democracy,Demokrasi,26.55,1835.05,0.014468270619329175
+2006,total,Adalet ve Kalkınma Partisi,economy,Ekonomi,3966.25,9888.05,0.40111548788689383
+2006,total,Anavatan Partisi,economy,Ekonomi,1541.3,9888.05,0.15587502085851104
+2006,total,Bağımsız,economy,Ekonomi,603.4,9888.05,0.061023154211396584
+2006,total,Cumhuriyet Halk Partisi,economy,Ekonomi,3375.55,9888.05,0.34137671229413286
+2006,total,Doğru Yol Partisi,economy,Ekonomi,401.55,9888.05,0.04060962474906579
+2006,total,Adalet ve Kalkınma Partisi,european_union,Avrupa Birligi,781.6,2104.5,0.3713946305535757
+2006,total,Anavatan Partisi,european_union,Avrupa Birligi,324.75,2104.5,0.154312188168211
+2006,total,Bağımsız,european_union,Avrupa Birligi,145.15,2104.5,0.0689712520788786
+2006,total,Cumhuriyet Halk Partisi,european_union,Avrupa Birligi,828.35,2104.5,0.3936089332382989
+2006,total,Doğru Yol Partisi,european_union,Avrupa Birligi,24.65,2104.5,0.011712995961035874
+2006,total,Adalet ve Kalkınma Partisi,imf,IMF,112.44999999999999,725.35,0.15502860687943748
+2006,total,Anavatan Partisi,imf,IMF,229.4,725.35,0.3162611153236369
+2006,total,Bağımsız,imf,IMF,22.85,725.35,0.03150203350106845
+2006,total,Cumhuriyet Halk Partisi,imf,IMF,331.8,725.35,0.4574343420417729
+2006,total,Doğru Yol Partisi,imf,IMF,28.849999999999998,725.35,0.03977390225408423
+2006,total,Adalet ve Kalkınma Partisi,inflation,Enflasyon,349.8,869.4,0.40234644582470674
+2006,total,Anavatan Partisi,inflation,Enflasyon,165.9,869.4,0.19082125603864736
+2006,total,Bağımsız,inflation,Enflasyon,26.75,869.4,0.03076834598573729
+2006,total,Cumhuriyet Halk Partisi,inflation,Enflasyon,234.65,869.4,0.269898780768346
+2006,total,Doğru Yol Partisi,inflation,Enflasyon,92.3,869.4,0.10616517138256269
+2006,total,Adalet ve Kalkınma Partisi,interest,Faiz,606.5,1726.25,0.35133960897900074
+2006,total,Anavatan Partisi,interest,Faiz,292.84999999999997,1726.25,0.16964518464880518
+2006,total,Bağımsız,interest,Faiz,58.95,1726.25,0.034149167270094136
+2006,total,Cumhuriyet Halk Partisi,interest,Faiz,656.9,1726.25,0.38053584359160025
+2006,total,Doğru Yol Partisi,interest,Faiz,111.05,1726.25,0.06433019551049964
+2006,total,Adalet ve Kalkınma Partisi,law_state,Hukuk Devleti,2587.8,6173.3,0.4191923282523124
+2006,total,Anavatan Partisi,law_state,Hukuk Devleti,529.85,6173.3,0.08582929713443377
+2006,total,Bağımsız,law_state,Hukuk Devleti,88.6,6173.3,0.014352129331151894
+2006,total,Cumhuriyet Halk Partisi,law_state,Hukuk Devleti,2889.9,6173.3,0.46812887758573213
+2006,total,Doğru Yol Partisi,law_state,Hukuk Devleti,77.15,6173.3,0.012497367696369851
+2006,total,Adalet ve Kalkınma Partisi,reform,Reform,751.65,1355.55,0.554498174172845
+2006,total,Anavatan Partisi,reform,Reform,230.5,1355.55,0.17004168049869056
+2006,total,Bağımsız,reform,Reform,20.5,1355.55,0.015123012799232784
+2006,total,Cumhuriyet Halk Partisi,reform,Reform,326.7,1355.55,0.24100918446387076
+2006,total,Doğru Yol Partisi,reform,Reform,26.2,1355.55,0.019327948065360923
+2006,total,Adalet ve Kalkınma Partisi,security,Guvenlik,2841.8,5789.1,0.49088804822856746
+2006,total,Anavatan Partisi,security,Guvenlik,623.55,5789.1,0.1077110431673317
+2006,total,Bağımsız,security,Guvenlik,204.35,5789.1,0.03529909657805185
+2006,total,Cumhuriyet Halk Partisi,security,Guvenlik,1781.35,5789.1,0.3077075883988875
+2006,total,Doğru Yol Partisi,security,Guvenlik,338.05,5789.1,0.05839422362716139
+2006,total,Adalet ve Kalkınma Partisi,sovereignty,Egemenlik,12.4,80.44999999999999,0.15413300186451215
+2006,total,Anavatan Partisi,sovereignty,Egemenlik,14.7,80.44999999999999,0.18272218769422002
+2006,total,Bağımsız,sovereignty,Egemenlik,4.050000000000001,80.44999999999999,0.05034182722187696
+2006,total,Cumhuriyet Halk Partisi,sovereignty,Egemenlik,47.3,80.44999999999999,0.5879428216283407
+2006,total,Doğru Yol Partisi,sovereignty,Egemenlik,2.0,80.44999999999999,0.024860161591050346
+2006,total,Adalet ve Kalkınma Partisi,tutelage,Vesayet,17.0,50.95,0.3336604514229637
+2006,total,Anavatan Partisi,tutelage,Vesayet,5.1,50.95,0.1000981354268891
+2006,total,Cumhuriyet Halk Partisi,tutelage,Vesayet,28.85,50.95,0.5662414131501472
+2007,negative,Adalet ve Kalkınma Partisi,constitution,Anayasa,91.16727999999999,350.82368,0.2598663807414596
+2007,negative,Anavatan Partisi,constitution,Anayasa,22.25886,350.82368,0.06344742749406197
+2007,negative,Bağımsız,constitution,Anayasa,2.85,350.82368,0.008123738967677438
+2007,negative,Cumhuriyet Halk Partisi,constitution,Anayasa,230.73075,350.82368,0.6576829420408565
+2007,negative,Doğru Yol Partisi,constitution,Anayasa,3.81679,350.82368,0.01087951075594441
+2007,negative,Adalet ve Kalkınma Partisi,democracy,Demokrasi,64.239425,165.052095,0.38920696523118953
+2007,negative,Anavatan Partisi,democracy,Demokrasi,7.12518,165.052095,0.04316927937206735
+2007,negative,Bağımsız,democracy,Demokrasi,9.80018,165.052095,0.059376283590947446
+2007,negative,Cumhuriyet Halk Partisi,democracy,Demokrasi,83.88731,165.052095,0.5082474718057955
+2007,negative,Adalet ve Kalkınma Partisi,economy,Ekonomi,92.39483999999999,418.8898,0.22057075631824885
+2007,negative,Anavatan Partisi,economy,Ekonomi,109.639865,418.8898,0.2617391614691979
+2007,negative,Bağımsız,economy,Ekonomi,37.45225,418.8898,0.08940835990754609
+2007,negative,Cumhuriyet Halk Partisi,economy,Ekonomi,157.40251,418.8898,0.37576114290679796
+2007,negative,Doğru Yol Partisi,economy,Ekonomi,22.000335,418.8898,0.05252057939820927
+2007,negative,Adalet ve Kalkınma Partisi,european_union,Avrupa Birligi,43.450355,108.489425,0.4005031365960323
+2007,negative,Anavatan Partisi,european_union,Avrupa Birligi,11.0875,108.489425,0.10219890095278872
+2007,negative,Bağımsız,european_union,Avrupa Birligi,23.1255,108.489425,0.21315902448556623
+2007,negative,Cumhuriyet Halk Partisi,european_union,Avrupa Birligi,30.15107,108.489425,0.27791713339802476
+2007,negative,Doğru Yol Partisi,european_union,Avrupa Birligi,0.675,108.489425,0.00622180456758804
+2007,negative,Adalet ve Kalkınma Partisi,imf,IMF,0.675,7.650179999999999,0.08823321804192845
+2007,negative,Anavatan Partisi,imf,IMF,0.675,7.650179999999999,0.08823321804192845
+2007,negative,Cumhuriyet Halk Partisi,imf,IMF,6.300179999999999,7.650179999999999,0.8235335639161432
+2007,negative,Adalet ve Kalkınma Partisi,inflation,Enflasyon,2.97509,9.58776,0.31030084190676444
+2007,negative,Cumhuriyet Halk Partisi,inflation,Enflasyon,5.47928,9.58776,0.571486979231854
+2007,negative,Doğru Yol Partisi,inflation,Enflasyon,1.13339,9.58776,0.11821217886138159
+2007,negative,Adalet ve Kalkınma Partisi,interest,Faiz,30.71066,48.85289,0.6286354809306062
+2007,negative,Anavatan Partisi,interest,Faiz,3.7,48.85289,0.07573758686538298
+2007,negative,Bağımsız,interest,Faiz,0.675,48.85289,0.013816992198414464
+2007,negative,Cumhuriyet Halk Partisi,interest,Faiz,8.63364,48.85289,0.17672731336876896
+2007,negative,Doğru Yol Partisi,interest,Faiz,5.13359,48.85289,0.10508262663682741
+2007,negative,Adalet ve Kalkınma Partisi,law_state,Hukuk Devleti,67.636925,252.20303,0.268184426650227
+2007,negative,Anavatan Partisi,law_state,Hukuk Devleti,24.32912,252.20303,0.09646640645039038
+2007,negative,Bağımsız,law_state,Hukuk Devleti,8.77538,252.20303,0.034794903138158174
+2007,negative,Cumhuriyet Halk Partisi,law_state,Hukuk Devleti,145.346605,252.20303,0.5763079254043855
+2007,negative,Doğru Yol Partisi,law_state,Hukuk Devleti,6.115,252.20303,0.024246338356838933
+2007,negative,Adalet ve Kalkınma Partisi,reform,Reform,6.375089999999999,12.16687,0.5239712432203187
+2007,negative,Anavatan Partisi,reform,Reform,3.98339,12.16687,0.32739644625117226
+2007,negative,Cumhuriyet Halk Partisi,reform,Reform,1.13339,12.16687,0.09315378564906175
+2007,negative,Doğru Yol Partisi,reform,Reform,0.675,12.16687,0.055478524879447225
+2007,negative,Adalet ve Kalkınma Partisi,security,Guvenlik,157.20880499999998,443.93035499999996,0.35412943320805357
+2007,negative,Anavatan Partisi,security,Guvenlik,49.35913,443.93035499999996,0.11118665223962891
+2007,negative,Bağımsız,security,Guvenlik,17.033165,443.93035499999996,0.03836900272341143
+2007,negative,Cumhuriyet Halk Partisi,security,Guvenlik,208.094615,443.93035499999996,0.46875509335242466
+2007,negative,Doğru Yol Partisi,security,Guvenlik,12.234639999999999,443.93035499999996,0.027559818476481517
+2007,negative,Adalet ve Kalkınma Partisi,sovereignty,Egemenlik,7.5419599999999996,18.824460000000002,0.40064681802293395
+2007,negative,Anavatan Partisi,sovereignty,Egemenlik,7.3875,18.824460000000002,0.39244153617155547
+2007,negative,Cumhuriyet Halk Partisi,sovereignty,Egemenlik,3.8950000000000005,18.824460000000002,0.2069116458055105
+2007,negative,Adalet ve Kalkınma Partisi,tutelage,Vesayet,2.48339,18.54914,0.13388167861151512
+2007,negative,Anavatan Partisi,tutelage,Vesayet,4.72253,18.54914,0.2545956308486539
+2007,negative,Cumhuriyet Halk Partisi,tutelage,Vesayet,11.343220000000002,18.54914,0.611522690539831
+2007,positive,Adalet ve Kalkınma Partisi,constitution,Anayasa,119.70492000000002,293.42808,0.4079531856664843
+2007,positive,Anavatan Partisi,constitution,Anayasa,28.755159999999997,293.42808,0.09799730141709681
+2007,positive,Bağımsız,constitution,Anayasa,1.85,293.42808,0.006304781737317028
+2007,positive,Cumhuriyet Halk Partisi,constitution,Anayasa,132.14693000000003,293.42808,0.45035543292243885
+2007,positive,Doğru Yol Partisi,constitution,Anayasa,10.97107,293.42808,0.037389298256663095
+2007,positive,Adalet ve Kalkınma Partisi,democracy,Demokrasi,57.983475000000006,224.64201,0.258115011524336
+2007,positive,Anavatan Partisi,democracy,Demokrasi,27.854095,224.64201,0.12399325931957252
+2007,positive,Bağımsız,democracy,Demokrasi,28.941970000000005,224.64201,0.1288359643861805
+2007,positive,Cumhuriyet Halk Partisi,democracy,Demokrasi,106.07497,224.64201,0.47219560579964537
+2007,positive,Doğru Yol Partisi,democracy,Demokrasi,3.7874999999999996,224.64201,0.01686015897026562
+2007,positive,Adalet ve Kalkınma Partisi,economy,Ekonomi,550.241815,996.236815,0.5523202984623691
+2007,positive,Anavatan Partisi,economy,Ekonomi,80.06828,996.236815,0.08037072992529393
+2007,positive,Bağımsız,economy,Ekonomi,50.886855,996.236815,0.051079075008887316
+2007,positive,Cumhuriyet Halk Partisi,economy,Ekonomi,308.450515,996.236815,0.30961565599239577
+2007,positive,Doğru Yol Partisi,economy,Ekonomi,6.58935,996.236815,0.006614240611053908
+2007,positive,Adalet ve Kalkınma Partisi,european_union,Avrupa Birligi,103.44424500000001,213.08829,0.4854525089107431
+2007,positive,Anavatan Partisi,european_union,Avrupa Birligi,47.258055,213.08829,0.22177687474051247
+2007,positive,Bağımsız,european_union,Avrupa Birligi,4.5249999999999995,213.08829,0.02123532926187544
+2007,positive,Cumhuriyet Halk Partisi,european_union,Avrupa Birligi,54.0401,213.08829,0.2536042689159503
+2007,positive,Doğru Yol Partisi,european_union,Avrupa Birligi,3.8208900000000003,213.08829,0.01793101817091873
+2007,positive,Adalet ve Kalkınma Partisi,imf,IMF,1.175,18.00685,0.06525294540688682
+2007,positive,Anavatan Partisi,imf,IMF,1.85,18.00685,0.10273868000233245
+2007,positive,Bağımsız,imf,IMF,1.13339,18.00685,0.06294215812315868
+2007,positive,Cumhuriyet Halk Partisi,imf,IMF,13.848460000000001,18.00685,0.7690662164676221
+2007,positive,Adalet ve Kalkınma Partisi,inflation,Enflasyon,14.47035,30.51564,0.4741945441747248
+2007,positive,Anavatan Partisi,inflation,Enflasyon,4.37,30.51564,0.14320525474805706
+2007,positive,Cumhuriyet Halk Partisi,inflation,Enflasyon,11.67529,30.51564,0.3826002010772181
+2007,positive,Adalet ve Kalkınma Partisi,interest,Faiz,13.451755,31.358615,0.4289652141843637
+2007,positive,Anavatan Partisi,interest,Faiz,5.48349,31.358615,0.1748639090087365
+2007,positive,Cumhuriyet Halk Partisi,interest,Faiz,12.42337,31.358615,0.3961708768068998
+2007,positive,Adalet ve Kalkınma Partisi,law_state,Hukuk Devleti,120.24766,271.45504999999997,0.44297448141045825
+2007,positive,Anavatan Partisi,law_state,Hukuk Devleti,15.2375,271.45504999999997,0.05613268200388979
+2007,positive,Bağımsız,law_state,Hukuk Devleti,15.279290000000003,271.45504999999997,0.056286630143738366
+2007,positive,Cumhuriyet Halk Partisi,law_state,Hukuk Devleti,115.757335,271.45504999999997,0.42643279246416677
+2007,positive,Doğru Yol Partisi,law_state,Hukuk Devleti,4.9332650000000005,271.45504999999997,0.018173413977746963
+2007,positive,Adalet ve Kalkınma Partisi,reform,Reform,42.985025,67.231565,0.6393577927272702
+2007,positive,Anavatan Partisi,reform,Reform,11.77957,67.231565,0.17520892158318788
+2007,positive,Bağımsız,reform,Reform,3.13349,67.231565,0.046607423164996976
+2007,positive,Cumhuriyet Halk Partisi,reform,Reform,8.658479999999999,67.231565,0.1287859355943893
+2007,positive,Doğru Yol Partisi,reform,Reform,0.675,67.231565,0.0100399269301555
+2007,positive,Adalet ve Kalkınma Partisi,security,Guvenlik,99.77689,243.87860999999998,0.409125220124881
+2007,positive,Anavatan Partisi,security,Guvenlik,30.424020000000002,243.87860999999998,0.12475067001570989
+2007,positive,Bağımsız,security,Guvenlik,4.55,243.87860999999998,0.018656822752926138
+2007,positive,Cumhuriyet Halk Partisi,security,Guvenlik,74.29988,243.87860999999998,0.3046592729063037
+2007,positive,Doğru Yol Partisi,security,Guvenlik,34.82782,243.87860999999998,0.14280801420017936
+2007,positive,Adalet ve Kalkınma Partisi,sovereignty,Egemenlik,15.470090000000003,26.006880000000002,0.5948460561205343
+2007,positive,Anavatan Partisi,sovereignty,Egemenlik,2.46679,26.006880000000002,0.09485143931144373
+2007,positive,Cumhuriyet Halk Partisi,sovereignty,Egemenlik,8.07,26.006880000000002,0.310302504568022
+2007,total,Adalet ve Kalkınma Partisi,constitution,Anayasa,928.15,2425.4,0.38267914570792444
+2007,total,Anavatan Partisi,constitution,Anayasa,165.3,2425.4,0.06815370660509606
+2007,total,Bağımsız,constitution,Anayasa,49.800000000000004,2425.4,0.020532695637832936
+2007,total,Cumhuriyet Halk Partisi,constitution,Anayasa,1221.8,2425.4,0.5037519584398449
+2007,total,Doğru Yol Partisi,constitution,Anayasa,60.35,2425.4,0.02488249360930156
+2007,total,Adalet ve Kalkınma Partisi,democracy,Demokrasi,448.5,1322.6000000000001,0.33910479358838647
+2007,total,Anavatan Partisi,democracy,Demokrasi,148.45,1322.6000000000001,0.11224104037501888
+2007,total,Bağımsız,democracy,Demokrasi,92.8,1322.6000000000001,0.07016482685619234
+2007,total,Cumhuriyet Halk Partisi,democracy,Demokrasi,621.8000000000001,1322.6000000000001,0.47013458339634057
+2007,total,Doğru Yol Partisi,democracy,Demokrasi,11.05,1322.6000000000001,0.008354755784061696
+2007,total,Adalet ve Kalkınma Partisi,economy,Ekonomi,1373.8,3274.5499999999997,0.4195385625505795
+2007,total,Anavatan Partisi,economy,Ekonomi,414.79999999999995,3274.5499999999997,0.12667389412285657
+2007,total,Bağımsız,economy,Ekonomi,184.54999999999998,3274.5499999999997,0.056358889007649904
+2007,total,Cumhuriyet Halk Partisi,economy,Ekonomi,1244.75,3274.5499999999997,0.3801285672840543
+2007,total,Doğru Yol Partisi,economy,Ekonomi,56.65,3274.5499999999997,0.017300087034859753
+2007,total,Adalet ve Kalkınma Partisi,european_union,Avrupa Birligi,372.9,826.15,0.4513708164376929
+2007,total,Anavatan Partisi,european_union,Avrupa Birligi,134.0,826.15,0.16219814803607094
+2007,total,Bağımsız,european_union,Avrupa Birligi,74.6,826.15,0.09029837196634993
+2007,total,Cumhuriyet Halk Partisi,european_union,Avrupa Birligi,232.2,826.15,0.2810627609998184
+2007,total,Doğru Yol Partisi,european_union,Avrupa Birligi,12.45,826.15,0.015069902560067783
+2007,total,Adalet ve Kalkınma Partisi,imf,IMF,16.7,125.25,0.13333333333333333
+2007,total,Anavatan Partisi,imf,IMF,31.049999999999997,125.25,0.24790419161676644
+2007,total,Bağımsız,imf,IMF,3.7,125.25,0.029540918163672655
+2007,total,Cumhuriyet Halk Partisi,imf,IMF,73.80000000000001,125.25,0.5892215568862277
+2007,total,Adalet ve Kalkınma Partisi,inflation,Enflasyon,58.05,143.95,0.4032650225772838
+2007,total,Anavatan Partisi,inflation,Enflasyon,17.2,143.95,0.1194859326154915
+2007,total,Bağımsız,inflation,Enflasyon,6.7,143.95,0.046543938867662386
+2007,total,Cumhuriyet Halk Partisi,inflation,Enflasyon,45.3,143.95,0.314692601597777
+2007,total,Doğru Yol Partisi,inflation,Enflasyon,16.7,143.95,0.11601250434178535
+2007,total,Adalet ve Kalkınma Partisi,interest,Faiz,207.3,471.15000000000003,0.4399872652021649
+2007,total,Anavatan Partisi,interest,Faiz,70.5,471.15000000000003,0.1496338745622413
+2007,total,Bağımsız,interest,Faiz,16.75,471.15000000000003,0.03555131062294386
+2007,total,Cumhuriyet Halk Partisi,interest,Faiz,164.9,471.15000000000003,0.34999469383423537
+2007,total,Doğru Yol Partisi,interest,Faiz,11.7,471.15000000000003,0.024832855778414514
+2007,total,Adalet ve Kalkınma Partisi,law_state,Hukuk Devleti,632.7,1733.15,0.3650578426564348
+2007,total,Anavatan Partisi,law_state,Hukuk Devleti,137.65,1733.15,0.0794218619277039
+2007,total,Bağımsız,law_state,Hukuk Devleti,52.95,1733.15,0.03055130831145602
+2007,total,Cumhuriyet Halk Partisi,law_state,Hukuk Devleti,881.9,1733.15,0.5088422813951475
+2007,total,Doğru Yol Partisi,law_state,Hukuk Devleti,27.95,1733.15,0.01612670570925771
+2007,total,Adalet ve Kalkınma Partisi,reform,Reform,123.3,229.9,0.5363201391909526
+2007,total,Anavatan Partisi,reform,Reform,44.95,229.9,0.19551979121357113
+2007,total,Bağımsız,reform,Reform,7.7,229.9,0.03349282296650718
+2007,total,Cumhuriyet Halk Partisi,reform,Reform,50.25,229.9,0.21857329273597215
+2007,total,Doğru Yol Partisi,reform,Reform,3.7,229.9,0.016093953892996955
+2007,total,Adalet ve Kalkınma Partisi,security,Guvenlik,680.25,1851.55,0.3673948853663147
+2007,total,Anavatan Partisi,security,Guvenlik,226.45,1851.55,0.12230293537846669
+2007,total,Bağımsız,security,Guvenlik,60.5,1851.55,0.03267532607815074
+2007,total,Cumhuriyet Halk Partisi,security,Guvenlik,752.75,1851.55,0.4065512678566606
+2007,total,Doğru Yol Partisi,security,Guvenlik,131.6,1851.55,0.07107558532040723
+2007,total,Adalet ve Kalkınma Partisi,sovereignty,Egemenlik,64.65,130.65,0.494833524684271
+2007,total,Anavatan Partisi,sovereignty,Egemenlik,20.150000000000002,130.65,0.15422885572139305
+2007,total,Bağımsız,sovereignty,Egemenlik,3.0,130.65,0.02296211251435132
+2007,total,Cumhuriyet Halk Partisi,sovereignty,Egemenlik,41.85,130.65,0.3203214695752009
+2007,total,Doğru Yol Partisi,sovereignty,Egemenlik,1.0,130.65,0.007654037504783773
+2007,total,Adalet ve Kalkınma Partisi,tutelage,Vesayet,6.1000000000000005,27.85,0.2190305206463196
+2007,total,Anavatan Partisi,tutelage,Vesayet,8.15,27.85,0.2926391382405745
+2007,total,Cumhuriyet Halk Partisi,tutelage,Vesayet,13.600000000000001,27.85,0.48833034111310597

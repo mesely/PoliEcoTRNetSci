@@ -1,0 +1,31 @@
+term,event_label,event_slug,event_month,stage,speaker,party,gatekeeper_score,cross_pressure,brokerage_concentration_hhi,top_broker_party_agg,top_party_mean_score,top_party_max_score,top_party_n_brokers
+22,2006 market turbulence,2006_market_turbulence,2006-05,pre,Mevlüt Akgün,Adalet ve Kalkınma Partisi,3.020855760557698,0.0,0.278004517384291,Bağımsız,1.6040996860806491,2.555686767551509,4
+22,2006 market turbulence,2006_market_turbulence,2006-05,shock,Atilla Kart,Cumhuriyet Halk Partisi,2.912628956878868,0.0,0.20544416617500627,Doğru Yol Partisi,2.4197643603869285,2.4197643603869285,1
+22,2006 market turbulence,2006_market_turbulence,2006-05,post,Ali Babacan,Adalet ve Kalkınma Partisi,3.0313273031683625,0.0,0.2971242009288479,Cumhuriyet Halk Partisi,1.4485131693045106,2.920848036456668,42
+22,E-memorandum,e_memorandum,2007-04,pre,Memet Ali Suçin,Adalet ve Kalkınma Partisi,3.02553014635112,0.0,0.26780575185625677,Adalet ve Kalkınma Partisi,2.018796384486004,3.02553014635112,83
+22,E-memorandum,e_memorandum,2007-04,shock,Deniz Baykal,Cumhuriyet Halk Partisi,2.984794638801815,0.0,0.28608753841512047,Bağımsız,2.950768802739388,2.950768802739388,1
+22,E-memorandum,e_memorandum,2007-04,post,Engin Altay,Cumhuriyet Halk Partisi,3.043883941832442,0.0,0.33370628669460384,Cumhuriyet Halk Partisi,1.6265958849432314,3.043883941832442,60
+23,Global crisis reaction,global_crisis_reaction,2008-10,pre,Orhan Erdem,Adalet ve Kalkınma Partisi,3.085042455161472,0.0,0.20588121179798188,Bağımsız,2.1926566676178267,3.021209817208836,15
+23,Global crisis reaction,global_crisis_reaction,2008-10,shock,Cumali Durmuş,Milliyetçi Hareket Partisi,3.061687887467433,0.0,0.2613235778430083,Milliyetçi Hareket Partisi,1.5322935275605138,3.061687887467433,21
+23,Global crisis reaction,global_crisis_reaction,2008-10,post,Mehmet Aydın,Adalet ve Kalkınma Partisi,3.0355887299284707,0.0,0.2530473421807538,Bağımsız,1.1867793637190485,2.844443621709537,43
+23,Referendum aftermath,referendum_aftermath,2010-10,pre,Enver Yılmaz,Adalet ve Kalkınma Partisi,2.9904610159956535,0.0,0.2510486875789438,Adalet ve Kalkınma Partisi,2.1127276703741935,2.9904610159956535,25
+23,Referendum aftermath,referendum_aftermath,2010-10,shock,Alaattin Büyükkaya,Adalet ve Kalkınma Partisi,2.820208506556541,0.0,0.2682086353022896,Bağımsız,2.021182913294769,2.815111641523658,6
+23,Referendum aftermath,referendum_aftermath,2010-10,post,Hakan Coşkun,Milliyetçi Hareket Partisi,3.014123933799277,0.0,0.25392646364993626,Milliyetçi Hareket Partisi,0.991684164982948,3.014123933799277,55
+24,17-25 December rupture,17_25_december_rupture,2013-12,pre,Ayşe Türkmenoğlu,Adalet ve Kalkınma Partisi,3.0867121655867447,0.0,0.24832244322244112,Bağımsız,2.317865504202018,2.4030375960121018,2
+24,17-25 December rupture,17_25_december_rupture,2013-12,shock,Osman Ören,Adalet ve Kalkınma Partisi,3.0359588347135245,0.0,0.20019081871809244,Milliyetçi Hareket Partisi,1.9786232285433734,2.998502712161336,33
+24,17-25 December rupture,17_25_december_rupture,2013-12,post,Uğur Bayraktutan,Cumhuriyet Halk Partisi,3.0154367612089548,0.0,0.21024272469283836,Bağımsız,1.8383884492544387,2.635605042238503,5
+25,Pre-November election macro reset,pre_november_election_macro_reset,2015-10,pre,Engin Altay,Adalet ve Kalkınma Partisi,1.9659128153792065,0.0,0.33995173196333717,Halkların Demokratik Partisi,1.9659128153792065,1.9659128153792065,1
+26,15 July / OHAL shock,15_july___ohal_shock,2016-07,pre,Mehmet Parsak,Milliyetçi Hareket Partisi,3.0190014968988192,0.0,0.17354396434371244,Halkların Demokratik Partisi,2.1564838569935527,3.0143166637858805,29
+26,15 July / OHAL shock,15_july___ohal_shock,2016-07,shock,Bülent Yener Bektaşoğlu,Cumhuriyet Halk Partisi,2.982794028146169,0.0,0.20560813736606345,Adalet ve Kalkınma Partisi,1.4943994350754326,2.9827571458874864,25
+26,15 July / OHAL shock,15_july___ohal_shock,2016-07,post,Bülent Turan,Adalet ve Kalkınma Partisi,2.937361228539767,0.0,0.20110049652973613,Adalet ve Kalkınma Partisi,2.072433641568234,2.937361228539767,27
+27,Albayrak resignation,albayrak_resignation,2020-11,pre,Hasan Kalyoncu,Milliyetçi Hareket Partisi,2.828944487706083,0.0,0.2149823525146351,Adalet ve Kalkınma Partisi,1.4051948714353448,2.7770291856918905,23
+27,Albayrak resignation,albayrak_resignation,2020-11,shock,Murat Sarısaç,Halkların Demokratik Partisi,2.985089000553589,0.0,0.17314071651550653,Adalet ve Kalkınma Partisi,1.9958813975415728,2.984684226578324,26
+27,Albayrak resignation,albayrak_resignation,2020-11,post,Mehmet Güzelmansur,Cumhuriyet Halk Partisi,3.011319230853696,0.0,0.21351728790563718,Milliyetçi Hareket Partisi,1.3012782389982165,3.0029520269315615,31
+27,FX crisis,fx_crisis,2022-01,pre,Remziye Tosun,Halkların Demokratik Partisi,3.060356028501253,0.0,0.17189892871865423,Demokrat Parti,1.041658284262556,2.083316568525112,2
+27,FX crisis,fx_crisis,2022-01,shock,Nuran İmir,Halkların Demokratik Partisi,3.034192045780301,0.0,0.21478515858326858,İYİ Parti,1.6128351635622427,2.81021679033126,21
+27,FX crisis,fx_crisis,2022-01,post,Lale Karabıyık,Cumhuriyet Halk Partisi,2.943171123368061,0.0,0.20775512973897353,Milliyetçi Hareket Partisi,1.248480621411191,2.8517923151554,24
+28,Simsek return,simsek_return,2023-06,shock,Utku Çakırözer,Cumhuriyet Halk Partisi,2.9104383746066556,0.0,0.2229314238989052,Milliyetçi Hareket Partisi,2.695684263574069,2.8707435944335096,2
+28,Simsek return,simsek_return,2023-06,post,Sibel Suiçmez,Cumhuriyet Halk Partisi,2.853424475513588,0.0,0.15146096190343558,Demokratik Sol Parti,1.6284332679416187,1.6284332679416187,1
+28,Local election shock,local_election_shock,2024-03,pre,Burcu Köksal,Cumhuriyet Halk Partisi,3.0335242114784835,0.0,0.11109711745383086,Demokratik Sol Parti,2.569656873648538,2.569656873648538,1
+28,Local election shock,local_election_shock,2024-03,shock,Sezai Temelli,Halkların Eşitlik ve Demokrasi Partisi,3.043906143520335,0.0,0.2425724749777144,Halkların Eşitlik ve Demokrasi Partisi,1.731370601345884,3.043906143520335,5
+28,Local election shock,local_election_shock,2024-03,post,Hasan Turan,Adalet ve Kalkınma Partisi,3.041888655354574,0.0,0.13859335679786852,Milliyetçi Hareket Partisi,1.5769887901248418,2.3484602128591847,20

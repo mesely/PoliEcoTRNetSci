@@ -1,0 +1,27 @@
+Term 25 (2015 Interregnum) — Publication Brief
+========================================================================
+
+Core claim: Term 25 is too short for standard long-window inference, but it yields a sharp interregnum note: July and September are security-compressed months, whereas October re-centers AKP's agenda on macroeconomy before the Nov. 1 election while reformist positivity collapses.
+
+Target outlets: Electoral Studies (research note), Turkish Studies, Party Politics (short-format angle)
+
+Strongest event findings:
+- AKP sharply recenters macroeconomy before the Nov. 1 election: up (RR=2.68, p=2.21e-05, 0.130->0.349; event=2015-10).
+- AKP's democratic-reform positivity also drops before the election: down (RR=0.45, p=0.0303, 0.780->0.348; event=2015-10).
+- AKP's macroeconomic positivity falls as it recenters the agenda: down (RR=0.46, p=0.00123, 1.444->0.658; event=2015-10).
+
+Active figures to use first:
+- Figures/term_25_causal_identification.png
+- Figures/term_25_political_dynamics.png
+- Figures/term_25_comprehensive_analysis.png
+- Figures/term_25_institutional_conflict.png
+
+Auxiliary visuals kept active:
+- Figures/term_25_layered_bipartite_networks.png
+- Figures/term_25_negative_yearly_networks.png
+- Figures/term_25_positive_yearly_networks.png
+
+Notes:
+- `neg_rate` / `pos_rate` are sentiment-hit intensities over concept mentions.
+- `agenda_share` is the concept's share within a party's total monthly agenda.
+- Term 25 is intentionally framed as a short interregnum note, not a long-window panel paper.

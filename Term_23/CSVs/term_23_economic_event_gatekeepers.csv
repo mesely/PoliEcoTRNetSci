@@ -1,0 +1,7 @@
+term,event_label,event_slug,event_month,stage,speaker,party,gatekeeper_score,cross_pressure,brokerage_concentration_hhi,top_broker_party_agg,top_party_mean_score,top_party_max_score,top_party_n_brokers
+23,Global crisis reaction,global_crisis_reaction,2008-10,pre,Orhan Erdem,Adalet ve Kalkınma Partisi,3.085042455161472,0.0,0.20588121179798188,Bağımsız,2.1926566676178267,3.021209817208836,15
+23,Global crisis reaction,global_crisis_reaction,2008-10,shock,Cumali Durmuş,Milliyetçi Hareket Partisi,3.061687887467433,0.0,0.2613235778430083,Milliyetçi Hareket Partisi,1.5322935275605138,3.061687887467433,21
+23,Global crisis reaction,global_crisis_reaction,2008-10,post,Mehmet Aydın,Adalet ve Kalkınma Partisi,3.0355887299284707,0.0,0.2530473421807538,Bağımsız,1.1867793637190485,2.844443621709537,43
+23,Referendum aftermath,referendum_aftermath,2010-10,pre,Enver Yılmaz,Adalet ve Kalkınma Partisi,2.9904610159956535,0.0,0.2510486875789438,Adalet ve Kalkınma Partisi,2.1127276703741935,2.9904610159956535,25
+23,Referendum aftermath,referendum_aftermath,2010-10,shock,Alaattin Büyükkaya,Adalet ve Kalkınma Partisi,2.820208506556541,0.0,0.2682086353022896,Bağımsız,2.021182913294769,2.815111641523658,6
+23,Referendum aftermath,referendum_aftermath,2010-10,post,Hakan Coşkun,Milliyetçi Hareket Partisi,3.014123933799277,0.0,0.25392646364993626,Milliyetçi Hareket Partisi,0.991684164982948,3.014123933799277,55

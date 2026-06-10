@@ -1,0 +1,27 @@
+Term 28 interval + polarization summary
+
+Leftmost party:
+  DEM Parti (-2.080)
+
+Rightmost party:
+  Milliyetçi Hareket Partisi (3.170)
+
+Widest within-term interval:
+  DEM Parti (width=2.806)
+
+Community sizes:
+  Pole +   : 87
+  Pole -   : 108
+  Neutral  : 147
+
+Observed polarization score:
+  10.9712
+
+Null-model p-value:
+  0.0000
+
+Peak monthly ideological spread:
+  2023-07 (spread=16.486)
+
+Top gatekeeper:
+  Tamer Osmanağaoğlu / Milliyetçi Hareket Partisi (score=3.131)

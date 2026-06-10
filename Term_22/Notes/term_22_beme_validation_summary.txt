@@ -1,0 +1,37 @@
+Term 22 | BEME validation study summary
+
+Stage 1 | Baseline freeze
+- Frozen baseline file count: 68
+- Frozen baseline total size (MB): 26.779
+- Manifest file: CSVs/term_22_baseline_manifest.csv
+
+Stage 2 | Gold set
+- Final expert-coded sample size: 108
+- negative: 69
+- mixed: 21
+- positive: 18
+
+Stage 2 | Performance summary
+- hybrid_beme_mixed_gate_logistic: macro_f1=0.427 | negative_f1=0.626 | mixed_f1=0.271 | positive_f1=0.385 | kappa=0.095
+- logistic_regression: macro_f1=0.422 | negative_f1=0.807 | mixed_f1=0.087 | positive_f1=0.370 | kappa=0.207
+- beme_heuristic: macro_f1=0.370 | negative_f1=0.495 | mixed_f1=0.246 | positive_f1=0.370 | kappa=0.097
+- linear_svm: macro_f1=0.318 | negative_f1=0.788 | mixed_f1=0.000 | positive_f1=0.167 | kappa=0.078
+
+BERTurk note:
+- BERTurk evaluation could not run because the Hugging Face model download was blocked in the current local runtime.
+
+Bootstrap differences versus BEME:
+- logistic_regression | macro_f1_minus_beme: mean_diff=0.051 | 95% CI [-0.094, 0.201]
+- logistic_regression | negative_f1_minus_beme: mean_diff=0.314 | 95% CI [0.182, 0.444]
+- linear_svm | macro_f1_minus_beme: mean_diff=-0.052 | 95% CI [-0.170, 0.074]
+- linear_svm | negative_f1_minus_beme: mean_diff=0.295 | 95% CI [0.175, 0.419]
+- hybrid_beme_mixed_gate_logistic | macro_f1_minus_beme: mean_diff=0.057 | 95% CI [-0.066, 0.175]
+- hybrid_beme_mixed_gate_logistic | negative_f1_minus_beme: mean_diff=0.132 | 95% CI [0.031, 0.237]
+
+Stage 3 | Model decision
+- Selected primary learned model: hybrid_beme_mixed_gate_logistic
+- Decision rule: hybrid_selected_as_primary_scoring_rule
+- Recommendation: Adopt the hybrid rule for the signed network package: keep BEME as a mixed-class gate, then let logistic regression resolve the remaining positive / negative distinction.
+- Macro-F1 gain vs BEME: 0.057
+- Negative F1 gain vs BEME: 0.131
+- Mixed F1 gain vs BEME: 0.026

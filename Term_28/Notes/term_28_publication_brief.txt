@@ -1,0 +1,30 @@
+Term 28 (2023–2026) — Publication Brief
+========================================================================
+
+Core claim: Term 28 is strongest as a judicial-backlash period. Local-election losses destabilize the ruling coalition, the İmamoğlu case pushes AKP into constitutional conflict, and the opposition splits into distinct democratic-reform and constitutional lanes rather than a single undifferentiated bloc.
+
+Target outlets: Electoral Studies, Journal of Democracy, Comparative Political Studies
+
+Strongest event findings:
+- MHP security negativity surges after the local-election shock: up (RR=1.88, p=3.9e-06, 0.363->0.682; event=2024-03).
+- IYI Party shifts into constitutional conflict after the İmamoğlu shock: up (RR=1.64, p=1.85e-11, 0.090->0.148; event=2025-03).
+- AKP constitutional negativity rises after the İmamoğlu case: up (RR=1.49, p=0.00177, 0.311->0.465; event=2025-03).
+- AKP macroeconomic positivity retreats after the protest escalation: down (RR=0.76, p=1.21e-05, 0.873->0.665; event=2025-04).
+- CHP macroeconomic attack intensifies during the protest month: up (RR=1.29, p=4.83e-06, 0.393->0.507; event=2025-04).
+- CHP expands its democratic-reform agenda after the judicial shock: up (RR=1.16, p=8.74e-07, 0.399->0.464; event=2025-03).
+
+Active figures to use first:
+- Figures/term_28_causal_identification.png
+- Figures/term_28_political_dynamics.png
+- Figures/term_28_comprehensive_analysis.png
+- Figures/term_28_institutional_conflict.png
+
+Auxiliary visuals kept active:
+- Figures/term_28_layered_bipartite_networks.png
+- Figures/term_28_negative_yearly_networks.png
+- Figures/term_28_positive_yearly_networks.png
+
+Notes:
+- `neg_rate` / `pos_rate` are sentiment-hit intensities over concept mentions.
+- `agenda_share` is the concept's share within a party's total monthly agenda.
+- Term 25 is intentionally framed as a short interregnum note, not a long-window panel paper.

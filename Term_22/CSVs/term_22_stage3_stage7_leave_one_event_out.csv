@@ -1,0 +1,7 @@
+﻿hypothesis_id,excluded_event,primary_predictor,standardized_beta,p_value
+H4a,tezkere_1mart,economy_negative_share,0.2612101136380581,0.033235976090489894
+H4a,ab_muzakereleri,economy_negative_share,0.41496700955285143,0.0006272178327080269
+H4a,367_e_muhtira,economy_negative_share,0.3206027747752738,0.007348315015079487
+H4b,tezkere_1mart,reform_positive_share,-0.005533179181812767,0.9682848043308145
+H4b,ab_muzakereleri,reform_positive_share,-0.17596196978460507,0.20178342415720119
+H4b,367_e_muhtira,reform_positive_share,-0.04842362469507543,0.7173646031041172

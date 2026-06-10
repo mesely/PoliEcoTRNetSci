@@ -1,0 +1,29 @@
+Term 26 (2015–2018) — Publication Brief
+========================================================================
+
+Core claim: Term 26 is strongest as an authoritarian consolidation sequence. The coup and OHAL compress pluralism, intensify HDP's macroeconomic distress language, turn AKP's democratic-reform talk more negative, and then constitutionalize conflict during the referendum campaign.
+
+Target outlets: Democratization, Journal of Democracy, Comparative Political Studies
+
+Strongest event findings:
+- AKP constitutional negativity falls after HDP arrests as repression normalizes: down (RR=0.52, p=2.74e-11, 0.527->0.274; event=2016-11).
+- HDP macroeconomic negativity spikes after the coup attempt: up (RR=1.92, p=1.08e-12, 0.351->0.675; event=2016-07).
+- CHP referendum campaign invests in constitutional legitimation: up (RR=1.59, p=0.000309, 0.132->0.210; event=2017-04).
+- AKP's democratic-reform rhetoric turns markedly more negative after the coup: up (RR=1.56, p=7.09e-08, 0.187->0.291; event=2016-07).
+- HDP's macroeconomic agenda expands sharply under OHAL shock: up (RR=1.50, p=1.26e-10, 0.116->0.173; event=2016-07).
+
+Active figures to use first:
+- Figures/term_26_causal_identification.png
+- Figures/term_26_political_dynamics.png
+- Figures/term_26_comprehensive_analysis.png
+- Figures/term_26_institutional_conflict.png
+
+Auxiliary visuals kept active:
+- Figures/term_26_layered_bipartite_networks.png
+- Figures/term_26_negative_yearly_networks.png
+- Figures/term_26_positive_yearly_networks.png
+
+Notes:
+- `neg_rate` / `pos_rate` are sentiment-hit intensities over concept mentions.
+- `agenda_share` is the concept's share within a party's total monthly agenda.
+- Term 25 is intentionally framed as a short interregnum note, not a long-window panel paper.

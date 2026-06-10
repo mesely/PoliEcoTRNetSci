@@ -1,0 +1,26 @@
+Term 28 — Economic publication brief
+========================================================================
+
+Simsek return (2023-06)
+- Macro pressure shift: +1.513
+- Economy salience shift: n/a
+- Economic spread shift: n/a
+- Negative-edge share shift: n/a
+- Signed modularity shift: n/a
+- Null p (economy salience / spread): n/a
+- Top attack party in shock month: Halkların Eşitlik ve Demokrasi Partisi (-0.909)
+- Top defense party in shock month: Adalet ve Kalkınma Partisi (+0.625)
+- Top owner of the economic agenda: Cumhuriyet Halk Partisi
+- Owner persistence into post window: True
+
+Local election shock (2024-03)
+- Macro pressure shift: +0.698
+- Economy salience shift: -0.054
+- Economic spread shift: +0.459
+- Negative-edge share shift: -0.068
+- Signed modularity shift: -0.456
+- Null p (economy salience / spread): 0.889 / 0.667
+- Top attack party in shock month: İYİ Parti (-0.485)
+- Top defense party in shock month: Halkların Eşitlik ve Demokrasi Partisi (+0.389)
+- Top owner of the economic agenda: İYİ Parti
+- Owner persistence into post window: False

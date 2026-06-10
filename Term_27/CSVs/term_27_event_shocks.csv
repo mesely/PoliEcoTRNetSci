@@ -1,0 +1,4 @@
+﻿term,event_month,event_label,spread_pre,spread_post,spread_delta,akp_chp_gap_pre,akp_chp_gap_post,akp_chp_gap_delta,top_gatekeeper_pre_speaker,top_gatekeeper_pre_party,top_gatekeeper_pre_score,top_gatekeeper_post_speaker,top_gatekeeper_post_party,top_gatekeeper_post_score
+27,2020-11,Albayrak resignation,5.712665322766909,5.5425163535222355,-0.17014896924467315,1.4748200253332426,1.7899610394001353,0.31514101406689266,Ayhan Erel,İYİ Parti,3.1589424581635046,Şamil Ayrım,Adalet ve Kalkınma Partisi,2.8951432493958458
+27,2022-01,FX crisis,4.650477645878737,4.817736579102841,0.16725893322410457,3.677346338273551,1.399012044785841,-2.2783342934877098,İrfan Kaplan,Cumhuriyet Halk Partisi,3.1501731180136363,Aykut Erdoğdu,Cumhuriyet Halk Partisi,3.214327404976946
+27,2023-05,Election,5.410976766329801,,,3.0157201572815877,,,Erol Katırcıoğlu,Halkların Demokratik Partisi,3.1884630856724856,,,

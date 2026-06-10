@@ -1,0 +1,2 @@
+term,event_label,event_slug,null_draws,econ_salience_obs,econ_salience_null_mean,econ_salience_null_std,econ_salience_null_p,spread_obs,spread_null_mean,spread_null_std,spread_null_p,constitutional_obs,constitutional_null_mean,constitutional_null_p,security_obs,security_null_mean,security_null_p
+26,15 July / OHAL shock,15_july___ohal_shock,10,0.060380869401721965,-0.03676847961483509,0.11630679772184624,0.7,0.05117774150557475,-0.5671401266177,1.1769954325586927,1.0,-0.07140423205725631,0.04593837142469733,0.3,-0.04752805603989352,-0.011062901859914376,0.6

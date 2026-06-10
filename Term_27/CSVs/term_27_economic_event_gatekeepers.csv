@@ -1,0 +1,7 @@
+term,event_label,event_slug,event_month,stage,speaker,party,gatekeeper_score,cross_pressure,brokerage_concentration_hhi,top_broker_party_agg,top_party_mean_score,top_party_max_score,top_party_n_brokers
+27,Albayrak resignation,albayrak_resignation,2020-11,pre,Hasan Kalyoncu,Milliyetçi Hareket Partisi,2.828944487706083,0.0,0.2149823525146351,Adalet ve Kalkınma Partisi,1.4051948714353448,2.7770291856918905,23
+27,Albayrak resignation,albayrak_resignation,2020-11,shock,Murat Sarısaç,Halkların Demokratik Partisi,2.985089000553589,0.0,0.17314071651550653,Adalet ve Kalkınma Partisi,1.9958813975415728,2.984684226578324,26
+27,Albayrak resignation,albayrak_resignation,2020-11,post,Mehmet Güzelmansur,Cumhuriyet Halk Partisi,3.011319230853696,0.0,0.21351728790563718,Milliyetçi Hareket Partisi,1.3012782389982165,3.0029520269315615,31
+27,FX crisis,fx_crisis,2022-01,pre,Remziye Tosun,Halkların Demokratik Partisi,3.060356028501253,0.0,0.17189892871865423,Demokrat Parti,1.041658284262556,2.083316568525112,2
+27,FX crisis,fx_crisis,2022-01,shock,Nuran İmir,Halkların Demokratik Partisi,3.034192045780301,0.0,0.21478515858326858,İYİ Parti,1.6128351635622427,2.81021679033126,21
+27,FX crisis,fx_crisis,2022-01,post,Lale Karabıyık,Cumhuriyet Halk Partisi,2.943171123368061,0.0,0.20775512973897353,Milliyetçi Hareket Partisi,1.248480621411191,2.8517923151554,24

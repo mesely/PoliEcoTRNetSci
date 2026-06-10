@@ -1,0 +1,13 @@
+source_party,target_party,source_bloc,target_bloc,speech_count,mention_count,positive_hits,negative_hits,total_weight,positive_weight,negative_weight,net_weight,avg_score
+Adalet ve Kalkınma Partisi,Anavatan Partisi,government,opposition,387,556,137,102,639.65,96.97237,69.79956,27.17281,0.1458333333333333
+Adalet ve Kalkınma Partisi,Cumhuriyet Halk Partisi,government,opposition,1836,2438,439,395,2729.9,297.22442,272.237915,24.986505,0.0526946107784431
+Adalet ve Kalkınma Partisi,Doğru Yol Partisi,government,opposition,106,123,31,9,137.0,24.05805,5.4,18.65805,0.5365853658536586
+Anavatan Partisi,Adalet ve Kalkınma Partisi,opposition,government,883,2188,581,628,2611.15,412.43594,414.86714,-2.431200000000003,-0.0388429752066115
+Anavatan Partisi,Cumhuriyet Halk Partisi,opposition,opposition,93,113,25,15,127.0,15.34794,12.39589,2.9520499999999994,0.2439024390243902
+Anavatan Partisi,Doğru Yol Partisi,opposition,opposition,20,23,5,2,25.45,3.15839,1.13339,2.0250000000000004,0.375
+Cumhuriyet Halk Partisi,Adalet ve Kalkınma Partisi,opposition,government,6804,14747,3535,4500,17559.25,2407.88533,3284.341515,-876.456185,-0.120084619213539
+Cumhuriyet Halk Partisi,Anavatan Partisi,opposition,opposition,146,179,32,20,197.2,21.112805,16.67937,4.433435000000001,0.2264150943396226
+Cumhuriyet Halk Partisi,Doğru Yol Partisi,opposition,opposition,58,64,14,11,72.75,8.12517,7.48348,0.6416899999999999,0.1153846153846153
+Doğru Yol Partisi,Adalet ve Kalkınma Partisi,opposition,government,565,1041,191,240,1191.85,150.73921,177.91329,-27.174079999999996,-0.1134259259259259
+Doğru Yol Partisi,Anavatan Partisi,opposition,opposition,31,37,19,2,44.35,11.32017,0.675,10.64517,0.7727272727272727
+Doğru Yol Partisi,Cumhuriyet Halk Partisi,opposition,opposition,153,209,48,33,237.35,38.883605,22.65035,16.233255,0.1829268292682926

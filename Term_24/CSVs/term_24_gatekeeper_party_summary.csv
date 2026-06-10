@@ -1,0 +1,6 @@
+﻿party,avg_gatekeeper_score,median_gatekeeper_score,avg_cross_pressure,n_speakers
+Bağımsız,1.146897611161583,1.2989268960750906,0.0,13
+Cumhuriyet Halk Partisi,0.8904573325514428,0.6234033003690489,0.026948211540478172,101
+Halkların Demokratik Partisi,0.85403585748659,0.0,0.0,14
+Adalet ve Kalkınma Partisi,0.6098427680772204,0.0,0.01588093844083448,132
+Milliyetçi Hareket Partisi,0.48902209160419446,0.0,0.055630292692979456,48

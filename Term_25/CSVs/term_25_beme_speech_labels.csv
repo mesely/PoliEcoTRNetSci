@@ -1,0 +1,121 @@
+﻿speech_id,transcript_id,date,year,month,speaker,party,party_bloc,word_count,concept_hit_count,beme_positive_hits,beme_negative_hits,beme_score,beme_label
+term_25_speech_000000,22431,2015-07-01,2015,7,İsmet Yılmaz,Adalet ve Kalkınma Partisi,opposition,592,4,24,8,0.4848,positive
+term_25_speech_000004,22438,2015-07-08,2015,7,Mahmut Tanal,Cumhuriyet Halk Partisi,opposition,20,1,0,0,0.0,mixed
+term_25_speech_000009,22438,2015-07-08,2015,7,Mahmut Tanal,Cumhuriyet Halk Partisi,opposition,20,1,0,0,0.0,mixed
+term_25_speech_000011,22438,2015-07-08,2015,7,Mahmut Tanal,Cumhuriyet Halk Partisi,opposition,27,1,0,0,0.0,mixed
+term_25_speech_000013,22438,2015-07-08,2015,7,Yıldırım Tuğrul Türkeş,Adalet ve Kalkınma Partisi,opposition,1055,2,3,10,-0.5,negative
+term_25_speech_000014,22438,2015-07-08,2015,7,Murat Özçelik,Adalet ve Kalkınma Partisi,opposition,1841,7,56,10,0.6866,positive
+term_25_speech_000015,22438,2015-07-08,2015,7,Sırrı Süreyya Önder,Halkların Demokratik Partisi,opposition,582,2,3,2,0.1667,mixed
+term_25_speech_000017,22438,2015-07-08,2015,7,Sırrı Süreyya Önder,Halkların Demokratik Partisi,opposition,1070,2,1,2,-0.25,negative
+term_25_speech_000021,22438,2015-07-08,2015,7,Mehmet Şeker,Cumhuriyet Halk Partisi,opposition,1015,1,6,9,-0.1875,mixed
+term_25_speech_000022,22438,2015-07-08,2015,7,Şirin Ünal,Adalet ve Kalkınma Partisi,opposition,670,2,31,8,0.575,positive
+term_25_speech_000023,22438,2015-07-08,2015,7,Mahmut Tanal,Cumhuriyet Halk Partisi,opposition,17,1,0,0,0.0,mixed
+term_25_speech_000024,22438,2015-07-08,2015,7,İdris Baluken,Halkların Demokratik Partisi,opposition,418,1,0,0,0.0,mixed
+term_25_speech_000025,22438,2015-07-08,2015,7,İdris Baluken,Halkların Demokratik Partisi,opposition,7,1,0,1,-0.5,negative
+term_25_speech_000026,22438,2015-07-08,2015,7,İdris Baluken,Halkların Demokratik Partisi,opposition,7,1,0,1,-0.5,negative
+term_25_speech_000027,22438,2015-07-08,2015,7,İdris Baluken,Halkların Demokratik Partisi,opposition,7,1,0,1,-0.5,negative
+term_25_speech_000029,22438,2015-07-08,2015,7,Levent Gök,Cumhuriyet Halk Partisi,opposition,313,1,1,0,0.5,positive
+term_25_speech_000033,22438,2015-07-08,2015,7,Oktay Vural,Milliyetçi Hareket Partisi,opposition,325,3,0,1,-0.5,negative
+term_25_speech_000035,22439,2015-07-09,2015,7,Oktay Vural,Milliyetçi Hareket Partisi,opposition,133,1,0,0,0.0,mixed
+term_25_speech_000036,22439,2015-07-09,2015,7,Ahmet Aydın,Adalet ve Kalkınma Partisi,opposition,164,1,0,1,-0.5,negative
+term_25_speech_000037,22439,2015-07-09,2015,7,Pervin Buldan,Halkların Demokratik Partisi,opposition,104,1,0,0,0.0,mixed
+term_25_speech_000040,22439,2015-07-09,2015,7,Mahmut Tanal,Cumhuriyet Halk Partisi,opposition,44,1,0,0,0.0,mixed
+term_25_speech_000041,22439,2015-07-09,2015,7,Uğur Bayraktutan,Cumhuriyet Halk Partisi,opposition,184,1,0,0,0.0,mixed
+term_25_speech_000048,22439,2015-07-09,2015,7,Musa Çam,Cumhuriyet Halk Partisi,opposition,73,1,0,0,0.0,mixed
+term_25_speech_000070,22441,2015-07-14,2015,7,Engin Altay,Adalet ve Kalkınma Partisi,opposition,140,2,1,0,0.5,positive
+term_25_speech_000071,22441,2015-07-14,2015,7,İdris Baluken,Halkların Demokratik Partisi,opposition,334,3,1,0,0.5,positive
+term_25_speech_000073,22441,2015-07-14,2015,7,Mehmet Doğan Kubat,Adalet ve Kalkınma Partisi,opposition,192,3,0,0,0.0,mixed
+term_25_speech_000074,22441,2015-07-14,2015,7,Mehmet Doğan Kubat,Adalet ve Kalkınma Partisi,opposition,69,1,0,0,0.0,mixed
+term_25_speech_000075,22441,2015-07-14,2015,7,Mehmet Doğan Kubat,Adalet ve Kalkınma Partisi,opposition,183,3,2,0,0.6667,positive
+term_25_speech_000076,22441,2015-07-14,2015,7,Mehmet Doğan Kubat,Adalet ve Kalkınma Partisi,opposition,100,2,0,0,0.0,mixed
+term_25_speech_000077,22441,2015-07-14,2015,7,Engin Altay,Adalet ve Kalkınma Partisi,opposition,324,2,0,0,0.0,mixed
+term_25_speech_000078,22441,2015-07-14,2015,7,Engin Altay,Adalet ve Kalkınma Partisi,opposition,322,4,5,1,0.5714,positive
+term_25_speech_000079,22441,2015-07-14,2015,7,Oktay Vural,Milliyetçi Hareket Partisi,opposition,250,2,0,0,0.0,mixed
+term_25_speech_000081,22441,2015-07-14,2015,7,Oktay Vural,Milliyetçi Hareket Partisi,opposition,147,1,0,0,0.0,mixed
+term_25_speech_000082,22441,2015-07-14,2015,7,Oktay Vural,Milliyetçi Hareket Partisi,opposition,195,2,1,0,0.5,positive
+term_25_speech_000084,22441,2015-07-14,2015,7,Sırrı Süreyya Önder,Halkların Demokratik Partisi,opposition,449,3,3,0,0.75,positive
+term_25_speech_000085,22443,2015-07-29,2015,7,Bülent Arınç,Adalet ve Kalkınma Partisi,opposition,2015,6,28,30,-0.0339,mixed
+term_25_speech_000091,22443,2015-07-29,2015,7,Osman Baydemir,Halkların Demokratik Partisi,opposition,849,2,0,0,0.0,mixed
+term_25_speech_000098,22443,2015-07-29,2015,7,Osman Baydemir,Halkların Demokratik Partisi,opposition,188,1,0,0,0.0,mixed
+term_25_speech_000103,22443,2015-07-29,2015,7,Osman Baydemir,Halkların Demokratik Partisi,opposition,419,1,3,0,0.75,positive
+term_25_speech_000122,22443,2015-07-29,2015,7,Murat Özçelik,Adalet ve Kalkınma Partisi,opposition,1636,2,1,16,-0.8333,negative
+term_25_speech_000123,22443,2015-07-29,2015,7,Ümit Özdağ,Milliyetçi Hareket Partisi,opposition,2088,4,7,14,-0.3182,negative
+term_25_speech_000124,22443,2015-07-29,2015,7,Ümit Özdağ,Milliyetçi Hareket Partisi,opposition,232,2,0,3,-0.75,negative
+term_25_speech_000130,22443,2015-07-29,2015,7,Ahmet Aydın,Adalet ve Kalkınma Partisi,opposition,81,1,0,0,0.0,mixed
+term_25_speech_000131,22443,2015-07-29,2015,7,Ahmet Aydın,Adalet ve Kalkınma Partisi,opposition,9,1,0,0,0.0,mixed
+term_25_speech_000132,22443,2015-07-29,2015,7,Ahmet Aydın,Adalet ve Kalkınma Partisi,opposition,42,1,1,1,0.0,mixed
+term_25_speech_000135,22443,2015-07-29,2015,7,Ahmet Aydın,Adalet ve Kalkınma Partisi,opposition,235,2,3,0,0.75,positive
+term_25_speech_000138,22443,2015-07-29,2015,7,Ahmet Aydın,Adalet ve Kalkınma Partisi,opposition,165,2,0,0,0.0,mixed
+term_25_speech_000139,22443,2015-07-29,2015,7,Ahmet Aydın,Adalet ve Kalkınma Partisi,opposition,85,1,2,0,0.6667,positive
+term_25_speech_000144,22443,2015-07-29,2015,7,Ahmet Aydın,Adalet ve Kalkınma Partisi,opposition,28,1,0,0,0.0,mixed
+term_25_speech_000145,22443,2015-07-29,2015,7,Ahmet Aydın,Adalet ve Kalkınma Partisi,opposition,129,1,1,1,0.0,mixed
+term_25_speech_000147,22443,2015-07-29,2015,7,Ahmet Aydın,Adalet ve Kalkınma Partisi,opposition,34,1,0,0,0.0,mixed
+term_25_speech_000148,22443,2015-07-29,2015,7,Ahmet Aydın,Adalet ve Kalkınma Partisi,opposition,262,1,1,0,0.5,positive
+term_25_speech_000150,22443,2015-07-29,2015,7,Ahmet Aydın,Adalet ve Kalkınma Partisi,opposition,569,3,6,4,0.1818,mixed
+term_25_speech_000151,22443,2015-07-29,2015,7,Ahmet Aydın,Adalet ve Kalkınma Partisi,opposition,88,3,0,8,-0.8889,negative
+term_25_speech_000154,22443,2015-07-29,2015,7,Ahmet Aydın,Adalet ve Kalkınma Partisi,opposition,149,2,0,0,0.0,mixed
+term_25_speech_000156,22443,2015-07-29,2015,7,Ahmet Aydın,Adalet ve Kalkınma Partisi,opposition,34,1,0,3,-0.75,negative
+term_25_speech_000157,22443,2015-07-29,2015,7,İdris Baluken,Halkların Demokratik Partisi,opposition,45,1,0,0,0.0,mixed
+term_25_speech_000158,22443,2015-07-29,2015,7,Levent Gök,Cumhuriyet Halk Partisi,opposition,535,1,0,4,-0.8,negative
+term_25_speech_000159,22443,2015-07-29,2015,7,Levent Gök,Cumhuriyet Halk Partisi,opposition,189,2,2,10,-0.6154,negative
+term_25_speech_000160,22443,2015-07-29,2015,7,Levent Gök,Cumhuriyet Halk Partisi,opposition,278,2,1,8,-0.7,negative
+term_25_speech_000161,22443,2015-07-29,2015,7,Oktay Vural,Milliyetçi Hareket Partisi,opposition,90,2,2,5,-0.375,negative
+term_25_speech_000163,22443,2015-07-29,2015,7,Oktay Vural,Milliyetçi Hareket Partisi,opposition,35,1,0,0,0.0,mixed
+term_25_speech_000164,22443,2015-07-29,2015,7,Levent Gök,Cumhuriyet Halk Partisi,opposition,92,1,0,2,-0.6667,negative
+term_25_speech_000201,22445,2015-09-03,2015,9,Ahmet Aydın,Adalet ve Kalkınma Partisi,opposition,120,1,0,0,0.0,mixed
+term_25_speech_000219,22445,2015-09-03,2015,9,Mahir Ünal,Adalet ve Kalkınma Partisi,opposition,96,1,0,0,0.0,mixed
+term_25_speech_000225,22445,2015-09-03,2015,9,Mithat Sancar,Halkların Demokratik Partisi,opposition,1647,3,2,13,-0.6875,negative
+term_25_speech_000226,22445,2015-09-03,2015,9,Ahmet Aydın,Adalet ve Kalkınma Partisi,opposition,31,1,0,0,0.0,mixed
+term_25_speech_000227,22445,2015-09-03,2015,9,Oktay Vural,Milliyetçi Hareket Partisi,opposition,336,2,6,9,-0.1875,mixed
+term_25_speech_000228,22445,2015-09-03,2015,9,Oktay Vural,Milliyetçi Hareket Partisi,opposition,507,2,0,1,-0.5,negative
+term_25_speech_000241,22445,2015-09-03,2015,9,Ahmet Aydın,Adalet ve Kalkınma Partisi,opposition,408,5,5,11,-0.3529,negative
+term_25_speech_000248,22445,2015-09-03,2015,9,Aytun Çıray,Cumhuriyet Halk Partisi,opposition,32,1,0,2,-0.6667,negative
+term_25_speech_000251,22445,2015-09-03,2015,9,Oktay Vural,Milliyetçi Hareket Partisi,opposition,216,3,4,6,-0.1818,mixed
+term_25_speech_000252,22445,2015-09-03,2015,9,Özgür Özel,Cumhuriyet Halk Partisi,opposition,98,2,0,0,0.0,mixed
+term_25_speech_000253,22445,2015-09-03,2015,9,Gökcen Özdoğan Enç,Adalet ve Kalkınma Partisi,opposition,72,1,0,0,0.0,mixed
+term_25_speech_000254,22447,2015-10-01,2015,10,Recep Tayyip Erdoğan,Adalet ve Kalkınma Partisi,opposition,2603,11,34,23,0.1897,mixed
+term_25_speech_000256,22447,2015-10-01,2015,10,Erkan Akçay,Milliyetçi Hareket Partisi,opposition,9,1,0,0,0.0,mixed
+term_25_speech_000267,22447,2015-10-01,2015,10,Mustafa Akaydın,Cumhuriyet Halk Partisi,opposition,74,1,1,0,0.5,positive
+term_25_speech_000269,22447,2015-10-01,2015,10,Oktay Vural,Milliyetçi Hareket Partisi,opposition,357,4,3,4,-0.125,mixed
+term_25_speech_000274,22447,2015-10-01,2015,10,Ahmet Aydın,Adalet ve Kalkınma Partisi,opposition,65,1,0,1,-0.5,negative
+term_25_speech_000276,22447,2015-10-01,2015,10,Levent Gök,Cumhuriyet Halk Partisi,opposition,120,1,0,0,0.0,mixed
+term_25_speech_000278,22447,2015-10-01,2015,10,Mehmet Doğan Kubat,Adalet ve Kalkınma Partisi,opposition,257,1,0,0,0.0,mixed
+term_25_speech_000279,22447,2015-10-01,2015,10,İdris Baluken,Halkların Demokratik Partisi,opposition,227,1,0,5,-0.8333,negative
+term_25_speech_000286,22447,2015-10-01,2015,10,Levent Gök,Cumhuriyet Halk Partisi,opposition,10,1,0,0,0.0,mixed
+term_25_speech_000287,22447,2015-10-01,2015,10,Levent Gök,Cumhuriyet Halk Partisi,opposition,48,2,0,0,0.0,mixed
+term_25_speech_000290,22447,2015-10-01,2015,10,Levent Gök,Cumhuriyet Halk Partisi,opposition,35,1,0,1,-0.5,negative
+term_25_speech_000296,22447,2015-10-01,2015,10,Mehmet Doğan Kubat,Adalet ve Kalkınma Partisi,opposition,202,3,0,0,0.0,mixed
+term_25_speech_000299,22447,2015-10-01,2015,10,Levent Gök,Cumhuriyet Halk Partisi,opposition,391,2,4,0,0.8,positive
+term_25_speech_000302,22447,2015-10-01,2015,10,Levent Gök,Cumhuriyet Halk Partisi,opposition,121,2,0,0,0.0,mixed
+term_25_speech_000303,22447,2015-10-01,2015,10,Levent Gök,Cumhuriyet Halk Partisi,opposition,238,2,6,0,0.8571,positive
+term_25_speech_000307,22447,2015-10-01,2015,10,İlknur İnceöz,Adalet ve Kalkınma Partisi,opposition,6,1,0,0,0.0,mixed
+term_25_speech_000309,22447,2015-10-01,2015,10,Pervin Buldan,Halkların Demokratik Partisi,opposition,55,1,0,0,0.0,mixed
+term_25_speech_000316,22447,2015-10-01,2015,10,Pervin Buldan,Halkların Demokratik Partisi,opposition,102,1,1,1,0.0,mixed
+term_25_speech_000317,22447,2015-10-01,2015,10,Oktay Vural,Milliyetçi Hareket Partisi,opposition,601,3,3,4,-0.125,mixed
+term_25_speech_000318,22447,2015-10-01,2015,10,Oktay Vural,Milliyetçi Hareket Partisi,opposition,167,1,0,1,-0.5,negative
+term_25_speech_000321,22447,2015-10-01,2015,10,Oktay Vural,Milliyetçi Hareket Partisi,opposition,44,1,0,0,0.0,mixed
+term_25_speech_000322,22447,2015-10-01,2015,10,Meral Danış Beştaş,Halkların Demokratik Partisi,opposition,116,1,0,1,-0.5,negative
+term_25_speech_000325,22447,2015-10-01,2015,10,Meral Danış Beştaş,Halkların Demokratik Partisi,opposition,12,1,0,1,-0.5,negative
+term_25_speech_000326,22447,2015-10-01,2015,10,Meral Danış Beştaş,Halkların Demokratik Partisi,opposition,12,1,0,0,0.0,mixed
+term_25_speech_000334,22447,2015-10-01,2015,10,Zehra Taşkesenlioğlu,Cumhuriyet Halk Partisi,opposition,11,1,0,0,0.0,mixed
+term_25_speech_000336,22447,2015-10-01,2015,10,Ayşe Sula Köseoğlu,Adalet ve Kalkınma Partisi,opposition,7,1,0,0,0.0,mixed
+term_25_speech_000340,22447,2015-10-01,2015,10,Meral Danış Beştaş,Halkların Demokratik Partisi,opposition,21,2,0,4,-0.8,negative
+term_25_speech_000341,22447,2015-10-01,2015,10,Zehra Taşkesenlioğlu,Cumhuriyet Halk Partisi,opposition,10,1,0,0,0.0,mixed
+term_25_speech_000344,22447,2015-10-01,2015,10,Ahmet Aydın,Adalet ve Kalkınma Partisi,opposition,114,2,0,0,0.0,mixed
+term_25_speech_000347,22447,2015-10-01,2015,10,Ahmet Aydın,Adalet ve Kalkınma Partisi,opposition,30,1,0,0,0.0,mixed
+term_25_speech_000350,22447,2015-10-01,2015,10,Ahmet Aydın,Adalet ve Kalkınma Partisi,opposition,18,1,0,0,0.0,mixed
+term_25_speech_000351,22447,2015-10-01,2015,10,Ahmet Aydın,Adalet ve Kalkınma Partisi,opposition,8,1,1,0,0.5,positive
+term_25_speech_000352,22447,2015-10-01,2015,10,Ahmet Aydın,Adalet ve Kalkınma Partisi,opposition,20,1,0,0,0.0,mixed
+term_25_speech_000353,22447,2015-10-01,2015,10,Ahmet Aydın,Adalet ve Kalkınma Partisi,opposition,33,1,0,0,0.0,mixed
+term_25_speech_000355,22447,2015-10-01,2015,10,Ahmet Aydın,Adalet ve Kalkınma Partisi,opposition,19,1,0,0,0.0,mixed
+term_25_speech_000356,22447,2015-10-01,2015,10,Ahmet Aydın,Adalet ve Kalkınma Partisi,opposition,64,1,0,1,-0.5,negative
+term_25_speech_000357,22447,2015-10-01,2015,10,Ahmet Aydın,Adalet ve Kalkınma Partisi,opposition,31,1,0,0,0.0,mixed
+term_25_speech_000361,22447,2015-10-01,2015,10,Ahmet Aydın,Adalet ve Kalkınma Partisi,opposition,32,1,0,0,0.0,mixed
+term_25_speech_000362,22447,2015-10-01,2015,10,İdris Baluken,Halkların Demokratik Partisi,opposition,14,1,0,0,0.0,mixed
+term_25_speech_000363,22447,2015-10-01,2015,10,Ali Kenanoğlu,Adalet ve Kalkınma Partisi,opposition,11,1,0,0,0.0,mixed
+term_25_speech_000368,22447,2015-10-01,2015,10,İdris Baluken,Halkların Demokratik Partisi,opposition,9,1,0,0,0.0,mixed
+term_25_speech_000370,22447,2015-10-01,2015,10,Mehmet Ali Pulcu,Adalet ve Kalkınma Partisi,opposition,28,1,0,0,0.0,mixed
+term_25_speech_000387,22447,2015-10-01,2015,10,İdris Baluken,Halkların Demokratik Partisi,opposition,208,1,4,1,0.5,positive
+term_25_speech_000388,22447,2015-10-01,2015,10,İdris Baluken,Halkların Demokratik Partisi,opposition,55,1,2,1,0.25,positive
+term_25_speech_000390,22447,2015-10-01,2015,10,Levent Gök,Cumhuriyet Halk Partisi,opposition,211,1,0,0,0.0,mixed
+term_25_speech_000391,22447,2015-10-01,2015,10,Ahmet Aydın,Adalet ve Kalkınma Partisi,opposition,223,2,3,3,0.0,mixed

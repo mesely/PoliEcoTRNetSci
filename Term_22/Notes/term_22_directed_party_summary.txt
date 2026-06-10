@@ -1,0 +1,47 @@
+Term 22 | Directed inter-party network summary
+
+Focus parties: CHP, AK Party, ANAP, DYP
+Directed mention rows: 11082
+Speeches with explicit party targeting: 10644
+Strongest negative edge: CHP -> AK Party (3284.3 weight, 76.6% of all negative weight).
+Negative network summary: density=1.000, binary reciprocity=1.000, weighted reciprocity=0.094
+Main target node: AK Party
+Main outgoing node: CHP
+
+Hypothesis results:
+- DH1: beta=0.0347 | p=0.6325 | supported_10pct=False | Crisis language raises cross-bloc negative targeting
+- DH2: beta=0.7783 | p=0.1635 | supported_10pct=False | Crisis language concentrates negative targeting in the AKP-CHP dyad
+- DH3: beta=0.8043 | p=0.0457 | supported_10pct=True | Cross-bloc negative targeting widens semantic distance
+- DH4: beta=1.0141 | p=0.0660 | supported_10pct=True | Economy-targeted negative attacks foreshadow financial stress
+- DH5: beta=0.4194 | p=0.0890 | supported_10pct=True | Negative reciprocity intensifies negative semantic distance
+- DH6: beta=-10.8314 | p=0.1463 | supported_10pct=False | Constitution-targeted negative attacks push the USD/TRY return
+
+Directed Granger signals:
+- akp_chp_negative_share -> gov_opp_cosine_distance_total | lag=1 | p=0.5637
+- akp_chp_negative_share -> gov_opp_cosine_distance_total | lag=2 | p=0.7477
+- akp_chp_negative_share -> gov_opp_cosine_distance_total | lag=3 | p=0.8426
+- economy_targeted_negative_share -> financial_stress_index | lag=1 | p=0.0089
+- economy_targeted_negative_share -> financial_stress_index | lag=2 | p=0.4501
+- economy_targeted_negative_share -> financial_stress_index | lag=3 | p=0.0575
+- negative_cross_bloc_share -> gov_opp_cosine_distance_total | lag=1 | p=0.2826
+- negative_cross_bloc_share -> gov_opp_cosine_distance_total | lag=2 | p=0.1559
+- negative_cross_bloc_share -> gov_opp_cosine_distance_total | lag=3 | p=0.2395
+- negative_reciprocity -> gov_opp_cosine_distance_negative | lag=1 | p=0.1913
+- negative_reciprocity -> gov_opp_cosine_distance_negative | lag=2 | p=0.6076
+- negative_reciprocity -> gov_opp_cosine_distance_negative | lag=3 | p=0.2879
+
+- CSVs/term_22_directed_party_mention_rows.csv
+- CSVs/term_22_directed_party_period_edges.csv
+- CSVs/term_22_directed_party_yearly_edges.csv
+- CSVs/term_22_directed_party_monthly_panel.csv
+- CSVs/term_22_directed_party_party_metrics.csv
+- CSVs/term_22_directed_party_network_summary.csv
+- CSVs/term_22_directed_party_hypothesis_coefficients.csv
+- CSVs/term_22_directed_party_hypothesis_summary.csv
+- CSVs/term_22_directed_party_granger_results.csv
+- Figures/term_22_directed_party_main_networks.png
+- Figures/term_22_directed_party_yearly_negative_networks.png
+- Figures/term_22_directed_party_yearly_positive_networks.png
+- Figures/term_22_directed_party_interaction_heatmaps.png
+- Figures/term_22_directed_party_role_dashboard.png
+- Figures/term_22_directed_party_hypothesis_coefficients.png

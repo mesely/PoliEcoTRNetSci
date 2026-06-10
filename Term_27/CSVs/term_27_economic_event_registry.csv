@@ -1,0 +1,3 @@
+term,event_label,event_slug,event_kind,paper_role,rationale,event_month_requested,event_month_effective,pre_months,shock_months,post_months,pre_length,post_length,eligible_month_pool_size
+27,Albayrak resignation,albayrak_resignation,economic_governance,core,Albayrak istifası ekonomik yönetişimde görünür bir kırılma yarattığı için hem agenda ownership hem de broker turnover testleri açısından merkezi bir vakadır.,2020-11,2020-11,"2020-08,2020-09,2020-10",2020-11,"2020-12,2021-01,2021-02",3,3,11
+27,FX crisis,fx_crisis,economic,core,Kur krizi geç dönemin en güçlü makroekonomik şokudur ve ekonomik çatışma geometrisinin ana stres testini oluşturur.,2022-01,2022-01,"2021-10,2021-11,2021-12",2022-01,"2022-02,2022-03,2022-04",3,3,11

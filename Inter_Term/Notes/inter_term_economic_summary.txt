@@ -1,0 +1,14 @@
+Inter-term economic summary
+========================================================================
+
+Main take-away:
+Economic shocks do not only raise criticism. They reorganize who owns the economic agenda, how far parties move on a common economy-specific latent axis, and whether conflict stays in economy or gets displaced toward constitutional/security lanes.
+
+Largest economy-salience shift: Term 27 · FX crisis (+0.178)
+Largest economic spread shift: Term 27 · Albayrak resignation (-0.754)
+Largest macro-pressure jump: Term 28 · Simsek return (+1.513)
+
+Most frequent owners of the economic agenda:
+- Cumhuriyet Halk Partisi: 2 shock(s)
+- Adalet ve Kalkınma Partisi: 1 shock(s)
+- İYİ Parti: 1 shock(s)

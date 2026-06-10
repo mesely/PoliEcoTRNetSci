@@ -1,0 +1,14 @@
+Term 24 — Economic publication brief
+========================================================================
+
+17-25 December rupture (2013-12)
+- Macro pressure shift: +0.650
+- Economy salience shift: +0.098
+- Economic spread shift: -0.454
+- Negative-edge share shift: +0.043
+- Signed modularity shift: -0.776
+- Null p (economy salience / spread): 0.364 / 0.818
+- Top attack party in shock month: Milliyetçi Hareket Partisi (-0.141)
+- Top defense party in shock month: Adalet ve Kalkınma Partisi (+0.562)
+- Top owner of the economic agenda: Adalet ve Kalkınma Partisi
+- Owner persistence into post window: False

@@ -1,0 +1,7 @@
+hypothesis_id,label,n_obs,primary_predictor,primary_beta,primary_p_value,primary_standardized_beta,supported_at_10pct
+DH1,Crisis language raises cross-bloc negative targeting,49,crisis_negative_share,0.0346960906079524,0.6324867753323855,0.0673596636420792,False
+DH2,Crisis language concentrates negative targeting in the AKP-CHP dyad,49,crisis_negative_share,0.7783153921548887,0.163494673850455,0.1652455701743766,False
+DH3,Cross-bloc negative targeting widens semantic distance,47,negative_cross_bloc_share,0.8043435889376382,0.0456737010494827,0.2620330972049172,True
+DH4,Economy-targeted negative attacks foreshadow financial stress,56,economy_targeted_negative_share,1.014062531275341,0.0660216309760373,0.321534979185572,True
+DH5,Negative reciprocity intensifies negative semantic distance,47,negative_reciprocity,0.4193982120434206,0.0889868331683048,0.2665845177746524,True
+DH6,Constitution-targeted negative attacks push the USD/TRY return,56,constitution_targeted_negative_share,-10.83138114622366,0.1463213729090517,-0.1469114858555686,False

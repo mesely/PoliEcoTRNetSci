@@ -1,0 +1,13 @@
+cause,effect,lag,n_obs,f_stat,p_value,sum_cause_lag_beta
+economy_targeted_negative_share,financial_stress_index,1,56,7.368681425115301,0.008936923472065,1.0140625312753413
+economy_targeted_negative_share,financial_stress_index,2,55,0.8111203903211903,0.450120512322992,0.6219883457434833
+economy_targeted_negative_share,financial_stress_index,3,54,2.6809768804905847,0.0575161912607917,1.6130763865761344
+negative_cross_bloc_share,gov_opp_cosine_distance_total,1,50,1.1814011236705892,0.2826139081010596,0.4863363107089257
+negative_cross_bloc_share,gov_opp_cosine_distance_total,2,49,1.939507080628099,0.1558707019413776,1.1562344148618613
+negative_cross_bloc_share,gov_opp_cosine_distance_total,3,48,1.4602329356400494,0.2394705837681978,1.6211113595907332
+akp_chp_negative_share,gov_opp_cosine_distance_total,1,50,0.3380886219535347,0.563712992674575,0.0279785492344291
+akp_chp_negative_share,gov_opp_cosine_distance_total,2,49,0.2926312113869091,0.7477384005303802,0.0437332201108977
+akp_chp_negative_share,gov_opp_cosine_distance_total,3,48,0.275672943610678,0.8426011559012533,0.0297930455907211
+negative_reciprocity,gov_opp_cosine_distance_negative,1,50,1.75808749954067,0.1912714919093606,-0.2180421659365
+negative_reciprocity,gov_opp_cosine_distance_negative,2,49,0.5039855593598512,0.6075629577313237,-0.2266281362403362
+negative_reciprocity,gov_opp_cosine_distance_negative,3,48,1.2984736372354604,0.2878779446142457,-0.4692965808175986

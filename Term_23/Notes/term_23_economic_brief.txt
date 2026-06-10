@@ -1,0 +1,26 @@
+Term 23 — Economic publication brief
+========================================================================
+
+Global crisis reaction (2008-10)
+- Macro pressure shift: +1.457
+- Economy salience shift: +0.176
+- Economic spread shift: +0.645
+- Negative-edge share shift: +0.154
+- Signed modularity shift: -0.157
+- Null p (economy salience / spread): 0.250 / 0.583
+- Top attack party in shock month: Bağımsız (-0.407)
+- Top defense party in shock month: Adalet ve Kalkınma Partisi (+0.078)
+- Top owner of the economic agenda: Adalet ve Kalkınma Partisi
+- Owner persistence into post window: True
+
+Referendum aftermath (2010-10)
+- Macro pressure shift: +0.049
+- Economy salience shift: -0.029
+- Economic spread shift: -1.043
+- Negative-edge share shift: +0.105
+- Signed modularity shift: +0.669
+- Null p (economy salience / spread): 0.833 / 0.333
+- Top attack party in shock month: Bağımsız (+0.094)
+- Top defense party in shock month: Adalet ve Kalkınma Partisi (+0.411)
+- Top owner of the economic agenda: Cumhuriyet Halk Partisi
+- Owner persistence into post window: False

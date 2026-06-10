@@ -1,0 +1,30 @@
+Term 24 (2011–2015) — Publication Brief
+========================================================================
+
+Core claim: Term 24 does not support a single aggregate shock story. It is stronger as a fragmented opposition period: Gezi hardens MHP's security frame, 17–25 splits the field between AKP's constitutional defense and MHP's economic attack, and the dershane rupture moves CHP further into macroeconomic opposition.
+
+Target outlets: Political Communication, Party Politics, Government and Opposition
+
+Strongest event findings:
+- MHP converts 17–25 into macroeconomic attack: up (RR=2.04, p=7.89e-12, 0.198->0.404; event=2013-12).
+- AKP shifts into constitutional conflict after 17–25: up (RR=1.90, p=0.000286, 0.199->0.379; event=2013-12).
+- MHP securitizes Gezi more aggressively after May 2013: up (RR=1.64, p=9.43e-08, 0.337->0.554; event=2013-05).
+- CHP pivots from constitutional to economic attack during the dershane rupture: up (RR=1.58, p=0.000131, 0.286->0.452; event=2014-03).
+- AKP answers Gezi with higher democratic-reform positivity: up (RR=1.34, p=0.000348, 0.294->0.394; event=2013-05).
+- AKP democratic-reform positivity fades in the dershane conflict: down (RR=0.76, p=0.00236, 0.374->0.285; event=2014-03).
+
+Active figures to use first:
+- Figures/term_24_causal_identification.png
+- Figures/term_24_political_dynamics.png
+- Figures/term_24_comprehensive_analysis.png
+- Figures/term_24_institutional_conflict.png
+
+Auxiliary visuals kept active:
+- Figures/term_24_layered_bipartite_networks.png
+- Figures/term_24_negative_yearly_networks.png
+- Figures/term_24_positive_yearly_networks.png
+
+Notes:
+- `neg_rate` / `pos_rate` are sentiment-hit intensities over concept mentions.
+- `agenda_share` is the concept's share within a party's total monthly agenda.
+- Term 25 is intentionally framed as a short interregnum note, not a long-window panel paper.

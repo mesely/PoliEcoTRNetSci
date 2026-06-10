@@ -1,0 +1,208 @@
+﻿speech_id,transcript_id,date,year,month,speaker,party,concept_slug,concept,concept_category,mention_count,beme_positive_hits,beme_negative_hits,salience_weight,beme_score,beme_label
+term_25_speech_000000,22431,2015-07-01,2015,7,İsmet Yılmaz,Adalet ve Kalkınma Partisi,democracy,Demokrasi,democratic_reform,7,4,2,9.1,0.2857,positive
+term_25_speech_000000,22431,2015-07-01,2015,7,İsmet Yılmaz,Adalet ve Kalkınma Partisi,law_state,Hukuk Devleti,democratic_reform,5,6,2,7.8,0.4444,positive
+term_25_speech_000000,22431,2015-07-01,2015,7,İsmet Yılmaz,Adalet ve Kalkınma Partisi,economy,Ekonomi,macro_economy,4,8,2,7.5,0.5455,positive
+term_25_speech_000000,22431,2015-07-01,2015,7,İsmet Yılmaz,Adalet ve Kalkınma Partisi,constitution,Anayasa,constitutional_conflict,11,6,2,13.8,0.4444,positive
+term_25_speech_000004,22438,2015-07-08,2015,7,Mahmut Tanal,Cumhuriyet Halk Partisi,law_state,Hukuk Devleti,democratic_reform,1,0,0,1.0,0.0,mixed
+term_25_speech_000009,22438,2015-07-08,2015,7,Mahmut Tanal,Cumhuriyet Halk Partisi,constitution,Anayasa,constitutional_conflict,1,0,0,1.0,0.0,mixed
+term_25_speech_000011,22438,2015-07-08,2015,7,Mahmut Tanal,Cumhuriyet Halk Partisi,constitution,Anayasa,constitutional_conflict,1,0,0,1.0,0.0,mixed
+term_25_speech_000013,22438,2015-07-08,2015,7,Yıldırım Tuğrul Türkeş,Adalet ve Kalkınma Partisi,law_state,Hukuk Devleti,democratic_reform,1,0,0,1.0,0.0,mixed
+term_25_speech_000013,22438,2015-07-08,2015,7,Yıldırım Tuğrul Türkeş,Adalet ve Kalkınma Partisi,security,Guvenlik,security_conflict,12,3,10,16.55,-0.5,negative
+term_25_speech_000014,22438,2015-07-08,2015,7,Murat Özçelik,Adalet ve Kalkınma Partisi,democracy,Demokrasi,democratic_reform,9,10,1,12.85,0.75,positive
+term_25_speech_000014,22438,2015-07-08,2015,7,Murat Özçelik,Adalet ve Kalkınma Partisi,reform,Reform,democratic_reform,1,0,0,1.0,0.0,mixed
+term_25_speech_000014,22438,2015-07-08,2015,7,Murat Özçelik,Adalet ve Kalkınma Partisi,european_union,Avrupa Birligi,democratic_reform,11,16,3,17.65,0.65,positive
+term_25_speech_000014,22438,2015-07-08,2015,7,Murat Özçelik,Adalet ve Kalkınma Partisi,law_state,Hukuk Devleti,democratic_reform,3,4,2,5.1,0.2857,positive
+term_25_speech_000014,22438,2015-07-08,2015,7,Murat Özçelik,Adalet ve Kalkınma Partisi,economy,Ekonomi,macro_economy,14,18,1,20.65,0.85,positive
+term_25_speech_000014,22438,2015-07-08,2015,7,Murat Özçelik,Adalet ve Kalkınma Partisi,security,Guvenlik,security_conflict,20,8,3,23.85,0.4167,positive
+term_25_speech_000014,22438,2015-07-08,2015,7,Murat Özçelik,Adalet ve Kalkınma Partisi,constitution,Anayasa,constitutional_conflict,1,0,0,1.0,0.0,mixed
+term_25_speech_000015,22438,2015-07-08,2015,7,Sırrı Süreyya Önder,Halkların Demokratik Partisi,democracy,Demokrasi,democratic_reform,5,1,0,5.35,0.5,positive
+term_25_speech_000015,22438,2015-07-08,2015,7,Sırrı Süreyya Önder,Halkların Demokratik Partisi,economy,Ekonomi,macro_economy,2,2,2,3.4,0.0,mixed
+term_25_speech_000017,22438,2015-07-08,2015,7,Sırrı Süreyya Önder,Halkların Demokratik Partisi,democracy,Demokrasi,democratic_reform,4,1,1,4.7,0.0,mixed
+term_25_speech_000017,22438,2015-07-08,2015,7,Sırrı Süreyya Önder,Halkların Demokratik Partisi,security,Guvenlik,security_conflict,1,0,1,1.35,-0.5,negative
+term_25_speech_000021,22438,2015-07-08,2015,7,Mehmet Şeker,Cumhuriyet Halk Partisi,security,Guvenlik,security_conflict,7,6,9,12.25,-0.1875,mixed
+term_25_speech_000022,22438,2015-07-08,2015,7,Şirin Ünal,Adalet ve Kalkınma Partisi,economy,Ekonomi,macro_economy,13,25,5,23.5,0.6452,positive
+term_25_speech_000022,22438,2015-07-08,2015,7,Şirin Ünal,Adalet ve Kalkınma Partisi,security,Guvenlik,security_conflict,7,6,3,10.15,0.3,positive
+term_25_speech_000023,22438,2015-07-08,2015,7,Mahmut Tanal,Cumhuriyet Halk Partisi,constitution,Anayasa,constitutional_conflict,2,0,0,2.0,0.0,mixed
+term_25_speech_000024,22438,2015-07-08,2015,7,İdris Baluken,Halkların Demokratik Partisi,democracy,Demokrasi,democratic_reform,3,0,0,3.0,0.0,mixed
+term_25_speech_000025,22438,2015-07-08,2015,7,İdris Baluken,Halkların Demokratik Partisi,law_state,Hukuk Devleti,democratic_reform,1,0,1,1.35,-0.5,negative
+term_25_speech_000026,22438,2015-07-08,2015,7,İdris Baluken,Halkların Demokratik Partisi,law_state,Hukuk Devleti,democratic_reform,1,0,1,1.35,-0.5,negative
+term_25_speech_000027,22438,2015-07-08,2015,7,İdris Baluken,Halkların Demokratik Partisi,law_state,Hukuk Devleti,democratic_reform,1,0,1,1.35,-0.5,negative
+term_25_speech_000029,22438,2015-07-08,2015,7,Levent Gök,Cumhuriyet Halk Partisi,law_state,Hukuk Devleti,democratic_reform,4,1,0,4.35,0.5,positive
+term_25_speech_000033,22438,2015-07-08,2015,7,Oktay Vural,Milliyetçi Hareket Partisi,democracy,Demokrasi,democratic_reform,2,0,1,2.35,-0.5,negative
+term_25_speech_000033,22438,2015-07-08,2015,7,Oktay Vural,Milliyetçi Hareket Partisi,law_state,Hukuk Devleti,democratic_reform,1,0,0,1.0,0.0,mixed
+term_25_speech_000033,22438,2015-07-08,2015,7,Oktay Vural,Milliyetçi Hareket Partisi,constitution,Anayasa,constitutional_conflict,1,0,0,1.0,0.0,mixed
+term_25_speech_000035,22439,2015-07-09,2015,7,Oktay Vural,Milliyetçi Hareket Partisi,security,Guvenlik,security_conflict,1,0,0,1.0,0.0,mixed
+term_25_speech_000036,22439,2015-07-09,2015,7,Ahmet Aydın,Adalet ve Kalkınma Partisi,security,Guvenlik,security_conflict,2,0,1,2.35,-0.5,negative
+term_25_speech_000037,22439,2015-07-09,2015,7,Pervin Buldan,Halkların Demokratik Partisi,democracy,Demokrasi,democratic_reform,1,0,0,1.0,0.0,mixed
+term_25_speech_000040,22439,2015-07-09,2015,7,Mahmut Tanal,Cumhuriyet Halk Partisi,constitution,Anayasa,constitutional_conflict,1,0,0,1.0,0.0,mixed
+term_25_speech_000041,22439,2015-07-09,2015,7,Uğur Bayraktutan,Cumhuriyet Halk Partisi,law_state,Hukuk Devleti,democratic_reform,1,0,0,1.0,0.0,mixed
+term_25_speech_000048,22439,2015-07-09,2015,7,Musa Çam,Cumhuriyet Halk Partisi,law_state,Hukuk Devleti,democratic_reform,1,0,0,1.0,0.0,mixed
+term_25_speech_000070,22441,2015-07-14,2015,7,Engin Altay,Adalet ve Kalkınma Partisi,democracy,Demokrasi,democratic_reform,1,1,0,1.35,0.5,positive
+term_25_speech_000070,22441,2015-07-14,2015,7,Engin Altay,Adalet ve Kalkınma Partisi,constitution,Anayasa,constitutional_conflict,3,0,0,3.0,0.0,mixed
+term_25_speech_000071,22441,2015-07-14,2015,7,İdris Baluken,Halkların Demokratik Partisi,democracy,Demokrasi,democratic_reform,3,1,0,3.35,0.5,positive
+term_25_speech_000071,22441,2015-07-14,2015,7,İdris Baluken,Halkların Demokratik Partisi,law_state,Hukuk Devleti,democratic_reform,1,0,0,1.0,0.0,mixed
+term_25_speech_000071,22441,2015-07-14,2015,7,İdris Baluken,Halkların Demokratik Partisi,constitution,Anayasa,constitutional_conflict,6,0,0,6.0,0.0,mixed
+term_25_speech_000073,22441,2015-07-14,2015,7,Mehmet Doğan Kubat,Adalet ve Kalkınma Partisi,democracy,Demokrasi,democratic_reform,1,0,0,1.0,0.0,mixed
+term_25_speech_000073,22441,2015-07-14,2015,7,Mehmet Doğan Kubat,Adalet ve Kalkınma Partisi,law_state,Hukuk Devleti,democratic_reform,3,0,0,3.0,0.0,mixed
+term_25_speech_000073,22441,2015-07-14,2015,7,Mehmet Doğan Kubat,Adalet ve Kalkınma Partisi,constitution,Anayasa,constitutional_conflict,2,0,0,2.0,0.0,mixed
+term_25_speech_000074,22441,2015-07-14,2015,7,Mehmet Doğan Kubat,Adalet ve Kalkınma Partisi,law_state,Hukuk Devleti,democratic_reform,1,0,0,1.0,0.0,mixed
+term_25_speech_000075,22441,2015-07-14,2015,7,Mehmet Doğan Kubat,Adalet ve Kalkınma Partisi,democracy,Demokrasi,democratic_reform,1,0,0,1.0,0.0,mixed
+term_25_speech_000075,22441,2015-07-14,2015,7,Mehmet Doğan Kubat,Adalet ve Kalkınma Partisi,law_state,Hukuk Devleti,democratic_reform,4,1,0,4.35,0.5,positive
+term_25_speech_000075,22441,2015-07-14,2015,7,Mehmet Doğan Kubat,Adalet ve Kalkınma Partisi,constitution,Anayasa,constitutional_conflict,2,1,0,2.35,0.5,positive
+term_25_speech_000076,22441,2015-07-14,2015,7,Mehmet Doğan Kubat,Adalet ve Kalkınma Partisi,law_state,Hukuk Devleti,democratic_reform,2,0,0,2.0,0.0,mixed
+term_25_speech_000076,22441,2015-07-14,2015,7,Mehmet Doğan Kubat,Adalet ve Kalkınma Partisi,constitution,Anayasa,constitutional_conflict,1,0,0,1.0,0.0,mixed
+term_25_speech_000077,22441,2015-07-14,2015,7,Engin Altay,Adalet ve Kalkınma Partisi,democracy,Demokrasi,democratic_reform,1,0,0,1.0,0.0,mixed
+term_25_speech_000077,22441,2015-07-14,2015,7,Engin Altay,Adalet ve Kalkınma Partisi,law_state,Hukuk Devleti,democratic_reform,2,0,0,2.0,0.0,mixed
+term_25_speech_000078,22441,2015-07-14,2015,7,Engin Altay,Adalet ve Kalkınma Partisi,democracy,Demokrasi,democratic_reform,1,0,0,1.0,0.0,mixed
+term_25_speech_000078,22441,2015-07-14,2015,7,Engin Altay,Adalet ve Kalkınma Partisi,law_state,Hukuk Devleti,democratic_reform,3,3,0,4.05,0.75,positive
+term_25_speech_000078,22441,2015-07-14,2015,7,Engin Altay,Adalet ve Kalkınma Partisi,economy,Ekonomi,macro_economy,2,0,0,2.0,0.0,mixed
+term_25_speech_000078,22441,2015-07-14,2015,7,Engin Altay,Adalet ve Kalkınma Partisi,constitution,Anayasa,constitutional_conflict,7,2,1,8.05,0.25,positive
+term_25_speech_000079,22441,2015-07-14,2015,7,Oktay Vural,Milliyetçi Hareket Partisi,sovereignty,Egemenlik,security_conflict,1,0,0,1.0,0.0,mixed
+term_25_speech_000079,22441,2015-07-14,2015,7,Oktay Vural,Milliyetçi Hareket Partisi,constitution,Anayasa,constitutional_conflict,1,0,0,1.0,0.0,mixed
+term_25_speech_000081,22441,2015-07-14,2015,7,Oktay Vural,Milliyetçi Hareket Partisi,constitution,Anayasa,constitutional_conflict,1,0,0,1.0,0.0,mixed
+term_25_speech_000082,22441,2015-07-14,2015,7,Oktay Vural,Milliyetçi Hareket Partisi,law_state,Hukuk Devleti,democratic_reform,1,1,0,1.35,0.5,positive
+term_25_speech_000082,22441,2015-07-14,2015,7,Oktay Vural,Milliyetçi Hareket Partisi,constitution,Anayasa,constitutional_conflict,1,0,0,1.0,0.0,mixed
+term_25_speech_000084,22441,2015-07-14,2015,7,Sırrı Süreyya Önder,Halkların Demokratik Partisi,law_state,Hukuk Devleti,democratic_reform,3,2,0,3.7,0.6667,positive
+term_25_speech_000084,22441,2015-07-14,2015,7,Sırrı Süreyya Önder,Halkların Demokratik Partisi,economy,Ekonomi,macro_economy,1,1,0,1.35,0.5,positive
+term_25_speech_000084,22441,2015-07-14,2015,7,Sırrı Süreyya Önder,Halkların Demokratik Partisi,constitution,Anayasa,constitutional_conflict,11,0,0,11.0,0.0,mixed
+term_25_speech_000085,22443,2015-07-29,2015,7,Bülent Arınç,Adalet ve Kalkınma Partisi,democracy,Demokrasi,democratic_reform,10,10,5,15.25,0.3125,positive
+term_25_speech_000085,22443,2015-07-29,2015,7,Bülent Arınç,Adalet ve Kalkınma Partisi,european_union,Avrupa Birligi,democratic_reform,1,2,0,1.7,0.6667,positive
+term_25_speech_000085,22443,2015-07-29,2015,7,Bülent Arınç,Adalet ve Kalkınma Partisi,law_state,Hukuk Devleti,democratic_reform,4,1,3,5.4,-0.4,negative
+term_25_speech_000085,22443,2015-07-29,2015,7,Bülent Arınç,Adalet ve Kalkınma Partisi,economy,Ekonomi,macro_economy,1,1,1,1.7,0.0,mixed
+term_25_speech_000085,22443,2015-07-29,2015,7,Bülent Arınç,Adalet ve Kalkınma Partisi,security,Guvenlik,security_conflict,32,14,21,44.25,-0.1944,mixed
+term_25_speech_000085,22443,2015-07-29,2015,7,Bülent Arınç,Adalet ve Kalkınma Partisi,constitution,Anayasa,constitutional_conflict,1,0,0,1.0,0.0,mixed
+term_25_speech_000091,22443,2015-07-29,2015,7,Osman Baydemir,Halkların Demokratik Partisi,democracy,Demokrasi,democratic_reform,1,0,0,1.0,0.0,mixed
+term_25_speech_000091,22443,2015-07-29,2015,7,Osman Baydemir,Halkların Demokratik Partisi,sovereignty,Egemenlik,security_conflict,1,0,0,1.0,0.0,mixed
+term_25_speech_000098,22443,2015-07-29,2015,7,Osman Baydemir,Halkların Demokratik Partisi,security,Guvenlik,security_conflict,1,0,0,1.0,0.0,mixed
+term_25_speech_000103,22443,2015-07-29,2015,7,Osman Baydemir,Halkların Demokratik Partisi,law_state,Hukuk Devleti,democratic_reform,3,3,0,4.05,0.75,positive
+term_25_speech_000122,22443,2015-07-29,2015,7,Murat Özçelik,Adalet ve Kalkınma Partisi,economy,Ekonomi,macro_economy,2,0,4,3.4,-0.8,negative
+term_25_speech_000122,22443,2015-07-29,2015,7,Murat Özçelik,Adalet ve Kalkınma Partisi,security,Guvenlik,security_conflict,10,1,12,14.55,-0.7857,negative
+term_25_speech_000123,22443,2015-07-29,2015,7,Ümit Özdağ,Milliyetçi Hareket Partisi,democracy,Demokrasi,democratic_reform,1,0,1,1.35,-0.5,negative
+term_25_speech_000123,22443,2015-07-29,2015,7,Ümit Özdağ,Milliyetçi Hareket Partisi,european_union,Avrupa Birligi,democratic_reform,1,0,0,1.0,0.0,mixed
+term_25_speech_000123,22443,2015-07-29,2015,7,Ümit Özdağ,Milliyetçi Hareket Partisi,law_state,Hukuk Devleti,democratic_reform,4,0,0,4.0,0.0,mixed
+term_25_speech_000123,22443,2015-07-29,2015,7,Ümit Özdağ,Milliyetçi Hareket Partisi,security,Guvenlik,security_conflict,38,7,13,45.0,-0.2857,negative
+term_25_speech_000124,22443,2015-07-29,2015,7,Ümit Özdağ,Milliyetçi Hareket Partisi,democracy,Demokrasi,democratic_reform,2,0,0,2.0,0.0,mixed
+term_25_speech_000124,22443,2015-07-29,2015,7,Ümit Özdağ,Milliyetçi Hareket Partisi,security,Guvenlik,security_conflict,3,0,3,4.05,-0.75,negative
+term_25_speech_000130,22443,2015-07-29,2015,7,Ahmet Aydın,Adalet ve Kalkınma Partisi,security,Guvenlik,security_conflict,1,0,0,1.0,0.0,mixed
+term_25_speech_000131,22443,2015-07-29,2015,7,Ahmet Aydın,Adalet ve Kalkınma Partisi,democracy,Demokrasi,democratic_reform,1,0,0,1.0,0.0,mixed
+term_25_speech_000132,22443,2015-07-29,2015,7,Ahmet Aydın,Adalet ve Kalkınma Partisi,security,Guvenlik,security_conflict,1,1,1,1.7,0.0,mixed
+term_25_speech_000135,22443,2015-07-29,2015,7,Ahmet Aydın,Adalet ve Kalkınma Partisi,democracy,Demokrasi,democratic_reform,2,3,0,3.05,0.75,positive
+term_25_speech_000135,22443,2015-07-29,2015,7,Ahmet Aydın,Adalet ve Kalkınma Partisi,security,Guvenlik,security_conflict,1,0,0,1.0,0.0,mixed
+term_25_speech_000138,22443,2015-07-29,2015,7,Ahmet Aydın,Adalet ve Kalkınma Partisi,democracy,Demokrasi,democratic_reform,2,0,0,2.0,0.0,mixed
+term_25_speech_000138,22443,2015-07-29,2015,7,Ahmet Aydın,Adalet ve Kalkınma Partisi,security,Guvenlik,security_conflict,3,0,0,3.0,0.0,mixed
+term_25_speech_000139,22443,2015-07-29,2015,7,Ahmet Aydın,Adalet ve Kalkınma Partisi,democracy,Demokrasi,democratic_reform,2,2,0,2.7,0.6667,positive
+term_25_speech_000144,22443,2015-07-29,2015,7,Ahmet Aydın,Adalet ve Kalkınma Partisi,security,Guvenlik,security_conflict,1,0,0,1.0,0.0,mixed
+term_25_speech_000145,22443,2015-07-29,2015,7,Ahmet Aydın,Adalet ve Kalkınma Partisi,security,Guvenlik,security_conflict,4,1,1,4.7,0.0,mixed
+term_25_speech_000147,22443,2015-07-29,2015,7,Ahmet Aydın,Adalet ve Kalkınma Partisi,security,Guvenlik,security_conflict,2,0,0,2.0,0.0,mixed
+term_25_speech_000148,22443,2015-07-29,2015,7,Ahmet Aydın,Adalet ve Kalkınma Partisi,security,Guvenlik,security_conflict,5,1,0,5.35,0.5,positive
+term_25_speech_000150,22443,2015-07-29,2015,7,Ahmet Aydın,Adalet ve Kalkınma Partisi,democracy,Demokrasi,democratic_reform,3,5,0,4.75,0.8333,positive
+term_25_speech_000150,22443,2015-07-29,2015,7,Ahmet Aydın,Adalet ve Kalkınma Partisi,reform,Reform,democratic_reform,1,1,0,1.35,0.5,positive
+term_25_speech_000150,22443,2015-07-29,2015,7,Ahmet Aydın,Adalet ve Kalkınma Partisi,security,Guvenlik,security_conflict,13,0,4,14.4,-0.8,negative
+term_25_speech_000151,22443,2015-07-29,2015,7,Ahmet Aydın,Adalet ve Kalkınma Partisi,democracy,Demokrasi,democratic_reform,1,0,0,1.0,0.0,mixed
+term_25_speech_000151,22443,2015-07-29,2015,7,Ahmet Aydın,Adalet ve Kalkınma Partisi,security,Guvenlik,security_conflict,5,0,6,7.1,-0.8571,negative
+term_25_speech_000151,22443,2015-07-29,2015,7,Ahmet Aydın,Adalet ve Kalkınma Partisi,tutelage,Vesayet,constitutional_conflict,2,0,2,2.7,-0.6667,negative
+term_25_speech_000154,22443,2015-07-29,2015,7,Ahmet Aydın,Adalet ve Kalkınma Partisi,law_state,Hukuk Devleti,democratic_reform,1,0,0,1.0,0.0,mixed
+term_25_speech_000154,22443,2015-07-29,2015,7,Ahmet Aydın,Adalet ve Kalkınma Partisi,security,Guvenlik,security_conflict,6,0,0,6.0,0.0,mixed
+term_25_speech_000156,22443,2015-07-29,2015,7,Ahmet Aydın,Adalet ve Kalkınma Partisi,security,Guvenlik,security_conflict,1,0,3,2.05,-0.75,negative
+term_25_speech_000157,22443,2015-07-29,2015,7,İdris Baluken,Halkların Demokratik Partisi,security,Guvenlik,security_conflict,1,0,0,1.0,0.0,mixed
+term_25_speech_000158,22443,2015-07-29,2015,7,Levent Gök,Cumhuriyet Halk Partisi,security,Guvenlik,security_conflict,10,0,4,11.4,-0.8,negative
+term_25_speech_000159,22443,2015-07-29,2015,7,Levent Gök,Cumhuriyet Halk Partisi,democracy,Demokrasi,democratic_reform,1,2,2,2.4,0.0,mixed
+term_25_speech_000159,22443,2015-07-29,2015,7,Levent Gök,Cumhuriyet Halk Partisi,security,Guvenlik,security_conflict,3,0,8,5.8,-0.8889,negative
+term_25_speech_000160,22443,2015-07-29,2015,7,Levent Gök,Cumhuriyet Halk Partisi,democracy,Demokrasi,democratic_reform,1,1,1,1.7,0.0,mixed
+term_25_speech_000160,22443,2015-07-29,2015,7,Levent Gök,Cumhuriyet Halk Partisi,security,Guvenlik,security_conflict,10,0,7,12.45,-0.875,negative
+term_25_speech_000161,22443,2015-07-29,2015,7,Oktay Vural,Milliyetçi Hareket Partisi,economy,Ekonomi,macro_economy,1,1,2,2.05,-0.25,negative
+term_25_speech_000161,22443,2015-07-29,2015,7,Oktay Vural,Milliyetçi Hareket Partisi,security,Guvenlik,security_conflict,2,1,3,3.4,-0.4,negative
+term_25_speech_000163,22443,2015-07-29,2015,7,Oktay Vural,Milliyetçi Hareket Partisi,security,Guvenlik,security_conflict,1,0,0,1.0,0.0,mixed
+term_25_speech_000164,22443,2015-07-29,2015,7,Levent Gök,Cumhuriyet Halk Partisi,security,Guvenlik,security_conflict,1,0,2,1.7,-0.6667,negative
+term_25_speech_000201,22445,2015-09-03,2015,9,Ahmet Aydın,Adalet ve Kalkınma Partisi,reform,Reform,democratic_reform,1,0,0,1.0,0.0,mixed
+term_25_speech_000219,22445,2015-09-03,2015,9,Mahir Ünal,Adalet ve Kalkınma Partisi,law_state,Hukuk Devleti,democratic_reform,1,0,0,1.0,0.0,mixed
+term_25_speech_000225,22445,2015-09-03,2015,9,Mithat Sancar,Halkların Demokratik Partisi,democracy,Demokrasi,democratic_reform,2,1,1,2.7,0.0,mixed
+term_25_speech_000225,22445,2015-09-03,2015,9,Mithat Sancar,Halkların Demokratik Partisi,european_union,Avrupa Birligi,democratic_reform,1,0,0,1.0,0.0,mixed
+term_25_speech_000225,22445,2015-09-03,2015,9,Mithat Sancar,Halkların Demokratik Partisi,security,Guvenlik,security_conflict,5,1,12,9.55,-0.7857,negative
+term_25_speech_000226,22445,2015-09-03,2015,9,Ahmet Aydın,Adalet ve Kalkınma Partisi,security,Guvenlik,security_conflict,1,0,0,1.0,0.0,mixed
+term_25_speech_000227,22445,2015-09-03,2015,9,Oktay Vural,Milliyetçi Hareket Partisi,law_state,Hukuk Devleti,democratic_reform,1,2,1,2.05,0.25,positive
+term_25_speech_000227,22445,2015-09-03,2015,9,Oktay Vural,Milliyetçi Hareket Partisi,security,Guvenlik,security_conflict,9,4,8,13.2,-0.3077,negative
+term_25_speech_000228,22445,2015-09-03,2015,9,Oktay Vural,Milliyetçi Hareket Partisi,economy,Ekonomi,macro_economy,2,0,0,2.0,0.0,mixed
+term_25_speech_000228,22445,2015-09-03,2015,9,Oktay Vural,Milliyetçi Hareket Partisi,security,Guvenlik,security_conflict,1,0,1,1.35,-0.5,negative
+term_25_speech_000241,22445,2015-09-03,2015,9,Ahmet Aydın,Adalet ve Kalkınma Partisi,democracy,Demokrasi,democratic_reform,3,1,3,4.4,-0.4,negative
+term_25_speech_000241,22445,2015-09-03,2015,9,Ahmet Aydın,Adalet ve Kalkınma Partisi,law_state,Hukuk Devleti,democratic_reform,1,1,2,2.05,-0.25,negative
+term_25_speech_000241,22445,2015-09-03,2015,9,Ahmet Aydın,Adalet ve Kalkınma Partisi,security,Guvenlik,security_conflict,3,3,4,5.45,-0.125,mixed
+term_25_speech_000241,22445,2015-09-03,2015,9,Ahmet Aydın,Adalet ve Kalkınma Partisi,sovereignty,Egemenlik,security_conflict,2,0,2,2.7,-0.6667,negative
+term_25_speech_000241,22445,2015-09-03,2015,9,Ahmet Aydın,Adalet ve Kalkınma Partisi,constitution,Anayasa,constitutional_conflict,1,0,0,1.0,0.0,mixed
+term_25_speech_000248,22445,2015-09-03,2015,9,Aytun Çıray,Cumhuriyet Halk Partisi,security,Guvenlik,security_conflict,1,0,2,1.7,-0.6667,negative
+term_25_speech_000251,22445,2015-09-03,2015,9,Oktay Vural,Milliyetçi Hareket Partisi,law_state,Hukuk Devleti,democratic_reform,1,1,2,2.05,-0.25,negative
+term_25_speech_000251,22445,2015-09-03,2015,9,Oktay Vural,Milliyetçi Hareket Partisi,security,Guvenlik,security_conflict,3,3,4,5.45,-0.125,mixed
+term_25_speech_000251,22445,2015-09-03,2015,9,Oktay Vural,Milliyetçi Hareket Partisi,constitution,Anayasa,constitutional_conflict,1,0,0,1.0,0.0,mixed
+term_25_speech_000252,22445,2015-09-03,2015,9,Özgür Özel,Cumhuriyet Halk Partisi,democracy,Demokrasi,democratic_reform,1,0,0,1.0,0.0,mixed
+term_25_speech_000252,22445,2015-09-03,2015,9,Özgür Özel,Cumhuriyet Halk Partisi,sovereignty,Egemenlik,security_conflict,1,0,0,1.0,0.0,mixed
+term_25_speech_000253,22445,2015-09-03,2015,9,Gökcen Özdoğan Enç,Adalet ve Kalkınma Partisi,sovereignty,Egemenlik,security_conflict,1,0,0,1.0,0.0,mixed
+term_25_speech_000254,22447,2015-10-01,2015,10,Recep Tayyip Erdoğan,Adalet ve Kalkınma Partisi,democracy,Demokrasi,democratic_reform,11,3,4,13.45,-0.125,mixed
+term_25_speech_000254,22447,2015-10-01,2015,10,Recep Tayyip Erdoğan,Adalet ve Kalkınma Partisi,reform,Reform,democratic_reform,1,0,1,1.35,-0.5,negative
+term_25_speech_000254,22447,2015-10-01,2015,10,Recep Tayyip Erdoğan,Adalet ve Kalkınma Partisi,european_union,Avrupa Birligi,democratic_reform,2,1,0,2.35,0.5,positive
+term_25_speech_000254,22447,2015-10-01,2015,10,Recep Tayyip Erdoğan,Adalet ve Kalkınma Partisi,law_state,Hukuk Devleti,democratic_reform,3,1,1,3.7,0.0,mixed
+term_25_speech_000254,22447,2015-10-01,2015,10,Recep Tayyip Erdoğan,Adalet ve Kalkınma Partisi,economy,Ekonomi,macro_economy,36,22,8,46.5,0.4516,positive
+term_25_speech_000254,22447,2015-10-01,2015,10,Recep Tayyip Erdoğan,Adalet ve Kalkınma Partisi,inflation,Enflasyon,macro_economy,1,1,0,1.35,0.5,positive
+term_25_speech_000254,22447,2015-10-01,2015,10,Recep Tayyip Erdoğan,Adalet ve Kalkınma Partisi,interest,Faiz,macro_economy,1,2,0,1.7,0.6667,positive
+term_25_speech_000254,22447,2015-10-01,2015,10,Recep Tayyip Erdoğan,Adalet ve Kalkınma Partisi,security,Guvenlik,security_conflict,11,3,7,14.5,-0.3636,negative
+term_25_speech_000254,22447,2015-10-01,2015,10,Recep Tayyip Erdoğan,Adalet ve Kalkınma Partisi,sovereignty,Egemenlik,security_conflict,1,0,0,1.0,0.0,mixed
+term_25_speech_000254,22447,2015-10-01,2015,10,Recep Tayyip Erdoğan,Adalet ve Kalkınma Partisi,constitution,Anayasa,constitutional_conflict,1,0,0,1.0,0.0,mixed
+term_25_speech_000254,22447,2015-10-01,2015,10,Recep Tayyip Erdoğan,Adalet ve Kalkınma Partisi,tutelage,Vesayet,constitutional_conflict,1,1,2,2.05,-0.25,negative
+term_25_speech_000256,22447,2015-10-01,2015,10,Erkan Akçay,Milliyetçi Hareket Partisi,security,Guvenlik,security_conflict,1,0,0,1.0,0.0,mixed
+term_25_speech_000267,22447,2015-10-01,2015,10,Mustafa Akaydın,Cumhuriyet Halk Partisi,democracy,Demokrasi,democratic_reform,1,1,0,1.35,0.5,positive
+term_25_speech_000269,22447,2015-10-01,2015,10,Oktay Vural,Milliyetçi Hareket Partisi,democracy,Demokrasi,democratic_reform,1,0,0,1.0,0.0,mixed
+term_25_speech_000269,22447,2015-10-01,2015,10,Oktay Vural,Milliyetçi Hareket Partisi,law_state,Hukuk Devleti,democratic_reform,1,0,0,1.0,0.0,mixed
+term_25_speech_000269,22447,2015-10-01,2015,10,Oktay Vural,Milliyetçi Hareket Partisi,security,Guvenlik,security_conflict,12,3,4,14.45,-0.125,mixed
+term_25_speech_000269,22447,2015-10-01,2015,10,Oktay Vural,Milliyetçi Hareket Partisi,constitution,Anayasa,constitutional_conflict,3,0,0,3.0,0.0,mixed
+term_25_speech_000274,22447,2015-10-01,2015,10,Ahmet Aydın,Adalet ve Kalkınma Partisi,security,Guvenlik,security_conflict,2,0,1,2.35,-0.5,negative
+term_25_speech_000276,22447,2015-10-01,2015,10,Levent Gök,Cumhuriyet Halk Partisi,constitution,Anayasa,constitutional_conflict,1,0,0,1.0,0.0,mixed
+term_25_speech_000278,22447,2015-10-01,2015,10,Mehmet Doğan Kubat,Adalet ve Kalkınma Partisi,constitution,Anayasa,constitutional_conflict,7,0,0,7.0,0.0,mixed
+term_25_speech_000279,22447,2015-10-01,2015,10,İdris Baluken,Halkların Demokratik Partisi,constitution,Anayasa,constitutional_conflict,4,0,5,5.75,-0.8333,negative
+term_25_speech_000286,22447,2015-10-01,2015,10,Levent Gök,Cumhuriyet Halk Partisi,constitution,Anayasa,constitutional_conflict,1,0,0,1.0,0.0,mixed
+term_25_speech_000287,22447,2015-10-01,2015,10,Levent Gök,Cumhuriyet Halk Partisi,law_state,Hukuk Devleti,democratic_reform,1,0,0,1.0,0.0,mixed
+term_25_speech_000287,22447,2015-10-01,2015,10,Levent Gök,Cumhuriyet Halk Partisi,constitution,Anayasa,constitutional_conflict,1,0,0,1.0,0.0,mixed
+term_25_speech_000290,22447,2015-10-01,2015,10,Levent Gök,Cumhuriyet Halk Partisi,law_state,Hukuk Devleti,democratic_reform,1,0,1,1.35,-0.5,negative
+term_25_speech_000296,22447,2015-10-01,2015,10,Mehmet Doğan Kubat,Adalet ve Kalkınma Partisi,democracy,Demokrasi,democratic_reform,1,0,0,1.0,0.0,mixed
+term_25_speech_000296,22447,2015-10-01,2015,10,Mehmet Doğan Kubat,Adalet ve Kalkınma Partisi,law_state,Hukuk Devleti,democratic_reform,1,0,0,1.0,0.0,mixed
+term_25_speech_000296,22447,2015-10-01,2015,10,Mehmet Doğan Kubat,Adalet ve Kalkınma Partisi,constitution,Anayasa,constitutional_conflict,1,0,0,1.0,0.0,mixed
+term_25_speech_000299,22447,2015-10-01,2015,10,Levent Gök,Cumhuriyet Halk Partisi,democracy,Demokrasi,democratic_reform,5,3,0,6.05,0.75,positive
+term_25_speech_000299,22447,2015-10-01,2015,10,Levent Gök,Cumhuriyet Halk Partisi,constitution,Anayasa,constitutional_conflict,2,1,0,2.35,0.5,positive
+term_25_speech_000302,22447,2015-10-01,2015,10,Levent Gök,Cumhuriyet Halk Partisi,democracy,Demokrasi,democratic_reform,2,0,0,2.0,0.0,mixed
+term_25_speech_000302,22447,2015-10-01,2015,10,Levent Gök,Cumhuriyet Halk Partisi,constitution,Anayasa,constitutional_conflict,2,0,0,2.0,0.0,mixed
+term_25_speech_000303,22447,2015-10-01,2015,10,Levent Gök,Cumhuriyet Halk Partisi,democracy,Demokrasi,democratic_reform,1,2,0,1.7,0.6667,positive
+term_25_speech_000303,22447,2015-10-01,2015,10,Levent Gök,Cumhuriyet Halk Partisi,law_state,Hukuk Devleti,democratic_reform,2,4,0,3.4,0.8,positive
+term_25_speech_000307,22447,2015-10-01,2015,10,İlknur İnceöz,Adalet ve Kalkınma Partisi,security,Guvenlik,security_conflict,1,0,0,1.0,0.0,mixed
+term_25_speech_000309,22447,2015-10-01,2015,10,Pervin Buldan,Halkların Demokratik Partisi,security,Guvenlik,security_conflict,4,0,0,4.0,0.0,mixed
+term_25_speech_000316,22447,2015-10-01,2015,10,Pervin Buldan,Halkların Demokratik Partisi,security,Guvenlik,security_conflict,1,1,1,1.7,0.0,mixed
+term_25_speech_000317,22447,2015-10-01,2015,10,Oktay Vural,Milliyetçi Hareket Partisi,democracy,Demokrasi,democratic_reform,3,1,0,3.35,0.5,positive
+term_25_speech_000317,22447,2015-10-01,2015,10,Oktay Vural,Milliyetçi Hareket Partisi,law_state,Hukuk Devleti,democratic_reform,1,0,0,1.0,0.0,mixed
+term_25_speech_000317,22447,2015-10-01,2015,10,Oktay Vural,Milliyetçi Hareket Partisi,security,Guvenlik,security_conflict,5,2,4,7.1,-0.2857,negative
+term_25_speech_000318,22447,2015-10-01,2015,10,Oktay Vural,Milliyetçi Hareket Partisi,democracy,Demokrasi,democratic_reform,4,0,1,4.35,-0.5,negative
+term_25_speech_000321,22447,2015-10-01,2015,10,Oktay Vural,Milliyetçi Hareket Partisi,sovereignty,Egemenlik,security_conflict,1,0,0,1.0,0.0,mixed
+term_25_speech_000322,22447,2015-10-01,2015,10,Meral Danış Beştaş,Halkların Demokratik Partisi,law_state,Hukuk Devleti,democratic_reform,1,0,1,1.35,-0.5,negative
+term_25_speech_000325,22447,2015-10-01,2015,10,Meral Danış Beştaş,Halkların Demokratik Partisi,law_state,Hukuk Devleti,democratic_reform,1,0,1,1.35,-0.5,negative
+term_25_speech_000326,22447,2015-10-01,2015,10,Meral Danış Beştaş,Halkların Demokratik Partisi,law_state,Hukuk Devleti,democratic_reform,1,0,0,1.0,0.0,mixed
+term_25_speech_000334,22447,2015-10-01,2015,10,Zehra Taşkesenlioğlu,Cumhuriyet Halk Partisi,security,Guvenlik,security_conflict,1,0,0,1.0,0.0,mixed
+term_25_speech_000336,22447,2015-10-01,2015,10,Ayşe Sula Köseoğlu,Adalet ve Kalkınma Partisi,security,Guvenlik,security_conflict,1,0,0,1.0,0.0,mixed
+term_25_speech_000340,22447,2015-10-01,2015,10,Meral Danış Beştaş,Halkların Demokratik Partisi,law_state,Hukuk Devleti,democratic_reform,1,0,2,1.7,-0.6667,negative
+term_25_speech_000340,22447,2015-10-01,2015,10,Meral Danış Beştaş,Halkların Demokratik Partisi,constitution,Anayasa,constitutional_conflict,1,0,2,1.7,-0.6667,negative
+term_25_speech_000341,22447,2015-10-01,2015,10,Zehra Taşkesenlioğlu,Cumhuriyet Halk Partisi,security,Guvenlik,security_conflict,1,0,0,1.0,0.0,mixed
+term_25_speech_000344,22447,2015-10-01,2015,10,Ahmet Aydın,Adalet ve Kalkınma Partisi,security,Guvenlik,security_conflict,5,0,0,5.0,0.0,mixed
+term_25_speech_000344,22447,2015-10-01,2015,10,Ahmet Aydın,Adalet ve Kalkınma Partisi,sovereignty,Egemenlik,security_conflict,1,0,0,1.0,0.0,mixed
+term_25_speech_000347,22447,2015-10-01,2015,10,Ahmet Aydın,Adalet ve Kalkınma Partisi,security,Guvenlik,security_conflict,1,0,0,1.0,0.0,mixed
+term_25_speech_000350,22447,2015-10-01,2015,10,Ahmet Aydın,Adalet ve Kalkınma Partisi,security,Guvenlik,security_conflict,1,0,0,1.0,0.0,mixed
+term_25_speech_000351,22447,2015-10-01,2015,10,Ahmet Aydın,Adalet ve Kalkınma Partisi,security,Guvenlik,security_conflict,1,1,0,1.35,0.5,positive
+term_25_speech_000352,22447,2015-10-01,2015,10,Ahmet Aydın,Adalet ve Kalkınma Partisi,security,Guvenlik,security_conflict,2,0,0,2.0,0.0,mixed
+term_25_speech_000353,22447,2015-10-01,2015,10,Ahmet Aydın,Adalet ve Kalkınma Partisi,security,Guvenlik,security_conflict,1,0,0,1.0,0.0,mixed
+term_25_speech_000355,22447,2015-10-01,2015,10,Ahmet Aydın,Adalet ve Kalkınma Partisi,law_state,Hukuk Devleti,democratic_reform,1,0,0,1.0,0.0,mixed
+term_25_speech_000356,22447,2015-10-01,2015,10,Ahmet Aydın,Adalet ve Kalkınma Partisi,security,Guvenlik,security_conflict,2,0,1,2.35,-0.5,negative
+term_25_speech_000357,22447,2015-10-01,2015,10,Ahmet Aydın,Adalet ve Kalkınma Partisi,security,Guvenlik,security_conflict,1,0,0,1.0,0.0,mixed
+term_25_speech_000361,22447,2015-10-01,2015,10,Ahmet Aydın,Adalet ve Kalkınma Partisi,security,Guvenlik,security_conflict,2,0,0,2.0,0.0,mixed
+term_25_speech_000362,22447,2015-10-01,2015,10,İdris Baluken,Halkların Demokratik Partisi,security,Guvenlik,security_conflict,1,0,0,1.0,0.0,mixed
+term_25_speech_000363,22447,2015-10-01,2015,10,Ali Kenanoğlu,Adalet ve Kalkınma Partisi,security,Guvenlik,security_conflict,1,0,0,1.0,0.0,mixed
+term_25_speech_000368,22447,2015-10-01,2015,10,İdris Baluken,Halkların Demokratik Partisi,security,Guvenlik,security_conflict,1,0,0,1.0,0.0,mixed
+term_25_speech_000370,22447,2015-10-01,2015,10,Mehmet Ali Pulcu,Adalet ve Kalkınma Partisi,democracy,Demokrasi,democratic_reform,1,0,0,1.0,0.0,mixed
+term_25_speech_000387,22447,2015-10-01,2015,10,İdris Baluken,Halkların Demokratik Partisi,democracy,Demokrasi,democratic_reform,2,4,1,3.75,0.5,positive
+term_25_speech_000388,22447,2015-10-01,2015,10,İdris Baluken,Halkların Demokratik Partisi,democracy,Demokrasi,democratic_reform,2,2,1,3.05,0.25,positive
+term_25_speech_000390,22447,2015-10-01,2015,10,Levent Gök,Cumhuriyet Halk Partisi,democracy,Demokrasi,democratic_reform,1,0,0,1.0,0.0,mixed
+term_25_speech_000391,22447,2015-10-01,2015,10,Ahmet Aydın,Adalet ve Kalkınma Partisi,democracy,Demokrasi,democratic_reform,2,3,0,3.05,0.75,positive
+term_25_speech_000391,22447,2015-10-01,2015,10,Ahmet Aydın,Adalet ve Kalkınma Partisi,security,Guvenlik,security_conflict,4,0,3,5.05,-0.75,negative

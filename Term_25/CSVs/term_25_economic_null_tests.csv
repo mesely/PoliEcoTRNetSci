@@ -1,0 +1,2 @@
+term,event_label,event_slug,null_draws,econ_salience_obs,econ_salience_null_mean,econ_salience_null_std,econ_salience_null_p,spread_obs,spread_null_mean,spread_null_std,spread_null_p,constitutional_obs,constitutional_null_mean,constitutional_null_p,security_obs,security_null_mean,security_null_p
+25,Pre-November election macro reset,pre_november_election_macro_reset,0,0.13739436554391887,,,,-2.299567520557454,,,,0.04839356777766439,,,-0.19264315729909748,,

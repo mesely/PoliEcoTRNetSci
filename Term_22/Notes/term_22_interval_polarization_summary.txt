@@ -1,0 +1,27 @@
+Term 22 interval + polarization summary
+
+Leftmost party:
+  Bağımsız (-0.973)
+
+Rightmost party:
+  Adalet ve Kalkınma Partisi (0.531)
+
+Widest within-term interval:
+  Bağımsız (width=6.137)
+
+Community sizes:
+  Pole +   : 33
+  Pole -   : 16
+  Neutral  : 277
+
+Observed polarization score:
+  9.6784
+
+Null-model p-value:
+  0.0000
+
+Peak monthly ideological spread:
+  2004-02 (spread=9.662)
+
+Top gatekeeper:
+  Önder Sav / Cumhuriyet Halk Partisi (score=2.590)

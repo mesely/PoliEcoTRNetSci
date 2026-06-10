@@ -1,0 +1,14 @@
+# Python dependencies for the PoliEcoTRNetSci figure & analysis pipeline.
+# Tested with Python 3.12.9 (macOS, Apple Silicon).
+#
+# The versions below are the exact ones used to produce the published
+# figures. If an exact build is unavailable on your platform, relaxing the
+# "==" pins to ">=" is safe for the figure pipeline.
+
+numpy==2.4.3
+pandas==3.0.1
+matplotlib==3.10.8
+networkx==3.6.1
+scipy==1.17.1
+seaborn==0.13.2
+scikit-learn==1.8.0

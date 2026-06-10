@@ -1,0 +1,4 @@
+term,event_label,event_slug,event_month,stage,speaker,party,gatekeeper_score,cross_pressure,brokerage_concentration_hhi,top_broker_party_agg,top_party_mean_score,top_party_max_score,top_party_n_brokers
+26,15 July / OHAL shock,15_july___ohal_shock,2016-07,pre,Mehmet Parsak,Milliyetçi Hareket Partisi,3.0190014968988192,0.0,0.17354396434371244,Halkların Demokratik Partisi,2.1564838569935527,3.0143166637858805,29
+26,15 July / OHAL shock,15_july___ohal_shock,2016-07,shock,Bülent Yener Bektaşoğlu,Cumhuriyet Halk Partisi,2.982794028146169,0.0,0.20560813736606345,Adalet ve Kalkınma Partisi,1.4943994350754326,2.9827571458874864,25
+26,15 July / OHAL shock,15_july___ohal_shock,2016-07,post,Bülent Turan,Adalet ve Kalkınma Partisi,2.937361228539767,0.0,0.20110049652973613,Adalet ve Kalkınma Partisi,2.072433641568234,2.937361228539767,27

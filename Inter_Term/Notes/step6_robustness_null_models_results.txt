@@ -1,0 +1,20 @@
+Step 6 robustness and null model summary
+
+Core-event observed vs null means
+ term            event_label  econ_salience_obs  econ_salience_null_mean  econ_salience_null_p  spread_obs  spread_null_mean  spread_null_p
+   23 Global crisis reaction           0.176289                -0.112982              0.250000    0.644939          0.030355       0.583333
+   27   Albayrak resignation           0.099421                -0.012264              0.181818   -0.753935         -0.099201       0.636364
+   27              FX crisis           0.178418                -0.031332              0.100000   -0.496116         -0.059510       0.900000
+
+Summary metrics
+   summary_type                      metric  mean_p_value  min_p_value  share_p_leq_0_10  mean_abs_zscore  max_abs_zscore    value
+    null_metric               econ_salience      0.467396     0.100000               0.1         1.381303        2.887784      NaN
+    null_metric                      spread      0.565114     0.037037               0.1         0.794576        1.923162      NaN
+    null_metric              constitutional      0.560195     0.090909               0.1              NaN             NaN      NaN
+    null_metric                    security      0.380883     0.037037               0.1              NaN             NaN      NaN
+axis_validation observed_anchor_correlation           NaN          NaN               NaN              NaN             NaN 0.710894
+axis_validation        anchor_permutation_p           NaN          NaN               NaN              NaN             NaN 0.000000
+axis_validation  bootstrap_anchor_corr_mean           NaN          NaN               NaN              NaN             NaN 0.673531
+axis_validation   bootstrap_anchor_corr_std           NaN          NaN               NaN              NaN             NaN 0.077424
+axis_validation    leave_one_anchor_out_min           NaN          NaN               NaN              NaN             NaN 0.971839
+axis_validation   leave_one_anchor_out_mean           NaN          NaN               NaN              NaN             NaN 0.994246

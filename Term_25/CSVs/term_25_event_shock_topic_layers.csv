@@ -1,0 +1,13 @@
+﻿term,event_month,event_label,topic,topic_label,salience_pre,salience_post,salience_delta,neg_rate_pre,neg_rate_post,neg_rate_delta,top_party_pre,top_party_post
+25,2015-07,Violence escalation,constitutional_conflict,Constitutional conflict,,0.08747599743972691,,,0.044642857142857144,,,Halkların Demokratik Partisi
+25,2015-07,Violence escalation,democratic_reform,Democratic reform,,0.2920578195007467,,,0.4765037593984962,,,Halkların Demokratik Partisi
+25,2015-07,Violence escalation,macro_economy,Macro economy,,0.0691273735865159,,,0.2125,,,Adalet ve Kalkınma Partisi
+25,2015-07,Violence escalation,security_conflict,Security conflict,,0.5513388094730105,,,0.888888888888889,,,Milliyetçi Hareket Partisi
+25,2015-09,Conflict peak,constitutional_conflict,Constitutional conflict,0.12844036697247707,0.09119059656218402,-0.03724977041029305,0.08928571428571429,0.18,0.0907142857142857,Halkların Demokratik Partisi,Cumhuriyet Halk Partisi
+25,2015-09,Conflict peak,democratic_reform,Democratic reform,0.30504587155963303,0.28899140546006064,-0.016054466099572395,0.20300751879699247,0.5022727272727272,0.29926520847573473,Halkların Demokratik Partisi,Cumhuriyet Halk Partisi
+25,2015-09,Conflict peak,macro_economy,Macro economy,0.09174311926605505,0.12651668351870576,0.03477356425265071,0.425,0.10526315789473684,-0.31973684210526315,Adalet ve Kalkınma Partisi,Adalet ve Kalkınma Partisi
+25,2015-09,Conflict peak,security_conflict,Security conflict,0.47477064220183485,0.49330131445904957,0.01853067225721472,0.5555555555555556,0.7702020202020202,0.21464646464646464,Milliyetçi Hareket Partisi,Milliyetçi Hareket Partisi
+25,2015-10,Pre-Nov election,constitutional_conflict,Constitutional conflict,0.046511627906976744,0.1358695652173913,0.08935793731041455,0.0,0.36,0.36,Adalet ve Kalkınma Partisi,Cumhuriyet Halk Partisi
+25,2015-10,Pre-Nov election,democratic_reform,Democratic reform,0.27906976744186046,0.29891304347826086,0.019843276036400403,0.75,0.2545454545454545,-0.4954545454545455,Adalet ve Kalkınma Partisi,Cumhuriyet Halk Partisi
+25,2015-10,Pre-Nov election,macro_economy,Macro economy,0.046511627906976744,0.20652173913043478,0.16001011122345804,0.0,0.21052631578947367,0.21052631578947367,Milliyetçi Hareket Partisi,Adalet ve Kalkınma Partisi
+25,2015-10,Pre-Nov election,security_conflict,Security conflict,0.627906976744186,0.358695652173913,-0.269211324570273,1.2222222222222223,0.3181818181818182,-0.9040404040404042,Milliyetçi Hareket Partisi,Milliyetçi Hareket Partisi

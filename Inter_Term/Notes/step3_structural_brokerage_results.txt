@@ -1,0 +1,34 @@
+Step 3 structural brokerage summary
+
+Term 23 · Global crisis reaction
+  Pre broker speaker : Orhan Erdem / Adalet ve Kalkınma Partisi
+  Shock broker speaker : Cumali Durmuş / Milliyetçi Hareket Partisi
+  Pre broker party (mean score) : Bağımsız (2.193)
+  Shock broker party (mean score) : Milliyetçi Hareket Partisi (1.532)
+  Speaker turnover : True
+  Party turnover   : True
+  Broker score Δ   : -0.660
+  Brokerage concentration Δ : 0.055
+  Top broker persistence into post : False
+
+Term 27 · FX crisis
+  Pre broker speaker : Remziye Tosun / Halkların Demokratik Partisi
+  Shock broker speaker : Nuran İmir / Halkların Demokratik Partisi
+  Pre broker party (mean score) : Demokrat Parti (1.042)
+  Shock broker party (mean score) : İYİ Parti (1.613)
+  Speaker turnover : True
+  Party turnover   : True
+  Broker score Δ   : 0.571
+  Brokerage concentration Δ : 0.043
+  Top broker persistence into post : False
+
+Term 28 · Local election shock
+  Pre broker speaker : Burcu Köksal / Cumhuriyet Halk Partisi
+  Shock broker speaker : Sezai Temelli / Halkların Eşitlik ve Demokrasi Partisi
+  Pre broker party (mean score) : Demokratik Sol Parti (2.570)
+  Shock broker party (mean score) : Halkların Eşitlik ve Demokrasi Partisi (1.731)
+  Speaker turnover : True
+  Party turnover   : True
+  Broker score Δ   : -0.838
+  Brokerage concentration Δ : 0.131
+  Top broker persistence into post : False

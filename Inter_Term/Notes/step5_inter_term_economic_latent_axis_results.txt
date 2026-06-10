@@ -1,0 +1,61 @@
+Step 5 inter-term economic latent axis summary
+
+Observed anchor correlation: 0.710894
+Anchor permutation p-value: 0.000000
+Bootstrap anchor correlation mean: 0.673531
+Bootstrap anchor correlation std: 0.077424
+
+Axis weights
+concept_slug    weight
+     economy  0.853178
+         imf -0.195328
+   inflation  0.299705
+    interest  0.379620
+
+Selected party interval centers across terms
+ term                        party    center      left     right
+   22   Adalet ve Kalkınma Partisi  1.028136  0.496910  1.322112
+   23   Adalet ve Kalkınma Partisi  0.841053  0.338774  1.656144
+   24   Adalet ve Kalkınma Partisi  1.287997  1.248204  1.650559
+   25   Adalet ve Kalkınma Partisi  1.700603  1.700603  1.700603
+   26   Adalet ve Kalkınma Partisi  1.575056  1.496322  1.688322
+   27   Adalet ve Kalkınma Partisi  1.328111  0.626462  1.498307
+   28   Adalet ve Kalkınma Partisi  1.578607  0.891780  2.003572
+   22      Cumhuriyet Halk Partisi  0.257357 -0.250573  0.615504
+   23      Cumhuriyet Halk Partisi -0.049160 -1.447903  0.142938
+   24      Cumhuriyet Halk Partisi -0.147712 -1.255644  0.142012
+   26      Cumhuriyet Halk Partisi -0.213865 -0.350784 -0.068683
+   27      Cumhuriyet Halk Partisi -1.292781 -1.820880 -1.075208
+   28      Cumhuriyet Halk Partisi -1.131062 -1.536073 -0.604393
+   28                    DEM Parti -1.168107 -2.149434  1.380700
+   24 Halkların Demokratik Partisi -0.461669 -1.177012  0.540384
+   25 Halkların Demokratik Partisi  0.437288  0.437288  0.437288
+   26 Halkların Demokratik Partisi -0.475999 -0.547316 -0.148400
+   27 Halkların Demokratik Partisi -1.923711 -2.143415 -1.775330
+   23   Milliyetçi Hareket Partisi -0.204441 -1.184583  0.038497
+   24   Milliyetçi Hareket Partisi -0.259425 -0.671130  0.212546
+   25   Milliyetçi Hareket Partisi -0.901085 -0.901085 -0.901085
+   26   Milliyetçi Hareket Partisi -0.039681 -0.060886  0.050973
+   27   Milliyetçi Hareket Partisi  0.692991  0.228431  1.268574
+   28   Milliyetçi Hareket Partisi  1.887035  1.763542  2.016312
+   26                    İYİ Parti -0.127665 -0.270779  0.952031
+   27                    İYİ Parti -0.581556 -0.856099 -0.421360
+   28                    İYİ Parti -1.000161 -1.241189 -0.832976
+
+Party drift summary
+                                 party  n_terms  first_term  last_term  first_center  last_center  net_drift  mean_center  std_center  min_center  max_center
+            Adalet ve Kalkınma Partisi        7          22         28      1.028136     1.578607   0.550471     1.334223    0.290575    0.841053    1.700603
+                              Bağımsız        6          22         28     -0.107120     0.476809   0.583929    -0.071231    0.368428   -0.581000    0.476809
+               Cumhuriyet Halk Partisi        6          22         28      0.257357    -1.131062  -1.388419    -0.429537    0.574424   -1.292781    0.257357
+            Milliyetçi Hareket Partisi        6          23         28     -0.204441     1.887035   2.091475     0.195899    0.888210   -0.901085    1.887035
+          Halkların Demokratik Partisi        4          24         27     -0.461669    -1.923711  -1.462043    -0.606023    0.845953   -1.923711    0.437288
+                        Saadet Partisi        3          26         28     -0.127665     0.185764   0.313429     0.007579    0.131510   -0.127665    0.185764
+                             İYİ Parti        3          26         28     -0.127665    -1.000161  -0.872496    -0.569794    0.356292   -1.000161   -0.127665
+                  Demokratik Sol Parti        2          23         28      0.237868    -0.007409  -0.245277     0.115229    0.122638   -0.007409    0.237868
+                  Türkiye İşçi Partisi        2          27         28     -0.845019     0.640023   1.485043    -0.102498    0.742521   -0.845019    0.640023
+                      Anavatan Partisi        1          22         22      0.253686     0.253686   0.000000     0.253686    0.000000    0.253686    0.253686
+                  Büyük Birlik Partisi        1          27         27      0.926601     0.926601   0.000000     0.926601    0.000000    0.926601    0.926601
+                             DEM Parti        1          28         28     -1.168107    -1.168107   0.000000    -1.168107    0.000000   -1.168107   -1.168107
+                        Demokrat Parti        1          27         27     -0.635459    -0.635459   0.000000    -0.635459    0.000000   -0.635459   -0.635459
+                     Doğru Yol Partisi        1          22         22     -0.567459    -0.567459   0.000000    -0.567459    0.000000   -0.567459   -0.567459
+Halkların Eşitlik ve Demokrasi Partisi        1          28         28     -1.241524    -1.241524   0.000000    -1.241524    0.000000   -1.241524   -1.241524

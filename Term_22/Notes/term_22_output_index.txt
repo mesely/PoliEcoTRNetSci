@@ -1,0 +1,16 @@
+- CSVs/term_22_beme_speech_labels.csv
+- CSVs/term_22_beme_concept_edges.csv
+- CSVs/term_22_layer_party_concept_edges.csv
+- CSVs/term_22_layer_party_metrics.csv
+- CSVs/term_22_layer_concept_metrics.csv
+- CSVs/term_22_layer_network_summary.csv
+- CSVs/term_22_yearly_layer_party_concept_edges.csv
+- CSVs/term_22_yearly_layer_party_metrics.csv
+- CSVs/term_22_yearly_layer_concept_metrics.csv
+- CSVs/term_22_yearly_layer_network_summary.csv
+- Figures/term_22_beme_label_distribution.png
+- Figures/term_22_layered_bipartite_networks.png
+- Figures/term_22_layered_metric_dashboard.png
+- Figures/term_22_total_yearly_networks.png
+- Figures/term_22_positive_yearly_networks.png
+- Figures/term_22_negative_yearly_networks.png

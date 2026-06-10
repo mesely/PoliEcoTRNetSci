@@ -1,0 +1,5 @@
+term,event_label,event_slug,event_month,stage,party,mentions,agenda_share,balance,negative_rate,positive_rate,position
+25,Pre-November election macro reset,pre_november_election_macro_reset,2015-10,pre,Adalet ve Kalkınma Partisi,36.0,0.8571428571428571,0.5909090909090909,0.3611111111111111,1.4444444444444444,1.7999943127782556
+25,Pre-November election macro reset,pre_november_election_macro_reset,2015-10,pre,Halkların Demokratik Partisi,3.0,0.07142857142857142,0.16666666666666666,0.6666666666666666,1.0,0.43728763392939385
+25,Pre-November election macro reset,pre_november_election_macro_reset,2015-10,pre,Milliyetçi Hareket Partisi,3.0,0.07142857142857142,-0.25,0.6666666666666666,0.3333333333333333,-0.4995732077791986
+25,Pre-November election macro reset,pre_november_election_macro_reset,2015-10,shock,Adalet ve Kalkınma Partisi,38.0,1.0,0.5,0.21052631578947367,0.6578947368421053,1.418855596487177

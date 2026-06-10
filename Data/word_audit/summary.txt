@@ -1,0 +1,21 @@
+Stopword Audit Summary
+----------------------
+full_rows: 658391
+sampled_rows: 180629
+sample_by_donem:
+22: 30000
+23: 30000
+24: 30000
+25: 629
+26: 30000
+27: 30000
+28: 30000
+
+candidate_rows: 2000
+selected_for_review_or_add: 465
+
+output_files:
+- candidate_stopwords_detailed.csv
+- proposed_stopwords.csv
+- top_words_by_donem.csv
+- top_words_by_party.csv

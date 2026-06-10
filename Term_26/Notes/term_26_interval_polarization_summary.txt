@@ -1,0 +1,27 @@
+Term 26 interval + polarization summary
+
+Leftmost party:
+  Halkların Demokratik Partisi (-1.679)
+
+Rightmost party:
+  Adalet ve Kalkınma Partisi (1.854)
+
+Widest within-term interval:
+  İYİ Parti (width=4.062)
+
+Community sizes:
+  Pole +   : 82
+  Pole -   : 77
+  Neutral  : 163
+
+Observed polarization score:
+  10.7730
+
+Null-model p-value:
+  0.0000
+
+Peak monthly ideological spread:
+  2016-03 (spread=7.642)
+
+Top gatekeeper:
+  İlknur İnceöz / Adalet ve Kalkınma Partisi (score=2.942)

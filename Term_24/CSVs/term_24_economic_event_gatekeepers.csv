@@ -1,0 +1,4 @@
+term,event_label,event_slug,event_month,stage,speaker,party,gatekeeper_score,cross_pressure,brokerage_concentration_hhi,top_broker_party_agg,top_party_mean_score,top_party_max_score,top_party_n_brokers
+24,17-25 December rupture,17_25_december_rupture,2013-12,pre,Ayşe Türkmenoğlu,Adalet ve Kalkınma Partisi,3.0867121655867447,0.0,0.24832244322244112,Bağımsız,2.317865504202018,2.4030375960121018,2
+24,17-25 December rupture,17_25_december_rupture,2013-12,shock,Osman Ören,Adalet ve Kalkınma Partisi,3.0359588347135245,0.0,0.20019081871809244,Milliyetçi Hareket Partisi,1.9786232285433734,2.998502712161336,33
+24,17-25 December rupture,17_25_december_rupture,2013-12,post,Uğur Bayraktutan,Cumhuriyet Halk Partisi,3.0154367612089548,0.0,0.21024272469283836,Bağımsız,1.8383884492544387,2.635605042238503,5

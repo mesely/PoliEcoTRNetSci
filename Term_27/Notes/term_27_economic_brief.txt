@@ -1,0 +1,26 @@
+Term 27 — Economic publication brief
+========================================================================
+
+Albayrak resignation (2020-11)
+- Macro pressure shift: -0.322
+- Economy salience shift: +0.099
+- Economic spread shift: -0.754
+- Negative-edge share shift: +0.049
+- Signed modularity shift: +0.764
+- Null p (economy salience / spread): 0.182 / 0.636
+- Top attack party in shock month: Cumhuriyet Halk Partisi (-0.521)
+- Top defense party in shock month: Demokrat Parti (+0.500)
+- Top owner of the economic agenda: Cumhuriyet Halk Partisi
+- Owner persistence into post window: True
+
+FX crisis (2022-01)
+- Macro pressure shift: +0.050
+- Economy salience shift: +0.178
+- Economic spread shift: -0.496
+- Negative-edge share shift: +0.011
+- Signed modularity shift: -0.407
+- Null p (economy salience / spread): 0.100 / 0.900
+- Top attack party in shock month: Halkların Demokratik Partisi (-0.703)
+- Top defense party in shock month: Milliyetçi Hareket Partisi (+0.584)
+- Top owner of the economic agenda: İYİ Parti
+- Owner persistence into post window: False

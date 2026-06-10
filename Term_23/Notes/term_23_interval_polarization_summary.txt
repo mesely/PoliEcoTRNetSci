@@ -1,0 +1,27 @@
+Term 23 interval + polarization summary
+
+Leftmost party:
+  Demokratik Sol Parti (-1.575)
+
+Rightmost party:
+  Adalet ve Kalkınma Partisi (1.574)
+
+Widest within-term interval:
+  Demokratik Sol Parti (width=3.067)
+
+Community sizes:
+  Pole +   : 94
+  Pole -   : 78
+  Neutral  : 129
+
+Observed polarization score:
+  9.3416
+
+Null-model p-value:
+  0.0000
+
+Peak monthly ideological spread:
+  2008-01 (spread=11.743)
+
+Top gatekeeper:
+  Yılmaz Tunç / Adalet ve Kalkınma Partisi (score=2.975)

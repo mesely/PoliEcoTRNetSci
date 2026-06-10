@@ -1,0 +1,2 @@
+term,event_label,event_slug,event_kind,paper_role,rationale,event_month_requested,event_month_effective,pre_months,shock_months,post_months,pre_length,post_length,eligible_month_pool_size
+25,Pre-November election macro reset,pre_november_election_macro_reset,economic,support,"Kısa interregnum terminde zaman varyasyonu az olduğu için Kasım seçimi öncesindeki makro yeniden ayar, uygulanabilir tek ekonomik olay penceresidir.",2015-10,2015-10,"2015-07,2015-08,2015-09",2015-10,"2015-11,2015-12,2016-01",3,3,0

@@ -1,0 +1,13 @@
+﻿term,event_month,event_label,party,pre_position,post_position,delta_position
+25,2015-07,Violence escalation,Adalet ve Kalkınma Partisi,,5.907178250156879,
+25,2015-07,Violence escalation,Cumhuriyet Halk Partisi,,-0.4071620062353112,
+25,2015-07,Violence escalation,Halkların Demokratik Partisi,,-0.8905075614987905,
+25,2015-07,Violence escalation,Milliyetçi Hareket Partisi,,-0.20624026595075978,
+25,2015-09,Conflict peak,Adalet ve Kalkınma Partisi,0.9910835711696147,8.051775519332626,7.0606919481630115
+25,2015-09,Conflict peak,Cumhuriyet Halk Partisi,-0.3912388872362739,-1.5400762027258854,-1.1488373154896114
+25,2015-09,Conflict peak,Halkların Demokratik Partisi,-1.2723721440170714,-1.1786279670889004,0.09374417692817105
+25,2015-09,Conflict peak,Milliyetçi Hareket Partisi,0.005553207133793481,-0.4043792107160456,-0.4099324178498391
+25,2015-10,Pre-Nov election,Adalet ve Kalkınma Partisi,10.823272929144144,5.280278109521109,-5.542994819623035
+25,2015-10,Pre-Nov election,Cumhuriyet Halk Partisi,-0.4230851252343484,-2.6570672802174227,-2.2339821549830745
+25,2015-10,Pre-Nov election,Halkların Demokratik Partisi,-0.5086429789805096,-1.8486129551972912,-1.3399699762167816
+25,2015-10,Pre-Nov election,Milliyetçi Hareket Partisi,-0.41803373903531305,-0.39072468239677816,0.02730905663853489

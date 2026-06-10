@@ -1,0 +1,7 @@
+term,event_label,event_slug,event_month,stage,speaker,party,gatekeeper_score,cross_pressure,brokerage_concentration_hhi,top_broker_party_agg,top_party_mean_score,top_party_max_score,top_party_n_brokers
+22,2006 market turbulence,2006_market_turbulence,2006-05,pre,Mevlüt Akgün,Adalet ve Kalkınma Partisi,3.020855760557698,0.0,0.278004517384291,Bağımsız,1.6040996860806491,2.555686767551509,4
+22,2006 market turbulence,2006_market_turbulence,2006-05,shock,Atilla Kart,Cumhuriyet Halk Partisi,2.912628956878868,0.0,0.20544416617500627,Doğru Yol Partisi,2.4197643603869285,2.4197643603869285,1
+22,2006 market turbulence,2006_market_turbulence,2006-05,post,Ali Babacan,Adalet ve Kalkınma Partisi,3.0313273031683625,0.0,0.2971242009288479,Cumhuriyet Halk Partisi,1.4485131693045106,2.920848036456668,42
+22,E-memorandum,e_memorandum,2007-04,pre,Memet Ali Suçin,Adalet ve Kalkınma Partisi,3.02553014635112,0.0,0.26780575185625677,Adalet ve Kalkınma Partisi,2.018796384486004,3.02553014635112,83
+22,E-memorandum,e_memorandum,2007-04,shock,Deniz Baykal,Cumhuriyet Halk Partisi,2.984794638801815,0.0,0.28608753841512047,Bağımsız,2.950768802739388,2.950768802739388,1
+22,E-memorandum,e_memorandum,2007-04,post,Engin Altay,Cumhuriyet Halk Partisi,3.043883941832442,0.0,0.33370628669460384,Cumhuriyet Halk Partisi,1.6265958849432314,3.043883941832442,60

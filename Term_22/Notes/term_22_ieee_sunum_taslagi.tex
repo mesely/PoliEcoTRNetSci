@@ -1,0 +1,220 @@
+\documentclass[conference]{IEEEtran}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[turkish,english]{babel}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{multirow}
+\usepackage{amsmath}
+\usepackage{hyperref}
+\usepackage[caption=false,font=footnotesize]{subfig}
+\usepackage{xcolor}
+
+\graphicspath{{../Figures/}}
+\hypersetup{colorlinks=true, linkcolor=black, urlcolor=blue, citecolor=black}
+
+\title{22. D\"onem TBMM S\"oylemi: Kavram A\u{g}lar{\i}ndan\\ Directed Parti-Parti Hedefleme Katman{\i}na Giden Sunum Tasla\u{g}{\i}}
+
+\author{
+\IEEEauthorblockN{Selman Y{\i}lmaz}
+\IEEEauthorblockA{PoliEcoTRNetworSci\\
+Sunum ama\c{c}l{\i} a\c{c}{\i}klay{\i}c{\i} rapor tasla\u{g}{\i}}
+}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+Bu dosya 22. D\"onem TBMM konu\c{s}malar{\i}ndan \c{c}{\i}kard{\i}\u{g}{\i}m{\i}z a\u{g}lar{\i} ``hoca sunumunda rahat anlat{\i}lacak'' bir dille toplar. \.{I}ki ana katman var: (i) parti-kavram ve BEME ton katman{\i}, (ii) directed signed parti-parti hedefleme katman{\i}. Genel tablo \c{s}u: kriz ve gerilim dillerinin artt{\i}\u{g}{\i} anlarda iktidar-muhalefet anlamsal mesafesi a\c{c}{\i}l{\i}yor; ekonomi eksenli negatif dil bir sonraki ay finansal stresle birlikte hareket ediyor; directed katmanda ise y\"uk b\"uy\"uk \"ol\c{c}\"ude CHP $\rightarrow$ AK Party hatt{\i}nda toplan{\i}yor. Bu metin resmi makale dili yerine, ``ne yapt{\i}k, ne bulduk, nerede temkinli olmal{\i}y{\i}z'' sorular{\i}na h{\i}zl{\i} cevap vermek i\c{c}in yaz{\i}ld{\i}.
+\end{abstract}
+
+\section{Bu Dosyada Ne Var?}
+Bu rapor 22. D\"onemi kapatmadan \"once elimizdeki analizin bug\"unk\"u son halini \"ozetliyor. Buradaki mant{\i}k basit:
+\begin{itemize}
+\item \"Once konu\c{s}malar{\i} kavramlara ba\u{g}layan bir a\u{g} kurduk. Burada ekonomi, reform, demokrasi, anayasa, g\"uvenlik gibi kavramlar var.
+\item Sonra bu kavram a\u{g}{\i}n{\i} ayl{\i}k makro veriyle e\c{s}le\c{s}tirip hipotez testleri yapt{\i}k.
+\item Son ad{\i}mda daha yorumlanabilir olsun diye ``bir parti ba\c{s}ka bir parti hakk{\i}nda nas{\i}l konu\c{s}uyor?'' sorusunu directed graph ile ayr{\i} bir katman olarak kurduk.
+\end{itemize}
+
+Sunumda en temiz hik\^aye \c{s}u olur: ``Kavram a\u{g}{\i} bize genel s\"oylemsel iklimi, directed parti-parti a\u{g}{\i} ise bu iklimin kimin kimi hedef alarak kuruldu\u{g}unu g\"osteriyor.''
+
+\section{Veri ve A\u{g} Tasar{\i}m{\i}}
+22. D\"onem analiz penceresi 1 Kas{\i}m 2002 -- 31 Temmuz 2007. \.{I}lk katmanda 22{,}370 kavram i\c{c}eren konu\c{s}ma ve 41{,}434 konu\c{s}ma-kavram kenar{\i} kullan{\i}ld{\i}. BEME ton etiketlerinin da\u{g}{\i}l{\i}m{\i} 6{,}263 pozitif, 11{,}537 karma ve 4{,}570 negatif oldu. Directed katmanda ise d\"ort partiye odakland{\i}k: AK Party, CHP, ANAP ve DYP. Burada 10{,}644 konu\c{s}mada a\c{c}{\i}k parti hedeflemesi yakaland{\i} ve toplam 11{,}082 directed mention sat{\i}r{\i} \"uretildi.
+
+Directed katmanda kenar a\u{g}{\i}rl{\i}\u{g}{\i} sadece ham s\"ozc\"uk say{\i}s{\i}ndan gelmiyor. A\u{g}{\i}rl{\i}k:
+\begin{itemize}
+\item hedef partiye yap{\i}lan mention say{\i}s{\i},
+\item mention etraf{\i}ndaki pozitif/negatif BEME i\c{s}aretleri,
+\item ve ayn{\i} penceredeki bask{\i}n konu kategorisi
+\end{itemize}
+ile birlikte kuruldu. B\"oylece ``kim kime ne kadar bakt{\i}?'' kadar ``hangi tonda bakt{\i}?'' sorusu da a\u{g}{\i}n par\c{c}as{\i} oldu.
+
+\begin{figure*}[t]
+\centering
+\subfloat[Kavram taraf{\i}: hangi partiler hangi kavram k\"opr\"ulerine daha \c{c}ok yaslan{\i}yor?]{
+\includegraphics[width=0.48\textwidth]{term_22_layered_bipartite_networks.png}
+}
+\hfill
+\subfloat[Metrik taraf{\i}: strength, centrality ve y{\i}llara da\u{g}{\i}lan yap{\i}n{\i}n k{\i}sa panosu.]{
+\includegraphics[width=0.48\textwidth]{term_22_layered_metric_dashboard.png}
+}
+\caption{22. D\"onemin ilk a\u{s}amas{\i}nda kurulan kavram-temelli a\u{g}lar. Bu fig\"urler bize ``hangi kavramlar dola\c{s}{\i}mda?'' sorusunu cevaplıyor; ama hen\"uz ``kim kimi hedef al{\i}yor?'' sorusunu ayr{\i}\c{s}t{\i}rm{\i}yor. Directed katman tam olarak bu bo\c{s}lu\u{g}u dolduruyor.}
+\label{fig:layered-overview}
+\end{figure*}
+
+\section{Kavram Katman{\i}nda Ana Bulgular}
+Burada bak{\i}lan ana hipotezler H1--H4b blo\u{g}unda topland{\i}. Sonu\c{c}lar{\i} sade dille s\"oylersek:
+\begin{itemize}
+\item \textbf{H3 tuttu.} Kriz tonunun artt{\i}\u{g}{\i} aylarda iktidar ve muhalefetin ayn{\i} kavramsal d\"unyada konu\c{s}ma ihtimali d\"u\c{s}\"uyor; anlamsal mesafe a\c{c}{\i}l{\i}yor.
+\item \textbf{H4a kuvvetli tuttu.} Negatif ekonomi s\"oylemi bir sonraki ay finansal stresi \"onceden haber verebiliyor.
+\item \textbf{H1, H2 ve H4b desteklenmedi.} Yani muhalefetin sadece kriz aylar{\i}nda daha \c{c}ok konu\c{s}tu\u{g}unu ya da pozitif reform dilinin tek ba\c{s}{\i}na BIST getirisiyle anlaml{\i} gitti\u{g}ini rahat\c{c}a s\"oyleyemiyoruz.
+\item \textbf{Event study zay{\i}f kald{\i}.} 2003 1 Mart, 2005 AB m\"uzakereleri ve 2007 367/e-muht{\i}ra olay pencerelerinde 10\% seviyesinde temiz bir pre-post fark \"uretemedik.
+\end{itemize}
+
+\begin{table*}[t]
+\centering
+\caption{Kavram katman{\i} ve directed katman i\c{c}in ana hipotez sonu\c{c}lar{\i}. ``Destek'' s\"utunu 10\% anlaml{\i}l{\i}k e\c{s}i\u{g}ine g\"ore okuyorum; ama sunumda g\"u\c{c}l\"u sonu\c{c} derken p-de\u{g}eri k\"uc\"uk olanlara daha fazla vurgu yapmak gerekir.}
+\label{tab:all-hypotheses}
+\footnotesize
+\begin{tabularx}{\textwidth}{>{\raggedright\arraybackslash}p{0.08\textwidth} >{\raggedright\arraybackslash}X >{\centering\arraybackslash}p{0.1\textwidth} >{\centering\arraybackslash}p{0.09\textwidth} >{\centering\arraybackslash}p{0.11\textwidth}}
+\toprule
+ID & G\"undelik anlam{\i} & $\beta$ & $p$ & Destek \\
+\midrule
+H1 & Kriz aylar{\i}nda muhalefet konu\c{s}ma yo\u{g}unlu\u{g}u artar & $-0.192$ & 0.720 & Hay{\i}r \\
+H2 & Negatif ekonomi salience makro oynakl{\i}\u{g}{\i} y\"ukseltir & $9.802$ & 0.283 & Hay{\i}r \\
+H3 & Kriz tonu iktidar-muhalefet anlamsal mesafesini a\c{c}ar & $0.522$ & 0.048 & Evet \\
+H4a & Negatif ekonomi s\"oylemi gelecek ay finansal stresi \"onceler & $11.709$ & 0.004 & Evet \\
+H4b & Pozitif reform s\"oylemi gelecek ay BIST getirisiyle gider & $-20.022$ & 0.517 & Hay{\i}r \\
+\midrule
+DH1 & Kriz dili partiler aras{\i} negatif hedeflemeyi artt{\i}r{\i}r & $0.035$ & 0.632 & Hay{\i}r \\
+DH2 & Kriz dili negatif y\"uk\"u AK Party--CHP hatt{\i}na toplar & $0.778$ & 0.163 & Zay{\i}f / hay{\i}r \\
+DH3 & Cross-bloc negatif hedefleme anlamsal mesafeyi a\c{c}ar & $0.804$ & 0.046 & Evet \\
+DH4 & Ekonomi hedefli negatif sald{\i}r{\i} finansal stresi \"onceler & $1.014$ & 0.066 & Evet \\
+DH5 & Negatif kar\c{s}{\i}l{\i}kl{\i}l{\i}k negatif anlamsal mesafeyi artt{\i}r{\i}r & $0.419$ & 0.089 & Evet \\
+DH6 & Anayasa hedefli negatif sald{\i}r{\i} USD/TRY getirisini iter & $-10.831$ & 0.146 & Hay{\i}r \\
+\bottomrule
+\end{tabularx}
+\end{table*}
+
+\begin{figure*}[t]
+\centering
+\subfloat[Ayl{\i}k panel: soldan sa\u{g}a ``a\u{g} metri\u{g}i + makro seri'' ili\c{s}kilerini okuyoruz. X ekseni ay, Y ekseni ilgili oran veya z-skor.]{
+\includegraphics[width=0.48\textwidth]{term_22_stage3_stage7_monthly_dashboard.png}
+}
+\hfill
+\subfloat[Regresyon katsay{\i}lar{\i}: H3 ve H4a burada ye\c{s}il kalan temel bulgular.]{
+\includegraphics[width=0.48\textwidth]{term_22_stage3_stage7_regression_coefficients.png}
+}
+\caption{Kavram katman{\i}ndan gelen ana zaman-serisi resmi. Sunumda bu fig\"ur\"un mesaj{\i} \c{s}u olabilir: ``S\"oylemsel kutupla\c{s}ma sadece soyut bir dil fark{\i} de\u{g}il; baz{\i} aylarda ekonomi stresiyle ayn{\i} ritimde hareket ediyor.''}
+\label{fig:macro-results}
+\end{figure*}
+
+\begin{figure*}[t]
+\centering
+\subfloat[Granger taraf{\i}: ekonomi negatifli\u{g}i $\rightarrow$ finansal stres ili\c{s}kisi burada yine g\"or\"ul\"uyor.]{
+\includegraphics[width=0.48\textwidth]{term_22_stage3_stage7_granger_heatmap.png}
+}
+\hfill
+\subfloat[G\"unl\"uk piyasa tepkileri: olaylar sonras{\i} BIST ve USD/TRY hareketleri sadece g\"orsel ba\u{g}lam olarak okunmal{\i}; burada nedensellik iddias{\i} kurmuyoruz.]{
+\includegraphics[width=0.48\textwidth]{term_22_stage3_stage7_daily_market_reactions.png}
+}
+\caption{Kavram katman{\i}ndan makroya ge\c{c}erken kulland{\i}\u{g}{\i}m{\i}z iki ek okuma. Burada en temiz c\"umle ``ekonomi negatifli\u{g}i finansal stresi baz{\i} gecikmelerde istikrarl{\i} olarak \"onceden haber veriyor'' olur.}
+\label{fig:granger-and-events}
+\end{figure*}
+
+\section{Directed Parti-Parti Katman{\i}: Yeni ve Daha Konu\c{s}ulabilir Sonu\c{c}lar}
+Bu yeni katmanda soru art{\i}k daha do\u{g}rudan: ``Kim kimi hedef alarak konu\c{s}uyor?'' Burada bence en sunulabilir \"u\c{c} bulgu var.
+
+\subsection{Birinci Bulgu: Negatif y\"uk tek bir hat \"uzerinde a\u{g}{\i}rla\c{s}{\i}yor}
+Toplam negatif hedeflemenin \%76.6's{\i} CHP $\rightarrow$ AK Party hatt{\i}nda toplan{\i}yor. Ters y\"onde, yani AK Party $\rightarrow$ CHP hatt{\i}, toplam negatif hedeflemenin sadece \%6.4'\"un\"u veriyor. Ayn{\i} \c{s}eyi oranla s\"oylersek CHP'nin AK Party'ye y\"oneltti\u{g}i negatif y\"uk, AK Party'nin CHP'ye y\"oneltti\u{g}i negatif y\"ukten yakla\c{s}{\i}k \textbf{12.1 kat} daha b\"uy\"uk.
+
+\subsection{\.Ikinci Bulgu: AK Party a\u{g}{\i}n ana hedef d\"u\u{g}\"um\"u}
+Directed total a\u{g}da en y\"uksek incoming attention AK Party'de ($21{,}362.3$). Negative layer'da da ayn{\i} resim var: AK Party'nin weighted incoming negatif y\"uk\"u $3{,}877.1$. Bu y\"uzden ``bu d\"onemde ana hedef kim?'' sorusunun cevab{\i} temiz \c{s}ekilde AK Party oluyor.
+
+\subsection{\"Uc\"unc\"u Bulgu: Directed katman eski hipotezleri derinle\c{s}tiriyor}
+Kavram katman{\i}nda H3 ve H4a zaten g\"u\c{c}l\"uyd\"u. Directed katmanda DH3, DH4 ve DH5 ile hik\^aye daha somut hale geldi:
+\begin{itemize}
+\item Cross-bloc negatif hedefleme artt{\i}k\c{c}a iktidar-muhalefet semantik mesafesi art{\i}yor.
+\item Ekonomi hedefli negatif sald{\i}r{\i}lar bir sonraki ay finansal stresle anlaml{\i} ili\c{s}ki veriyor.
+\item Negatif kar\c{s}{\i}l{\i}kl{\i}l{\i}k artt{\i}\u{g}{\i}nda negatif anlamsal mesafe de geni\c{s}liyor.
+\end{itemize}
+
+\begin{figure*}[t]
+\centering
+\includegraphics[width=0.96\textwidth]{term_22_directed_party_main_networks.png}
+\caption{Directed parti-parti a\u{g}{\i}n yeni ana resmi. Sol panel yaln{\i}zca pozitif destek ak{\i}\c{s}lar{\i}n{\i}, sa\u{g} panel yaln{\i}zca negatif sald{\i}r{\i} ak{\i}\c{s}lar{\i}n{\i} g\"osteriyor. Her partiyi iki kez g\"or\"uyoruz: solda kaynak, sa\u{g}da hedef olarak. B\"oylece y\"on bilgisi kar{\i}\c{s}madan okunuyor ve en bask{\i}n hat yine net \c{s}ekilde CHP $\rightarrow$ AK Party oluyor.}
+\label{fig:directed-main}
+\end{figure*}
+
+\begin{figure*}[t]
+\centering
+\subfloat[Matrix okumas{\i}: sat{\i}r konu\c{s}an partiyi, s\"utun hedeflenen partiyi g\"osterir.]{
+\includegraphics[width=0.48\textwidth]{term_22_directed_party_interaction_heatmaps.png}
+}
+\hfill
+\subfloat[Rol okumas{\i}: strength, betweenness ve closeness ile partilerin directed sistemdeki i\c{s}levi.]{
+\includegraphics[width=0.48\textwidth]{term_22_directed_party_role_dashboard.png}
+}
+\caption{Directed katman{\i}n say{\i}sal okumas{\i}. Heatmap solda CHP $\rightarrow$ AK Party negatif kutusunun neden bask{\i}n oldu\u{g}unu g\"osteriyor ($3284.3$). Role dashboard sa\u{g}da ise AK Party'nin neden ``ana hedef'' ve ayn{\i} zamanda neden ``a\u{g}{\i}n ortas{\i}nda'' duran d\"u\u{g}\"um oldu\u{g}unu g\"osteriyor. Negative layer betweenness de\u{g}eri AK Party i\c{c}in $0.833$, CHP i\c{c}in $0.333$.}
+\label{fig:directed-matrices}
+\end{figure*}
+
+\begin{figure*}[t]
+\centering
+\subfloat[Y{\i}llara g\"ore pozitif destek ak{\i}\c{s}lar{\i}: solda kaynak, sa\u{g}da hedef mant{\i}\u{g}{\i} her panelde ayn{\i} tutuldu.]{
+\includegraphics[width=0.48\textwidth]{term_22_directed_party_yearly_positive_networks.png}
+}
+\hfill
+\subfloat[Y{\i}llara g\"ore negatif hedefleme: ayn{\i} ak{\i}\c{s} d\"uzeniyle CHP $\rightarrow$ AK Party hatt{\i}n{\i}n s\"ureklili\u{g}i daha temiz g\"or\"ul\"uyor.]{
+\includegraphics[width=0.48\textwidth]{term_22_directed_party_yearly_negative_networks.png}
+}
+\caption{Directed katman{\i}n zaman taraf{\i}. Ayn{\i} source$\rightarrow$target yerle\c{s}imi her y{\i}lda korundu\u{g}u i\c{c}in pozitif destek ve negatif sald{\i}r{\i} ak{\i}\c{s}lar{\i} art{\i}k kar{\i}\c{s}madan okunuyor. Sunumda burada temiz c\"umle \c{s}u olur: destek a\u{g}{\i} daha da\u{g}{\i}n{\i}k, negatif a\u{g} ise belirli hatlarda daha sert yo\u{g}unla\c{s}{\i}yor.}
+\label{fig:directed-yearly-and-hyp}
+\end{figure*}
+
+\begin{figure}[t]
+\centering
+\includegraphics[width=0.9\columnwidth]{term_22_directed_party_hypothesis_coefficients.png}
+\caption{Directed hipotez testleri. Burada yaln{\i}zca ana predictor katsay{\i}s{\i} g\"osteriliyor; ana mesaj yine DH3, DH4 ve DH5'in pozitif y\"onde ve 10\% e\c{s}i\u{g}inde destek almas{\i}.}
+\label{fig:directed-hypothesis-coefficients}
+\end{figure}
+
+\begin{figure*}[t]
+\centering
+\includegraphics[width=0.96\textwidth]{term_22_directed_party_monthly_trends.png}
+\caption{Directed ayl{\i}k trendler. Bu fig\"urde her panelin X ekseni ay. Y ekseni ilgili directed pay veya z-skor. Sol alttaki panel sunum i\c{c}in \"ozellikle kullan{\i}\c{s}l{\i}: ekonomi hedefli negatif ton ile finansal stres ayn{\i} d\"onemlerde yukar{\i} a\c{s}a\u{g}{\i} oynuyor ve bu, DH4 ile uyumlu.}
+\label{fig:directed-monthly}
+\end{figure*}
+
+\section{Directed Katmanda Say{\i}larla Konu\c{s}ulacak K{\i}sa C\"umleler}
+Bu k{\i}s{\i}m tamamen sunum kolayl{\i}\u{g}{\i} i\c{c}in:
+\begin{itemize}
+\item ``22. D\"onemde directed negatif hedefleme simetrik de\u{g}il; a\u{g}{\i}r y\"uk CHP'den AK Party'ye gidiyor.''
+\item ``CHP $\rightarrow$ AK Party negatif kenar{\i}, t\"um negatif hedeflemenin yakla\c{s}{\i}k \%76.6's{\i}n{\i} tek ba\c{s}{\i}na topluyor.''
+\item ``AK Party bu d\"onemde en \c{c}ok hedef olan node; incoming attention ve negative centrality taraf{\i}nda birinci s{\i}rada.''
+\item ``Cross-bloc negatif hedefleme yaln{\i}zca g\"orsel olarak de\u{g}il, istatistiksel olarak da anlamsal mesafeyi art{\i}r{\i}yor.''
+\item ``Ekonomi hedefli negatif sald{\i}r{\i}lar finansal stresle ili\c{s}kili; bu hem eski H4a sonucunu g\"\c{c}lendiriyor hem directed katmanda tekrar kar\c{s}{\i}m{\i}za \c{c}{\i}k{\i}yor.''
+\item ``Negatif reciprocity var ama tam simetrik bir kavga yok; weighted reciprocity sadece $0.094$. Yani ayn{\i} sertlikte kar\c{s}{\i}l{\i}kl{\i} bir at{\i}\c{s}ma yerine tek tarafa y{\i}\u{g}{\i}lan bir hedefleme g\"or\"uyoruz.''
+\end{itemize}
+
+\section{Neyi Fazla Abartmamal{\i}y{\i}z?}
+Bu proje g\"u\c{c}l\"u ama baz{\i} yerlerde temkinli olmal{\i}y{\i}z:
+\begin{itemize}
+\item Event study sonu\c{c}lar{\i} zay{\i}f; olaylardan hemen \"once-sonra diye net bir kopu\c{s} her yerde yok.
+\item DH1 ve DH2 bekledi\u{g}imiz kadar g\"\c{c}l\"u de\u{g}il. Yani ``kriz dili otomatik olarak daha fazla cross-bloc sald{\i}r{\i} yarat{\i}yor'' c\"umlesini fazla rahat kurmamak gerekir.
+\item DH6 da desteklenmedi. Anayasa hedefli negatif sald{\i}r{\i} ile USD/TRY aras{\i}nda bu model setiyle temiz bir pozitif ba\u{g} bulamad{\i}k.
+\item Directed katman d\"ort partili sadele\c{s}tirilmi\c{s} bir okuma sunuyor; bu, yorumu kolayla\c{s}t{\i}r{\i}yor ama t\"um akt\"or \c{c}e\c{s}itlili\u{g}ini de i\c{c}ermiyor.
+\end{itemize}
+
+\section{Hocaya Sunarken Kapan{\i}\c{s} Nas{\i}l Yap{\i}l{\i}r?}
+Bence kapan{\i}\c{s} c\"umlesi \c{s}\"oyle olabilir:
+
+\begin{quote}
+``22. D\"onemde sadece hangi kavramlar{\i}n dola\c{s}{\i}mda oldu\u{g}unu de\u{g}il, bu kavramlar{\i}n hangi partiler aras{\i} directed hedeflemeyle ta\c{s}{\i}nd{\i}\u{g}{\i}n{\i} de g\"osterebildik. Sonu\c{c}ta kriz ve ekonomi eksenli negatif dilin hem siyasal kutupla\c{s}ma hem de finansal stres taraf{\i}nda kar\c{s}{\i}l{\i}\u{g}{\i} olan bir iz b{\i}rakt{\i}\u{g}{\i}n{\i} g\"or\"uyoruz.'' 
+\end{quote}
+
+E\u{g}er hoca ``peki bunun bilimsel katk{\i}s{\i} ne?'' diye sorarsa verilecek en temiz cevap \c{s}u olur: ``Kavram temelli a\u{g} ile directed signed parti-parti a\u{g}{\i}n{\i} ayn{\i} ayl{\i}k makro panelde birle\c{s}tirdik; b\"oylece sadece retorik yo\u{g}unlu\u{g}u de\u{g}il, hedeflenmi\c{s} siyasal etkile\c{s}imlerin de ekonomik ve anlamsal sonu\c{c}lar{\i}n{\i} test ettik.''
+
+\end{document}

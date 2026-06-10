@@ -1,0 +1,18 @@
+Term 22 | Directed output index
+
+Mention rows: CSVs/term_22_directed_party_mention_rows.csv
+Period edge table: CSVs/term_22_directed_party_period_edges.csv
+Yearly edge table: CSVs/term_22_directed_party_yearly_edges.csv
+Monthly directed panel: CSVs/term_22_directed_party_monthly_panel.csv
+Party metric table: CSVs/term_22_directed_party_party_metrics.csv
+Network summary: CSVs/term_22_directed_party_network_summary.csv
+Directed hypothesis coefficients: CSVs/term_22_directed_party_hypothesis_coefficients.csv
+Directed hypothesis summary: CSVs/term_22_directed_party_hypothesis_summary.csv
+Directed Granger tests: CSVs/term_22_directed_party_granger_results.csv
+Directed flow networks: Figures/term_22_directed_party_main_networks.png
+Yearly negative flow networks: Figures/term_22_directed_party_yearly_negative_networks.png
+Yearly positive flow networks: Figures/term_22_directed_party_yearly_positive_networks.png
+Interaction heatmaps: Figures/term_22_directed_party_interaction_heatmaps.png
+Role dashboard: Figures/term_22_directed_party_role_dashboard.png
+Directed hypothesis coefficients: Figures/term_22_directed_party_hypothesis_coefficients.png
+Summary: Notes/term_22_directed_party_summary.txt

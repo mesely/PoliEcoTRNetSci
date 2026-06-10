@@ -1,0 +1,2 @@
+term,event_label,event_slug,event_kind,paper_role,rationale,event_month_requested,event_month_effective,pre_months,shock_months,post_months,pre_length,post_length,eligible_month_pool_size
+26,15 July / OHAL shock,15_july___ohal_shock,control,control,15 Temmuz/OHAL hattı güvenlik-anayasa eksenli bir mega şoktur; bu yüzden ekonomi dışı yer değiştirme testleri için güçlü bir kontrol vakasıdır.,2016-07,2016-07,"2016-04,2016-05,2016-06",2016-07,"2016-08,2016-09,2016-10",3,3,10

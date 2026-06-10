@@ -1,0 +1,6 @@
+﻿hypothesis_id,label,n_obs,r_squared,adj_r_squared,primary_predictor,primary_beta,primary_p_value,primary_standardized_beta,expected_sign,supported_at_10pct
+H1,Kriz aylarinda muhalefet konusma yogunlugu artar,47,0.010952900919573683,-0.0340037854022639,crisis_month,-0.19240622953350042,0.7200098153013339,-0.05915401452514422,+,False
+H2,Ekonomi ve enflasyon salience'i makro oynakligi yukari iter,39,0.054172945178685206,-0.026897945234570342,economy_negative_share,9.801563221260858,0.2830332006073808,0.20346225549587213,+,False
+H3,Kriz salience'i iktidar-muhalefet semantik mesafesini artirir,46,0.0926618818442132,0.05046010890673469,crisis_negative_share,0.5224243451050417,0.048328823222924644,0.25325091031839037,+,True
+H4a,Negatif ekonomi soylemi gelecek ay finansal stresi ondeleyebilir,50,0.2739820149902731,0.22663301596789953,economy_negative_share,11.709156721953034,0.004054365819125438,0.3254652017890379,+,True
+H4b,Pozitif reform soylemi gelecek ay BIST getirisiyle iliskilidir,51,0.13457080187132087,0.07933064028863923,reform_positive_share,-20.021605791996667,0.5167951865779625,-0.08710343667303293,+,False

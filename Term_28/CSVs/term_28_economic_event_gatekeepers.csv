@@ -1,0 +1,6 @@
+term,event_label,event_slug,event_month,stage,speaker,party,gatekeeper_score,cross_pressure,brokerage_concentration_hhi,top_broker_party_agg,top_party_mean_score,top_party_max_score,top_party_n_brokers
+28,Simsek return,simsek_return,2023-06,shock,Utku Çakırözer,Cumhuriyet Halk Partisi,2.9104383746066556,0.0,0.2229314238989052,Milliyetçi Hareket Partisi,2.695684263574069,2.8707435944335096,2
+28,Simsek return,simsek_return,2023-06,post,Sibel Suiçmez,Cumhuriyet Halk Partisi,2.853424475513588,0.0,0.15146096190343558,Demokratik Sol Parti,1.6284332679416187,1.6284332679416187,1
+28,Local election shock,local_election_shock,2024-03,pre,Burcu Köksal,Cumhuriyet Halk Partisi,3.0335242114784835,0.0,0.11109711745383086,Demokratik Sol Parti,2.569656873648538,2.569656873648538,1
+28,Local election shock,local_election_shock,2024-03,shock,Sezai Temelli,Halkların Eşitlik ve Demokrasi Partisi,3.043906143520335,0.0,0.2425724749777144,Halkların Eşitlik ve Demokrasi Partisi,1.731370601345884,3.043906143520335,5
+28,Local election shock,local_election_shock,2024-03,post,Hasan Turan,Adalet ve Kalkınma Partisi,3.041888655354574,0.0,0.13859335679786852,Milliyetçi Hareket Partisi,1.5769887901248418,2.3484602128591847,20

@@ -1,0 +1,66 @@
+Term 22 | Asama 3-7 ozet
+
+Aylik panel gozlem sayisi: 57
+Konusma olan ay sayisi: 51
+Aylik katmanli kenar satiri: 4707
+
+Asama 3:
+- Aylik network-makro panel kuruldu.
+- Konusma, kavram, parti ve kavram merkeziligi ayni zaman eksenine tasindi.
+
+Asama 4:
+- H1-H4 hipotezleri icin olcumsellesmis degiskenler olusturuldu.
+- Topic ownership serileri ve yillik kavram sahipligi cikarildi.
+
+Asama 5:
+- H1: beta=-0.1924 | p=0.7200 | supported_10pct=False
+- H2: beta=9.8016 | p=0.2830 | supported_10pct=False
+- H3: beta=0.5224 | p=0.0483 | supported_10pct=True
+- H4a: beta=11.7092 | p=0.0041 | supported_10pct=True
+- H4b: beta=-20.0216 | p=0.5168 | supported_10pct=False
+
+Asama 6:
+- Olay pencerelerinde 10% seviyesinde anlamli fark bulunmadi.
+
+Asama 7:
+- Financial stress index -> Negative semantic distance | lag=1 | p=0.0164
+- Negative economy framing share -> Financial stress index | lag=2 | p=0.0195
+- Financial stress index -> Negative semantic distance | lag=2 | p=0.0337
+- Negative economy framing share -> Financial stress index | lag=1 | p=0.0413
+- Negative economy framing share -> Financial stress index | lag=3 | p=0.0653
+- Kriz esigi q=0.70: diff=-0.3618 | p=0.4298
+- Kriz esigi q=0.75: diff=-0.2364 | p=0.6147
+- Kriz esigi q=0.80: diff=-0.5035 | p=0.3485
+
+Uretilen dosyalar:
+- CSVs/term_22_stage3_stage7_monthly_network_macro_panel.csv
+- CSVs/term_22_stage3_stage7_monthly_layer_edges.csv
+- CSVs/term_22_stage3_stage7_monthly_party_metrics.csv
+- CSVs/term_22_stage3_stage7_monthly_concept_metrics.csv
+- CSVs/term_22_stage3_stage7_monthly_network_summary.csv
+- CSVs/term_22_stage3_stage7_monthly_topic_ownership.csv
+- CSVs/term_22_stage3_stage7_yearly_topic_ownership.csv
+- CSVs/term_22_stage3_stage7_yearly_analysis_panel.csv
+- CSVs/term_22_stage3_stage7_hypothesis_registry.csv
+- CSVs/term_22_stage3_stage7_model_coefficients.csv
+- CSVs/term_22_stage3_stage7_model_summary.csv
+- CSVs/term_22_stage3_stage7_correlation_matrix.csv
+- CSVs/term_22_stage3_stage7_correlation_tests.csv
+- CSVs/term_22_stage3_stage7_granger_results.csv
+- CSVs/term_22_stage3_stage7_event_tests.csv
+- CSVs/term_22_stage3_stage7_event_profiles.csv
+- CSVs/term_22_stage3_stage7_market_event_profiles.csv
+- CSVs/term_22_stage3_stage7_crisis_threshold_sensitivity.csv
+- CSVs/term_22_stage3_stage7_lead_sensitivity.csv
+- CSVs/term_22_stage3_stage7_leave_one_event_out.csv
+- Figures/term_22_stage3_stage7_monthly_dashboard.png
+- Figures/term_22_stage3_stage7_pairwise_relationships.png
+- Figures/term_22_stage3_stage7_topic_ownership.png
+- Figures/term_22_stage3_stage7_correlation_heatmap.png
+- Figures/term_22_stage3_stage7_regression_coefficients.png
+- Figures/term_22_stage3_stage7_granger_heatmap.png
+- Figures/term_22_stage3_stage7_event_profiles.png
+- Figures/term_22_stage3_stage7_daily_market_reactions.png
+- Figures/term_22_stage3_stage7_robustness_summary.png
+- Notes/term_22_stage3_stage7_summary.txt
+- Notes/term_22_stage3_stage7_output_index.txt

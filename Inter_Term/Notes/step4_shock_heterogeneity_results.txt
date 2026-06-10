@@ -1,0 +1,66 @@
+Step 4 shock heterogeneity and displacement summary
+
+Term 22 · E-memorandum
+  Family              : mixed_control_family
+  Macro pressure Δ    : 0.022
+  Economy salience Δ  : -0.125
+  Constitution Δ      : 0.024
+  Security Δ          : 0.040
+  Competing gain      : 0.065
+  Displacement index  : 0.190
+  Displacement flag   : True
+
+Term 23 · Global crisis reaction
+  Family              : economic_family
+  Macro pressure Δ    : 1.457
+  Economy salience Δ  : 0.176
+  Constitution Δ      : -0.062
+  Security Δ          : 0.127
+  Competing gain      : 0.127
+  Displacement index  : -0.049
+  Displacement flag   : False
+
+Term 24 · 17-25 December rupture
+  Family              : mixed_control_family
+  Macro pressure Δ    : 0.650
+  Economy salience Δ  : 0.098
+  Constitution Δ      : 0.002
+  Security Δ          : -0.085
+  Competing gain      : 0.002
+  Displacement index  : -0.096
+  Displacement flag   : False
+
+Term 26 · 15 July / OHAL shock
+  Family              : mixed_control_family
+  Macro pressure Δ    : 0.182
+  Economy salience Δ  : 0.060
+  Constitution Δ      : -0.071
+  Security Δ          : -0.048
+  Competing gain      : 0.000
+  Displacement index  : -0.060
+  Displacement flag   : False
+
+Term 27 · FX crisis
+  Family              : economic_family
+  Macro pressure Δ    : 0.050
+  Economy salience Δ  : 0.178
+  Constitution Δ      : 0.045
+  Security Δ          : -0.075
+  Competing gain      : 0.045
+  Displacement index  : -0.133
+  Displacement flag   : False
+
+Term 28 · Simsek return
+  Family              : economic_family
+  Macro pressure Δ    : 1.513
+  Economy salience Δ  : n/a
+  Constitution Δ      : n/a
+  Security Δ          : n/a
+  Competing gain      : 0.000
+  Displacement index  : n/a
+  Displacement flag   : False
+
+Family summary
+              family  n_events  mean_macro_pressure_delta  mean_econ_salience_delta  mean_competing_gain  mean_displacement_index  displacement_share  displacement_persistence_share
+     economic_family         2                   0.753592                  0.177354             0.086445                -0.090908            0.000000                        0.000000
+mixed_control_family         3                   0.284817                  0.011015             0.022205                 0.011190            0.333333                        0.333333

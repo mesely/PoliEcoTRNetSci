@@ -1,0 +1,26 @@
+Term 22 — Economic publication brief
+========================================================================
+
+2006 market turbulence (2006-05)
+- Macro pressure shift: +1.253
+- Economy salience shift: -0.133
+- Economic spread shift: +2.639
+- Negative-edge share shift: +0.063
+- Signed modularity shift: +0.556
+- Null p (economy salience / spread): 0.407 / 0.037
+- Top attack party in shock month: Doğru Yol Partisi (-0.679)
+- Top defense party in shock month: Adalet ve Kalkınma Partisi (+0.535)
+- Top owner of the economic agenda: Cumhuriyet Halk Partisi
+- Owner persistence into post window: False
+
+E-memorandum (2007-04)
+- Macro pressure shift: +0.022
+- Economy salience shift: -0.125
+- Economic spread shift: +1.928
+- Negative-edge share shift: +0.000
+- Signed modularity shift: +0.293
+- Null p (economy salience / spread): 0.481 / 0.111
+- Top attack party in shock month: Doğru Yol Partisi (-0.947)
+- Top defense party in shock month: Adalet ve Kalkınma Partisi (+0.566)
+- Top owner of the economic agenda: Cumhuriyet Halk Partisi
+- Owner persistence into post window: True

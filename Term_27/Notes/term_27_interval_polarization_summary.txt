@@ -1,0 +1,27 @@
+Term 27 interval + polarization summary
+
+Leftmost party:
+  Halkların Demokratik Partisi (-1.688)
+
+Rightmost party:
+  Milliyetçi Hareket Partisi (1.970)
+
+Widest within-term interval:
+  Büyük Birlik Partisi (width=3.851)
+
+Community sizes:
+  Pole +   : 25
+  Pole -   : 27
+  Neutral  : 294
+
+Observed polarization score:
+  11.0560
+
+Null-model p-value:
+  0.0000
+
+Peak monthly ideological spread:
+  2022-04 (spread=10.495)
+
+Top gatekeeper:
+  Alpay Antmen / Cumhuriyet Halk Partisi (score=3.024)

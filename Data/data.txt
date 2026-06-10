@@ -1,0 +1,92 @@
+
+Genel Ozet
+----------
+shape: (1333436, 8)
+kolonlar: transcript_id, donem, date, speaker, city, party, speech, word_count
+benzersiz transcript_id: 2.829
+benzersiz konusmaci: 5.017
+benzersiz parti: 19
+benzersiz tarih: 2.706
+donemler: 22, 23, 24, 25, 26, 27, 28
+
+Eksik Veri
+----------
+transcript_id: 0 satir, %0,00
+donem: 0 satir, %0,00
+date: 0 satir, %0,00
+speaker: 0 satir, %0,00
+city: 0 satir, %0,00
+party: 0 satir, %0,00
+speech: 0 satir, %0,00
+word_count: 0 satir, %0,00
+
+Konusma Uzunlugu
+----------------
+ortalama kelime: 76,48
+medyan kelime: 15,00
+p90 kelime: 153,00
+p99 kelime: 996,00
+ortalama karakter: 598,38
+medyan karakter: 112,00
+
+Donem Bazli Ozet
+----------------
+donem 22 | konusma=228.579 | konusmaci=1.615 | parti=7 | transcript=638 | ort_kelime=85,91 | medyan_kelime=14,00
+donem 23 | konusma=192.391 | konusmaci=1.209 | parti=8 | transcript=481 | ort_kelime=85,79 | medyan_kelime=15,00
+donem 24 | konusma=256.051 | konusmaci=1.330 | parti=7 | transcript=509 | ort_kelime=73,57 | medyan_kelime=13,00
+donem 25 | konusma=1.278 | konusmaci=135 | parti=6 | transcript=10 | ort_kelime=73,16 | medyan_kelime=16,00
+donem 26 | konusma=216.317 | konusmaci=1.136 | parti=9 | transcript=349 | ort_kelime=63,33 | medyan_kelime=13,00
+donem 27 | konusma=264.182 | konusmaci=1.236 | parti=12 | transcript=528 | ort_kelime=77,58 | medyan_kelime=18,00
+donem 28 | konusma=174.638 | konusmaci=688 | parti=14 | transcript=314 | ort_kelime=72,84 | medyan_kelime=16,00
+
+En Yuksek Parti Hacmi
+---------------------
+MECLİS BAŞKANLIĞI: konusma=540.522, konusmaci=1, ort_kelime=52,45
+Adalet ve Kalkınma Partisi: konusma=245.124, konusmaci=1.149, ort_kelime=68,42
+Cumhuriyet Halk Partisi: konusma=233.241, konusmaci=562, ort_kelime=91,27
+Bilinmeyen: konusma=134.523, konusmaci=2.821, ort_kelime=92,70
+Milliyetçi Hareket Partisi: konusma=52.892, konusmaci=173, ort_kelime=136,63
+Halkların Demokratik Partisi: konusma=51.470, konusmaci=112, ort_kelime=103,77
+İYİ Parti: konusma=22.328, konusmaci=67, ort_kelime=164,39
+Halkların Eşitlik ve Demokrasi Partisi: konusma=19.862, konusmaci=60, ort_kelime=98,68
+Bağımsız: konusma=14.719, konusmaci=113, ort_kelime=147,93
+YENİ YOL Partisi: konusma=7.590, konusmaci=19, ort_kelime=171,99
+Anavatan Partisi: konusma=4.269, konusmaci=15, ort_kelime=171,79
+Doğru Yol Partisi: konusma=4.251, konusmaci=4, ort_kelime=82,20
+Türkiye İşçi Partisi: konusma=1.135, konusmaci=5, ort_kelime=78,58
+Demokrat Parti: konusma=388, konusmaci=3, ort_kelime=86,23
+Demokratik Sol Parti: konusma=375, konusmaci=5, ort_kelime=137,43
+
+Milletvekili Odakli Ozet
+------------------------
+sadece vekil satirlari: 658.391
+benzersiz vekil: 2.197
+en aktif 20 vekil:
+Özgür Özel [Cumhuriyet Halk Partisi]: 14.374
+Engin Altay [Cumhuriyet Halk Partisi]: 9.198
+Kamer Genç [Cumhuriyet Halk Partisi]: 9.132
+Oktay Vural [Milliyetçi Hareket Partisi]: 9.022
+Mahmut Tanal [Cumhuriyet Halk Partisi]: 7.454
+Bülent Turan [Adalet ve Kalkınma Partisi]: 6.924
+Meral Danış Beştaş [Halkların Demokratik Partisi]: 6.902
+Mustafa Elitaş [Adalet ve Kalkınma Partisi]: 6.566
+Erkan Akçay [Milliyetçi Hareket Partisi]: 5.645
+İdris Baluken [Halkların Demokratik Partisi]: 5.193
+Özlem Zengin [Adalet ve Kalkınma Partisi]: 5.089
+Ali Mahir Başarır [Cumhuriyet Halk Partisi]: 5.009
+Mehmet Muş [Adalet ve Kalkınma Partisi]: 4.727
+Levent Gök [Cumhuriyet Halk Partisi]: 4.611
+Haydar Akar [Cumhuriyet Halk Partisi]: 4.446
+Haluk Koç [Cumhuriyet Halk Partisi]: 4.387
+Veli Ağbaba [Cumhuriyet Halk Partisi]: 4.373
+Muharrem İnce [Cumhuriyet Halk Partisi]: 4.246
+Naci Bostancı [Adalet ve Kalkınma Partisi]: 4.198
+Ümmet Kandoğan [Doğru Yol Partisi]: 4.178
+
+Kalite Kontrolleri
+------------------
+Bilinmeyen parti: 134.523
+MERKEZ city: 536.423
+aynı transcript-speaker-speech tekrarları: 72.573
+en kisa konusma kelime: 1
+en uzun konusma kelime: 69.656

@@ -1,0 +1,39 @@
+Term 22 | Asama 1-2 ozet
+
+Analiz penceresi: 2002-11-01 -> 2007-07-31
+Kavram iceren konusma sayisi: 22370
+Konusma-kavram kenar sayisi: 41434
+Kapsanan yillar: 2002, 2003, 2004, 2005, 2006, 2007
+
+BEME etiket dagilimi:
+- positive: 6263
+- mixed: 11537
+- negative: 4570
+
+Filtreler:
+- non-mp / bilinmeyen satirlar: 111354
+- donem penceresi disina dusen / parse edilemeyen tarih: 466
+- cok kisa konusma: 40044
+
+Katman ozetleri:
+- total: party_edges=5, concept_edges=24, party_density=0.500, avg_party_closeness=0.665, assortativity=-0.667
+- positive: party_edges=5, concept_edges=24, party_density=0.500, avg_party_closeness=0.601, assortativity=-0.429
+- negative: party_edges=5, concept_edges=24, party_density=0.500, avg_party_closeness=0.629, assortativity=-0.429
+
+Uretilen ana dosyalar:
+- CSVs/term_22_beme_speech_labels.csv
+- CSVs/term_22_beme_concept_edges.csv
+- CSVs/term_22_layer_party_concept_edges.csv
+- CSVs/term_22_layer_party_metrics.csv
+- CSVs/term_22_layer_concept_metrics.csv
+- CSVs/term_22_layer_network_summary.csv
+- CSVs/term_22_yearly_layer_party_concept_edges.csv
+- CSVs/term_22_yearly_layer_party_metrics.csv
+- CSVs/term_22_yearly_layer_concept_metrics.csv
+- CSVs/term_22_yearly_layer_network_summary.csv
+- Figures/term_22_beme_label_distribution.png
+- Figures/term_22_layered_bipartite_networks.png
+- Figures/term_22_layered_metric_dashboard.png
+- Figures/term_22_total_yearly_networks.png
+- Figures/term_22_positive_yearly_networks.png
+- Figures/term_22_negative_yearly_networks.png

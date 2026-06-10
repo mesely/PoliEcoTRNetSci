@@ -1,0 +1,25 @@
+Step 2 partisan distance summary
+
+Term 23 · Global crisis reaction
+  Spread pre/shock/post : 0.862 / 1.507 / 1.252
+  Spread delta          : 0.645
+  Negative affinity pre/shock/post : 0.298 / 0.392 / 0.312
+  Negative affinity delta         : 0.094
+  Negative-edge share pre/shock/post : 0.695 / 0.849 / 0.976
+  Signed modularity pre/shock/post  : -0.020 / -0.177 / 0.276
+
+Term 27 · FX crisis
+  Spread pre/shock/post : 5.402 / 4.906 / 2.656
+  Spread delta          : -0.496
+  Negative affinity pre/shock/post : 0.290 / 0.254 / 0.234
+  Negative affinity delta         : -0.036
+  Negative-edge share pre/shock/post : 0.614 / 0.625 / 0.642
+  Signed modularity pre/shock/post  : 0.664 / 0.257 / 0.339
+
+Term 28 · Local election shock
+  Spread pre/shock/post : 3.067 / 3.526 / 3.794
+  Spread delta          : 0.459
+  Negative affinity pre/shock/post : 0.270 / 0.292 / 0.254
+  Negative affinity delta         : 0.023
+  Negative-edge share pre/shock/post : 0.586 / 0.518 / 0.565
+  Signed modularity pre/shock/post  : 0.500 / 0.044 / 0.718

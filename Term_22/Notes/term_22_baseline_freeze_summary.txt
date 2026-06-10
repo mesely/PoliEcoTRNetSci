@@ -1,0 +1,168 @@
+Term 22 baseline freeze summary
+
+Frozen file count: 68
+CSV count: 39
+Figure count: 22
+Note count: 7
+Total frozen size (MB): 26.779
+
+This freeze captures the pre-validation 22nd-term outputs that act as the project baseline.
+The validation study does not overwrite these baseline hashes; any later rerun can be checked against the manifest.
+
+Stage 1-2 baseline note:
+Term 22 | Asama 1-2 ozet
+
+Analiz penceresi: 2002-11-01 -> 2007-07-31
+Kavram iceren konusma sayisi: 22370
+Konusma-kavram kenar sayisi: 41434
+Kapsanan yillar: 2002, 2003, 2004, 2005, 2006, 2007
+
+BEME etiket dagilimi:
+- positive: 6263
+- mixed: 11537
+- negative: 4570
+
+Filtreler:
+- non-mp / bilinmeyen satirlar: 111354
+- donem penceresi disina dusen / parse edilemeyen tarih: 466
+- cok kisa konusma: 40044
+
+Katman ozetleri:
+- total: party_edges=5, concept_edges=24, party_density=0.500, avg_party_closeness=0.665, assortativity=-0.667
+- positive: party_edges=5, concept_edges=24, party_density=0.500, avg_party_closeness=0.601, assortativity=-0.429
+- negative: party_edges=5, concept_edges=24, party_density=0.500, avg_party_closeness=0.629, assortativity=-0.429
+
+Uretilen ana dosyalar:
+- CSVs/term_22_beme_speech_labels.csv
+- CSVs/term_22_beme_concept_edges.csv
+- CSVs/term_22_layer_party_concept_edges.csv
+- CSVs/term_22_layer_party_metrics.csv
+- CSVs/term_22_layer_concept_metrics.csv
+- CSVs/term_22_layer_network_summary.csv
+- CSVs/term_22_yearly_layer_party_concept_edges.csv
+- CSVs/term_22_yearly_layer_party_metrics.csv
+- CSVs/term_22_yearly_layer_concept_metrics.csv
+- CSVs/term_22_yearly_layer_network_summary.csv
+- Figures/term_22_beme_label_distribution.png
+- Figures/term_22_layered_bipartite_networks.png
+- Figures/term_22_layered_metric_dashboard.png
+- Figures/term_22_total_yearly_networks.png
+- Figures/term_22_positive_yearly_networks.png
+- Figures/term_22_negative_yearly_networks.png
+
+Stage 3-7 baseline note:
+Term 22 | Asama 3-7 ozet
+
+Aylik panel gozlem sayisi: 57
+Konusma olan ay sayisi: 51
+Aylik katmanli kenar satiri: 4707
+
+Asama 3:
+- Aylik network-makro panel kuruldu.
+- Konusma, kavram, parti ve kavram merkeziligi ayni zaman eksenine tasindi.
+
+Asama 4:
+- H1-H4 hipotezleri icin olcumsellesmis degiskenler olusturuldu.
+- Topic ownership serileri ve yillik kavram sahipligi cikarildi.
+
+Asama 5:
+- H1: beta=-0.1924 | p=0.7200 | supported_10pct=False
+- H2: beta=9.8016 | p=0.2830 | supported_10pct=False
+- H3: beta=0.5224 | p=0.0483 | supported_10pct=True
+- H4a: beta=11.7092 | p=0.0041 | supported_10pct=True
+- H4b: beta=-20.0216 | p=0.5168 | supported_10pct=False
+
+Asama 6:
+- Olay pencerelerinde 10% seviyesinde anlamli fark bulunmadi.
+
+Asama 7:
+- Financial stress index -> Negative semantic distance | lag=1 | p=0.0164
+- Negative economy framing share -> Financial stress index | lag=2 | p=0.0195
+- Financial stress index -> Negative semantic distance | lag=2 | p=0.0337
+- Negative economy framing share -> Financial stress index | lag=1 | p=0.0413
+- Negative economy framing share -> Financial stress index | lag=3 | p=0.0653
+- Kriz esigi q=0.70: diff=-0.3618 | p=0.4298
+- Kriz esigi q=0.75: diff=-0.2364 | p=0.6147
+- Kriz esigi q=0.80: diff=-0.5035 | p=0.3485
+
+Uretilen dosyalar:
+- CSVs/term_22_stage3_stage7_monthly_network_macro_panel.csv
+- CSVs/term_22_stage3_stage7_monthly_layer_edges.csv
+- CSVs/term_22_stage3_stage7_monthly_party_metrics.csv
+- CSVs/term_22_stage3_stage7_monthly_concept_metrics.csv
+- CSVs/term_22_stage3_stage7_monthly_network_summary.csv
+- CSVs/term_22_stage3_stage7_monthly_topic_ownership.csv
+- CSVs/term_22_stage3_stage7_yearly_topic_ownership.csv
+- CSVs/term_22_stage3_stage7_yearly_analysis_panel.csv
+- CSVs/term_22_stage3_stage7_hypothesis_registry.csv
+- CSVs/term_22_stage3_stage7_model_coefficients.csv
+- CSVs/term_22_stage3_stage7_model_summary.csv
+- CSVs/term_22_stage3_stage7_correlation_matrix.csv
+- CSVs/term_22_stage3_stage7_correlation_tests.csv
+- CSVs/term_22_stage3_stage7_granger_results.csv
+- CSVs/term_22_stage3_stage7_event_tests.csv
+- CSVs/term_22_stage3_stage7_event_profiles.csv
+- CSVs/term_22_stage3_stage7_market_event_profiles.csv
+- CSVs/term_22_stage3_stage7_crisis_threshold_sensitivity.csv
+- CSVs/term_22_stage3_stage7_lead_sensitivity.csv
+- CSVs/term_22_stage3_stage7_leave_one_event_out.csv
+- Figures/term_22_stage3_stage7_monthly_dashboard.png
+- Figures/term_22_stage3_stage7_pairwise_relationships.png
+- Figures/term_22_stage3_stage7_topic_ownership.png
+- Figures/term_22_stage3_stage7_correlation_heatmap.png
+- Figures/term_22_stage3_stage7_regression_coefficients.png
+- Figures/term_22_stage3_stage7_granger_heatmap.png
+- Figures/term_22_stage3_stage7_event_profiles.png
+- Figures/term_22_stage3_stage7_daily_market_reactions.png
+- Figures/term_22_stage3_stage7_robustness_summary.png
+- Notes/term_22_stage3_stage7_summary.txt
+- Notes/term_22_stage3_stage7_output_index.txt
+
+Directed-network baseline note:
+Term 22 | Directed inter-party network summary
+
+Focus parties: CHP, AK Party, ANAP, DYP
+Directed mention rows: 11082
+Speeches with explicit party targeting: 10644
+Strongest negative edge: CHP -> AK Party (3284.3 weight, 76.6% of all negative weight).
+Negative network summary: density=1.000, binary reciprocity=1.000, weighted reciprocity=0.094
+Main target node: AK Party
+Main outgoing node: CHP
+
+Hypothesis results:
+- DH1: beta=0.0347 | p=0.6325 | supported_10pct=False | Crisis language raises cross-bloc negative targeting
+- DH2: beta=0.7783 | p=0.1635 | supported_10pct=False | Crisis language concentrates negative targeting in the AKP-CHP dyad
+- DH3: beta=0.8043 | p=0.0457 | supported_10pct=True | Cross-bloc negative targeting widens semantic distance
+- DH4: beta=1.0141 | p=0.0660 | supported_10pct=True | Economy-targeted negative attacks foreshadow financial stress
+- DH5: beta=0.4194 | p=0.0890 | supported_10pct=True | Negative reciprocity intensifies negative semantic distance
+- DH6: beta=-10.8314 | p=0.1463 | supported_10pct=False | Constitution-targeted negative attacks push the USD/TRY return
+
+Directed Granger signals:
+- akp_chp_negative_share -> gov_opp_cosine_distance_total | lag=1 | p=0.5637
+- akp_chp_negative_share -> gov_opp_cosine_distance_total | lag=2 | p=0.7477
+- akp_chp_negative_share -> gov_opp_cosine_distance_total | lag=3 | p=0.8426
+- economy_targeted_negative_share -> financial_stress_index | lag=1 | p=0.0089
+- economy_targeted_negative_share -> financial_stress_index | lag=2 | p=0.4501
+- economy_targeted_negative_share -> financial_stress_index | lag=3 | p=0.0575
+- negative_cross_bloc_share -> gov_opp_cosine_distance_total | lag=1 | p=0.2826
+- negative_cross_bloc_share -> gov_opp_cosine_distance_total | lag=2 | p=0.1559
+- negative_cross_bloc_share -> gov_opp_cosine_distance_total | lag=3 | p=0.2395
+- negative_reciprocity -> gov_opp_cosine_distance_negative | lag=1 | p=0.1913
+- negative_reciprocity -> gov_opp_cosine_distance_negative | lag=2 | p=0.6076
+- negative_reciprocity -> gov_opp_cosine_distance_negative | lag=3 | p=0.2879
+
+- CSVs/term_22_directed_party_mention_rows.csv
+- CSVs/term_22_directed_party_period_edges.csv
+- CSVs/term_22_directed_party_yearly_edges.csv
+- CSVs/term_22_directed_party_monthly_panel.csv
+- CSVs/term_22_directed_party_party_metrics.csv
+- CSVs/term_22_directed_party_network_summary.csv
+- CSVs/term_22_directed_party_hypothesis_coefficients.csv
+- CSVs/term_22_directed_party_hypothesis_summary.csv
+- CSVs/term_22_directed_party_granger_results.csv
+- Figures/term_22_directed_party_main_networks.png
+- Figures/term_22_directed_party_yearly_negative_networks.png
+- Figures/term_22_directed_party_yearly_positive_networks.png
+- Figures/term_22_directed_party_interaction_heatmaps.png
+- Figures/term_22_directed_party_role_dashboard.png
+- Figures/term_22_directed_party_hypothesis_coefficients.png

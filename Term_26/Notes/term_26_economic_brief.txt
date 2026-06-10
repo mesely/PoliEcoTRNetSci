@@ -1,0 +1,14 @@
+Term 26 — Economic publication brief
+========================================================================
+
+15 July / OHAL shock (2016-07)
+- Macro pressure shift: +0.182
+- Economy salience shift: +0.060
+- Economic spread shift: +0.051
+- Negative-edge share shift: +0.083
+- Signed modularity shift: +0.387
+- Null p (economy salience / spread): 0.700 / 1.000
+- Top attack party in shock month: İYİ Parti (-0.500)
+- Top defense party in shock month: Adalet ve Kalkınma Partisi (+0.347)
+- Top owner of the economic agenda: Milliyetçi Hareket Partisi
+- Owner persistence into post window: False

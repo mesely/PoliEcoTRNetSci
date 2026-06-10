@@ -1,0 +1,186 @@
+﻿party,concept_slug,concept,concept_category,speech_count,mention_count,beme_positive_hits,beme_negative_hits,salience_weight,layer_weight,beme_score,layer
+Cumhuriyet Halk Partisi,law_state,Hukuk Devleti,democratic_reform,2844,8781,2473,2429,10496.7,10496.7,0.008974097491331838,total
+Adalet ve Kalkınma Partisi,security,Guvenlik,security_conflict,3088,7965,1668,2797,9527.75,9527.75,-0.2527989252127183,total
+Halkların Demokratik Partisi,law_state,Hukuk Devleti,democratic_reform,2024,7028,1885,2009,8390.9,8390.9,-0.03183568677792041,total
+Cumhuriyet Halk Partisi,security,Guvenlik,security_conflict,2681,6096,1171,2378,7338.15,7338.15,-0.34,total
+Cumhuriyet Halk Partisi,economy,Ekonomi,macro_economy,2127,5502,2075,2112,6967.45,6967.45,-0.00883476599808978,total
+Adalet ve Kalkınma Partisi,economy,Ekonomi,macro_economy,1301,5179,3596,1184,6852.0,6852.0,0.5044969671616817,total
+Milliyetçi Hareket Partisi,security,Guvenlik,security_conflict,1280,5088,1287,1824,6176.85,6176.85,-0.17255784061696658,total
+Cumhuriyet Halk Partisi,constitution,Anayasa,constitutional_conflict,2067,5390,895,899,6017.9,6017.9,-0.0022284122562674096,total
+Milliyetçi Hareket Partisi,economy,Ekonomi,macro_economy,1070,4605,1819,1585,5796.4,5796.4,0.06872246696035242,total
+Adalet ve Kalkınma Partisi,law_state,Hukuk Devleti,democratic_reform,1767,4522,1359,859,5298.3,5298.3,0.22532672374943669,total
+Halkların Demokratik Partisi,democracy,Demokrasi,democratic_reform,1656,4083,1429,1183,4997.2,4997.2,0.09414466130884042,total
+Halkların Demokratik Partisi,economy,Ekonomi,macro_economy,870,3387,1301,1545,4383.1,4383.1,-0.08570425008781173,total
+Cumhuriyet Halk Partisi,democracy,Demokrasi,democratic_reform,1754,3548,1173,870,4263.05,4263.05,0.14823874755381605,total
+Halkların Demokratik Partisi,security,Guvenlik,security_conflict,1627,3236,535,1144,3823.65,3823.65,-0.3625,total
+Milliyetçi Hareket Partisi,law_state,Hukuk Devleti,democratic_reform,801,3114,1026,780,3746.1,3746.1,0.13613724405091313,total
+Halkların Demokratik Partisi,constitution,Anayasa,constitutional_conflict,1011,3092,623,614,3524.95,3524.95,0.007269789983844911,total
+Adalet ve Kalkınma Partisi,constitution,Anayasa,constitutional_conflict,1074,2824,677,415,3206.2,3206.2,0.23970722781335774,total
+Adalet ve Kalkınma Partisi,democracy,Demokrasi,democratic_reform,1101,2052,800,450,2489.5,2489.5,0.2797761790567546,total
+Milliyetçi Hareket Partisi,constitution,Anayasa,constitutional_conflict,487,1604,357,242,1813.65,1813.65,0.19166666666666668,total
+Milliyetçi Hareket Partisi,democracy,Demokrasi,democratic_reform,328,859,271,212,1028.05,1028.05,0.12190082644628099,total
+Adalet ve Kalkınma Partisi,reform,Reform,democratic_reform,284,672,370,78,828.8,828.8,0.6503340757238307,total
+Cumhuriyet Halk Partisi,european_union,Avrupa Birligi,democratic_reform,308,588,236,90,702.1,702.1,0.44648318042813456,total
+Cumhuriyet Halk Partisi,interest,Faiz,macro_economy,262,586,81,94,647.25,647.25,-0.07386363636363637,total
+Milliyetçi Hareket Partisi,interest,Faiz,macro_economy,180,534,79,121,604.0,604.0,-0.208955223880597,total
+Adalet ve Kalkınma Partisi,tutelage,Vesayet,constitutional_conflict,201,349,54,588,573.7,573.7,-0.8304821150855366,total
+Milliyetçi Hareket Partisi,reform,Reform,democratic_reform,215,482,113,87,552.0,552.0,0.12935323383084577,total
+Adalet ve Kalkınma Partisi,interest,Faiz,macro_economy,215,479,140,52,546.2,546.2,0.45595854922279794,total
+Cumhuriyet Halk Partisi,reform,Reform,democratic_reform,195,446,107,71,508.3,508.3,0.2011173184357542,total
+Milliyetçi Hareket Partisi,inflation,Enflasyon,macro_economy,111,416,118,132,503.5,503.5,-0.055776892430278883,total
+Halkların Demokratik Partisi,tutelage,Vesayet,constitutional_conflict,145,259,43,455,433.3,433.3,-0.8256513026052105,total
+Adalet ve Kalkınma Partisi,european_union,Avrupa Birligi,democratic_reform,196,356,127,60,421.45,421.45,0.35638297872340424,total
+Halkların Demokratik Partisi,european_union,Avrupa Birligi,democratic_reform,184,325,166,58,403.40000000000003,403.40000000000003,0.48,total
+Cumhuriyet Halk Partisi,sovereignty,Egemenlik,security_conflict,179,303,30,40,327.5,327.5,-0.14084507042253522,total
+Cumhuriyet Halk Partisi,tutelage,Vesayet,constitutional_conflict,125,199,23,328,321.85,321.85,-0.8664772727272727,total
+İYİ Parti,security,Guvenlik,security_conflict,55,265,74,80,318.9,318.9,-0.03870967741935484,total
+Milliyetçi Hareket Partisi,european_union,Avrupa Birligi,democratic_reform,118,238,80,56,285.6,285.6,0.17518248175182483,total
+Cumhuriyet Halk Partisi,inflation,Enflasyon,macro_economy,126,221,48,94,270.7,270.7,-0.32167832167832167,total
+Adalet ve Kalkınma Partisi,inflation,Enflasyon,macro_economy,97,220,91,45,267.6,267.6,0.3357664233576642,total
+Adalet ve Kalkınma Partisi,sovereignty,Egemenlik,security_conflict,158,212,40,61,247.35,247.35,-0.20588235294117646,total
+Halkların Demokratik Partisi,interest,Faiz,macro_economy,86,201,31,58,232.15,232.15,-0.3,total
+Halkların Demokratik Partisi,reform,Reform,democratic_reform,98,174,37,41,201.3,201.3,-0.05063291139240506,total
+İYİ Parti,law_state,Hukuk Devleti,democratic_reform,55,169,42,20,190.7,190.7,0.3492063492063492,total
+Halkların Demokratik Partisi,inflation,Enflasyon,macro_economy,66,129,34,47,157.35,157.35,-0.15853658536585366,total
+Halkların Demokratik Partisi,sovereignty,Egemenlik,security_conflict,82,133,17,18,145.25,145.25,-0.027777777777777776,total
+Milliyetçi Hareket Partisi,tutelage,Vesayet,constitutional_conflict,38,76,11,146,130.95,130.95,-0.8544303797468354,total
+İYİ Parti,democracy,Demokrasi,democratic_reform,41,111,22,23,126.75,126.75,-0.021739130434782608,total
+İYİ Parti,constitution,Anayasa,constitutional_conflict,42,114,8,19,123.45,123.45,-0.39285714285714285,total
+İYİ Parti,economy,Ekonomi,macro_economy,38,95,33,21,113.9,113.9,0.21818181818181817,total
+Milliyetçi Hareket Partisi,sovereignty,Egemenlik,security_conflict,67,96,17,17,107.9,107.9,0.0,total
+Adalet ve Kalkınma Partisi,imf,IMF,macro_economy,46,84,6,16,91.7,91.7,-0.43478260869565216,total
+Milliyetçi Hareket Partisi,imf,IMF,macro_economy,31,62,0,0,62.0,62.0,0.0,total
+Cumhuriyet Halk Partisi,imf,IMF,macro_economy,27,47,3,15,53.3,53.3,-0.631578947368421,total
+İYİ Parti,european_union,Avrupa Birligi,democratic_reform,13,27,13,5,33.3,33.3,0.42105263157894735,total
+Saadet Partisi,economy,Ekonomi,macro_economy,10,26,6,9,31.25,31.25,-0.1875,total
+Saadet Partisi,democracy,Demokrasi,democratic_reform,9,17,2,4,19.1,19.1,-0.2857142857142857,total
+Saadet Partisi,constitution,Anayasa,constitutional_conflict,1,12,0,10,15.5,15.5,-0.9090909090909091,total
+Saadet Partisi,security,Guvenlik,security_conflict,7,10,0,10,13.5,13.5,-0.9090909090909091,total
+Halkların Demokratik Partisi,imf,IMF,macro_economy,8,13,0,1,13.35,13.35,-0.5,total
+Saadet Partisi,law_state,Hukuk Devleti,democratic_reform,3,8,1,1,8.7,8.7,0.0,total
+İYİ Parti,sovereignty,Egemenlik,security_conflict,5,8,2,0,8.7,8.7,0.6666666666666666,total
+İYİ Parti,interest,Faiz,macro_economy,3,5,1,0,5.35,5.35,0.5,total
+Bağımsız,democracy,Demokrasi,democratic_reform,3,4,1,0,4.35,4.35,0.5,total
+İYİ Parti,tutelage,Vesayet,constitutional_conflict,2,3,0,3,4.050000000000001,4.050000000000001,-0.75,total
+Bağımsız,security,Guvenlik,security_conflict,1,2,0,2,2.7,2.7,-0.6666666666666666,total
+Bağımsız,constitution,Anayasa,constitutional_conflict,1,2,0,0,2.0,2.0,0.0,total
+İYİ Parti,inflation,Enflasyon,macro_economy,1,2,0,0,2.0,2.0,0.0,total
+İYİ Parti,reform,Reform,democratic_reform,2,2,0,0,2.0,2.0,0.0,total
+Bağımsız,economy,Ekonomi,macro_economy,1,1,0,0,1.0,1.0,0.0,total
+Adalet ve Kalkınma Partisi,economy,Ekonomi,macro_economy,553,3240,3226,401,4509.45,2976.438955,0.7786659316427784,positive
+Cumhuriyet Halk Partisi,law_state,Hukuk Devleti,democratic_reform,594,2420,1751,164,3090.25,1933.44235,0.8282881002087683,positive
+Halkların Demokratik Partisi,law_state,Hukuk Devleti,democratic_reform,409,2129,1350,202,2672.2,1526.810585,0.7392144236960722,positive
+Cumhuriyet Halk Partisi,economy,Ekonomi,macro_economy,464,1687,1596,177,2307.55,1437.37886,0.7998872604284104,positive
+Milliyetçi Hareket Partisi,economy,Ekonomi,macro_economy,303,1883,1368,262,2453.5,1379.17126,0.6781115879828327,positive
+Adalet ve Kalkınma Partisi,security,Guvenlik,security_conflict,518,1722,1098,131,2152.15,1184.4013,0.7861788617886178,positive
+Adalet ve Kalkınma Partisi,law_state,Hukuk Devleti,democratic_reform,375,1538,1142,136,1985.3,1184.283715,0.7865519937451134,positive
+Halkların Demokratik Partisi,democracy,Demokrasi,democratic_reform,454,1410,1052,129,1823.35,1038.92737,0.7808798646362098,positive
+Cumhuriyet Halk Partisi,constitution,Anayasa,constitutional_conflict,358,1315,733,74,1597.45,890.407285,0.8155940594059405,positive
+Cumhuriyet Halk Partisi,democracy,Demokrasi,democratic_reform,450,1136,901,83,1480.4,836.02055,0.8304568527918782,positive
+Milliyetçi Hareket Partisi,law_state,Hukuk Devleti,democratic_reform,197,1254,792,172,1591.4,832.35324,0.6424870466321243,positive
+Milliyetçi Hareket Partisi,security,Guvenlik,security_conflict,250,1207,669,101,1476.5,825.11413,0.7367055771725033,positive
+Halkların Demokratik Partisi,economy,Ekonomi,macro_economy,224,967,849,123,1307.2,768.320945,0.7461459403905447,positive
+Cumhuriyet Halk Partisi,security,Guvenlik,security_conflict,364,1057,703,73,1328.6,739.71555,0.8108108108108109,positive
+Adalet ve Kalkınma Partisi,constitution,Anayasa,constitutional_conflict,214,845,546,48,1052.9,637.20041,0.8369747899159664,positive
+Adalet ve Kalkınma Partisi,democracy,Demokrasi,democratic_reform,291,718,664,59,971.05,573.44197,0.835635359116022,positive
+Halkların Demokratik Partisi,constitution,Anayasa,constitutional_conflict,191,731,430,43,896.55,516.607055,0.8164556962025317,positive
+Milliyetçi Hareket Partisi,constitution,Anayasa,constitutional_conflict,119,626,287,36,739.05,400.55468,0.7746913580246914,positive
+Halkların Demokratik Partisi,security,Guvenlik,security_conflict,201,564,358,30,699.8,395.92723,0.8431876606683805,positive
+Adalet ve Kalkınma Partisi,reform,Reform,democratic_reform,131,419,346,21,547.45,370.743305,0.8831521739130435,positive
+Milliyetçi Hareket Partisi,democracy,Demokrasi,democratic_reform,82,298,197,18,373.25,225.03447500000001,0.8287037037037037,positive
+Cumhuriyet Halk Partisi,european_union,Avrupa Birligi,democratic_reform,92,251,213,13,330.1,208.829415,0.8810572687224669,positive
+Adalet ve Kalkınma Partisi,interest,Faiz,macro_economy,58,189,121,7,233.8,144.267245,0.8837209302325582,positive
+Halkların Demokratik Partisi,european_union,Avrupa Birligi,democratic_reform,69,156,144,15,211.65,122.80844,0.80625,positive
+Milliyetçi Hareket Partisi,inflation,Enflasyon,macro_economy,25,161,86,14,196.0,112.291045,0.7128712871287128,positive
+Cumhuriyet Halk Partisi,reform,Reform,democratic_reform,53,148,90,3,180.55,108.18142,0.925531914893617,positive
+Adalet ve Kalkınma Partisi,european_union,Avrupa Birligi,democratic_reform,54,134,113,4,174.95,107.334965,0.923728813559322,positive
+Milliyetçi Hareket Partisi,reform,Reform,democratic_reform,58,137,93,9,172.7,88.74378,0.8155339805825242,positive
+Adalet ve Kalkınma Partisi,inflation,Enflasyon,macro_economy,30,97,75,7,125.7,75.4222,0.8192771084337349,positive
+Cumhuriyet Halk Partisi,interest,Faiz,macro_economy,35,88,69,1,112.5,75.228645,0.9577464788732394,positive
+İYİ Parti,security,Guvenlik,security_conflict,15,99,44,6,116.5,69.71481,0.7450980392156863,positive
+Milliyetçi Hareket Partisi,interest,Faiz,macro_economy,25,81,48,1,98.15,59.299814999999995,0.94,positive
+Milliyetçi Hareket Partisi,european_union,Avrupa Birligi,democratic_reform,36,78,57,1,98.3,59.03315,0.9491525423728814,positive
+İYİ Parti,law_state,Hukuk Devleti,democratic_reform,13,51,28,2,61.5,36.93893,0.8387096774193549,positive
+İYİ Parti,economy,Ekonomi,macro_economy,13,40,30,2,51.2,33.1444,0.8484848484848485,positive
+Cumhuriyet Halk Partisi,inflation,Enflasyon,macro_economy,19,39,37,2,52.65,30.806095,0.875,positive
+Halkların Demokratik Partisi,reform,Reform,democratic_reform,21,36,30,0,46.5,26.97117,0.967741935483871,positive
+Cumhuriyet Halk Partisi,sovereignty,Egemenlik,security_conflict,18,35,27,1,44.8,25.43394,0.896551724137931,positive
+Adalet ve Kalkınma Partisi,sovereignty,Egemenlik,security_conflict,23,29,35,1,41.6,24.35071,0.918918918918919,positive
+Halkların Demokratik Partisi,inflation,Enflasyon,macro_economy,11,25,29,3,36.2,21.52832,0.7878787878787878,positive
+Halkların Demokratik Partisi,interest,Faiz,macro_economy,16,35,22,2,43.4,21.42098,0.8,positive
+İYİ Parti,democracy,Demokrasi,democratic_reform,8,34,16,2,40.3,20.58664,0.7368421052631579,positive
+Halkların Demokratik Partisi,sovereignty,Egemenlik,security_conflict,9,16,14,0,20.9,12.80348,0.9333333333333333,positive
+İYİ Parti,european_union,Avrupa Birligi,democratic_reform,5,18,12,2,22.9,10.538749999999999,0.6666666666666666,positive
+İYİ Parti,constitution,Anayasa,constitutional_conflict,4,14,6,0,16.1,10.28378,0.8571428571428571,positive
+Milliyetçi Hareket Partisi,sovereignty,Egemenlik,security_conflict,8,11,12,0,15.200000000000001,9.07009,0.9230769230769231,positive
+Adalet ve Kalkınma Partisi,imf,IMF,macro_economy,6,14,6,0,16.1,8.05,0.8571428571428571,positive
+Saadet Partisi,economy,Ekonomi,macro_economy,2,9,3,0,10.05,6.30859,0.75,positive
+İYİ Parti,sovereignty,Egemenlik,security_conflict,2,4,2,0,4.7,2.35,0.6666666666666666,positive
+Cumhuriyet Halk Partisi,imf,IMF,macro_economy,2,3,3,0,4.05,2.30839,0.75,positive
+Saadet Partisi,law_state,Hukuk Devleti,democratic_reform,1,4,1,0,4.35,2.175,0.5,positive
+Milliyetçi Hareket Partisi,tutelage,Vesayet,constitutional_conflict,2,3,6,3,6.1499999999999995,1.68387,0.3,positive
+Adalet ve Kalkınma Partisi,tutelage,Vesayet,constitutional_conflict,3,3,6,3,6.1499999999999995,1.5374999999999999,0.3,positive
+Saadet Partisi,democracy,Demokrasi,democratic_reform,1,2,1,0,2.35,1.175,0.5,positive
+İYİ Parti,interest,Faiz,macro_economy,1,2,1,0,2.35,1.175,0.5,positive
+Bağımsız,democracy,Demokrasi,democratic_reform,1,1,1,0,1.35,0.675,0.5,positive
+Cumhuriyet Halk Partisi,tutelage,Vesayet,constitutional_conflict,1,1,2,1,2.05,0.5125,0.25,positive
+Adalet ve Kalkınma Partisi,security,Guvenlik,security_conflict,822,2978,269,2361,3898.5,2354.81823,-0.7951349296845306,negative
+Cumhuriyet Halk Partisi,law_state,Hukuk Devleti,democratic_reform,684,2674,227,1776,3375.05,1904.768435,-0.7729540918163673,negative
+Cumhuriyet Halk Partisi,security,Guvenlik,security_conflict,821,2306,217,2059,3102.6,1814.491435,-0.8089591567852438,negative
+Halkların Demokratik Partisi,law_state,Hukuk Devleti,democratic_reform,581,2333,149,1431,2886.0,1713.000555,-0.8108791903858318,negative
+Cumhuriyet Halk Partisi,economy,Ekonomi,macro_economy,487,1614,188,1640,2253.8,1398.65191,-0.7938764352104976,negative
+Milliyetçi Hareket Partisi,security,Guvenlik,security_conflict,395,2018,275,1358,2589.55,1347.49358,-0.6627906976744186,negative
+Milliyetçi Hareket Partisi,economy,Ekonomi,macro_economy,234,1386,197,1064,1827.35,1027.149845,-0.6870047543581617,negative
+Halkların Demokratik Partisi,economy,Ekonomi,macro_economy,231,1220,172,1127,1674.65,1021.41103,-0.7346153846153847,negative
+Cumhuriyet Halk Partisi,constitution,Anayasa,constitutional_conflict,309,1222,55,715,1491.5,892.982255,-0.8560311284046692,negative
+Halkların Demokratik Partisi,security,Guvenlik,security_conflict,479,1146,94,1027,1538.35,880.356845,-0.8315508021390374,negative
+Halkların Demokratik Partisi,democracy,Demokrasi,democratic_reform,321,1027,110,788,1341.3,734.66319,-0.7541713014460512,negative
+Adalet ve Kalkınma Partisi,law_state,Hukuk Devleti,democratic_reform,292,909,90,599,1150.15,606.29777,-0.7376811594202899,negative
+Halkların Demokratik Partisi,constitution,Anayasa,constitutional_conflict,177,778,32,413,933.75,556.495415,-0.8542600896860987,negative
+Cumhuriyet Halk Partisi,democracy,Demokrasi,democratic_reform,286,739,79,593,974.2,525.01722,-0.763744427934621,negative
+Milliyetçi Hareket Partisi,law_state,Hukuk Devleti,democratic_reform,183,782,87,466,975.5500000000001,495.04007,-0.6841155234657039,negative
+Adalet ve Kalkınma Partisi,economy,Ekonomi,macro_economy,143,583,103,533,805.6,449.49884000000003,-0.6750392464678179,negative
+Adalet ve Kalkınma Partisi,tutelage,Vesayet,constitutional_conflict,188,333,33,570,544.05,372.705205,-0.8890728476821192,negative
+Adalet ve Kalkınma Partisi,constitution,Anayasa,constitutional_conflict,149,533,29,270,637.65,329.39875,-0.8033333333333333,negative
+Halkların Demokratik Partisi,tutelage,Vesayet,constitutional_conflict,131,243,26,439,405.75,281.54413999999997,-0.8862660944206009,negative
+Adalet ve Kalkınma Partisi,democracy,Demokrasi,democratic_reform,155,316,25,279,422.40000000000003,231.459855,-0.8327868852459016,negative
+Cumhuriyet Halk Partisi,tutelage,Vesayet,constitutional_conflict,112,186,9,315,299.40000000000003,213.27318,-0.9415384615384615,negative
+Milliyetçi Hareket Partisi,constitution,Anayasa,constitutional_conflict,77,324,21,159,387.0,191.583375,-0.7624309392265194,negative
+Milliyetçi Hareket Partisi,democracy,Demokrasi,democratic_reform,67,206,28,149,267.95,134.385665,-0.6797752808988764,negative
+Milliyetçi Hareket Partisi,interest,Faiz,macro_economy,45,188,10,98,225.8,129.163275,-0.8073394495412844,negative
+Cumhuriyet Halk Partisi,interest,Faiz,macro_economy,51,156,5,87,188.2,108.69705,-0.8817204301075269,negative
+Milliyetçi Hareket Partisi,tutelage,Vesayet,constitutional_conflict,36,73,5,143,124.8,93.62653,-0.9261744966442953,negative
+Milliyetçi Hareket Partisi,inflation,Enflasyon,macro_economy,42,117,11,101,156.2,89.23356,-0.7964601769911505,negative
+Milliyetçi Hareket Partisi,reform,Reform,democratic_reform,41,133,10,68,160.3,81.65503,-0.7341772151898734,negative
+Cumhuriyet Halk Partisi,inflation,Enflasyon,macro_economy,49,94,6,88,126.9,73.850815,-0.8631578947368421,negative
+Cumhuriyet Halk Partisi,reform,Reform,democratic_reform,26,92,3,53,111.60000000000001,72.61328,-0.8771929824561403,negative
+İYİ Parti,security,Guvenlik,security_conflict,16,83,4,47,100.85,58.51092,-0.8269230769230769,negative
+Halkların Demokratik Partisi,interest,Faiz,macro_economy,24,67,3,51,85.9,53.629214999999995,-0.8727272727272727,negative
+Cumhuriyet Halk Partisi,european_union,Avrupa Birligi,democratic_reform,39,82,6,58,104.4,51.09205,-0.8,negative
+Adalet ve Kalkınma Partisi,european_union,Avrupa Birligi,democratic_reform,34,64,3,46,81.15,42.53726,-0.86,negative
+Adalet ve Kalkınma Partisi,sovereignty,Egemenlik,security_conflict,36,49,2,57,69.65,39.00597,-0.9166666666666666,negative
+Halkların Demokratik Partisi,inflation,Enflasyon,macro_economy,25,49,1,39,63.0,35.17553,-0.926829268292683,negative
+Cumhuriyet Halk Partisi,sovereignty,Egemenlik,security_conflict,23,45,1,37,58.300000000000004,34.62099,-0.9230769230769231,negative
+Adalet ve Kalkınma Partisi,reform,Reform,democratic_reform,24,51,4,38,65.7,33.196035,-0.7906976744186046,negative
+Milliyetçi Hareket Partisi,european_union,Avrupa Birligi,democratic_reform,22,44,5,37,58.7,30.7638,-0.7441860465116279,negative
+Adalet ve Kalkınma Partisi,interest,Faiz,macro_economy,19,49,4,31,61.25,30.03348,-0.75,negative
+Halkların Demokratik Partisi,reform,Reform,democratic_reform,22,36,1,36,48.95,29.78215,-0.9210526315789473,negative
+İYİ Parti,constitution,Anayasa,constitutional_conflict,11,42,1,18,48.65,28.795955,-0.85,negative
+Halkların Demokratik Partisi,european_union,Avrupa Birligi,democratic_reform,15,34,3,25,43.8,23.09786,-0.7586206896551724,negative
+Adalet ve Kalkınma Partisi,inflation,Enflasyon,macro_economy,14,30,2,26,39.8,22.50651,-0.8275862068965517,negative
+Cumhuriyet Halk Partisi,imf,IMF,macro_economy,9,24,0,15,29.25,19.395999999999997,-0.9375,negative
+İYİ Parti,democracy,Demokrasi,democratic_reform,9,36,4,19,44.05,18.53947,-0.625,negative
+İYİ Parti,economy,Ekonomi,macro_economy,9,24,1,17,30.3,17.87466,-0.8421052631578947,negative
+Adalet ve Kalkınma Partisi,imf,IMF,macro_economy,10,20,0,16,25.6,15.670370000000002,-0.9411764705882353,negative
+Saadet Partisi,constitution,Anayasa,constitutional_conflict,1,12,0,10,15.5,14.091050000000001,-0.9090909090909091,negative
+Halkların Demokratik Partisi,sovereignty,Egemenlik,security_conflict,10,18,2,17,24.65,12.35178,-0.75,negative
+Milliyetçi Hareket Partisi,sovereignty,Egemenlik,security_conflict,8,15,0,12,19.2,11.23366,-0.9230769230769231,negative
+İYİ Parti,law_state,Hukuk Devleti,democratic_reform,4,11,0,7,13.45,8.43759,-0.875,negative
+Saadet Partisi,security,Guvenlik,security_conflict,4,7,0,10,10.5,7.678975,-0.9090909090909091,negative
+Saadet Partisi,economy,Ekonomi,macro_economy,2,4,1,7,6.8,4.08,-0.6666666666666666,negative
+Saadet Partisi,democracy,Demokrasi,democratic_reform,2,6,1,4,7.75,3.8959900000000003,-0.5,negative
+İYİ Parti,tutelage,Vesayet,constitutional_conflict,2,3,0,3,4.050000000000001,2.47509,-0.75,negative
+İYİ Parti,european_union,Avrupa Birligi,democratic_reform,2,3,0,2,3.7,1.85,-0.6666666666666666,negative
+Bağımsız,security,Guvenlik,security_conflict,1,2,0,2,2.7,1.80009,-0.6666666666666666,negative
+Halkların Demokratik Partisi,imf,IMF,macro_economy,1,1,0,1,1.35,0.675,-0.5,negative
+Saadet Partisi,law_state,Hukuk Devleti,democratic_reform,1,1,0,1,1.35,0.675,-0.5,negative

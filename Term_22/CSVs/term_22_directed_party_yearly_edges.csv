@@ -1,0 +1,66 @@
+year,source_party,target_party,source_bloc,target_bloc,speech_count,mention_count,positive_hits,negative_hits,total_weight,positive_weight,negative_weight,net_weight,avg_score
+2002,Adalet ve Kalkınma Partisi,Anavatan Partisi,government,opposition,1,7,7,0,9.45,8.268749999999999,0.0,8.268749999999999,0.875
+2002,Adalet ve Kalkınma Partisi,Cumhuriyet Halk Partisi,government,opposition,25,63,24,18,77.7,16.43253,10.420325,6.012205,0.1395348837209302
+2002,Adalet ve Kalkınma Partisi,Doğru Yol Partisi,government,opposition,1,7,10,0,10.5,9.54555,0.0,9.54555,0.9090909090909092
+2002,Anavatan Partisi,Adalet ve Kalkınma Partisi,opposition,government,2,10,2,5,12.45,0.0,3.425415,-3.425415,-0.375
+2002,Anavatan Partisi,Cumhuriyet Halk Partisi,opposition,opposition,2,3,2,1,4.050000000000001,1.80009,0.675,1.12509,0.25
+2002,Cumhuriyet Halk Partisi,Adalet ve Kalkınma Partisi,opposition,government,53,177,46,47,209.55,29.160115,24.62116,4.538954999999999,-0.0106382978723404
+2002,Cumhuriyet Halk Partisi,Anavatan Partisi,opposition,opposition,1,1,1,0,1.35,0.675,0.0,0.675,0.5
+2002,Cumhuriyet Halk Partisi,Doğru Yol Partisi,opposition,opposition,2,2,0,0,2.0,0.0,0.0,0.0,0.0
+2003,Adalet ve Kalkınma Partisi,Anavatan Partisi,government,opposition,8,9,1,2,10.05,0.675,1.35,-0.675,-0.25
+2003,Adalet ve Kalkınma Partisi,Cumhuriyet Halk Partisi,government,opposition,399,558,127,89,633.6,90.997505,61.45118,29.546325,0.1751152073732718
+2003,Adalet ve Kalkınma Partisi,Doğru Yol Partisi,government,opposition,12,14,4,1,15.75,2.7,0.675,2.0250000000000004,0.5
+2003,Anavatan Partisi,Adalet ve Kalkınma Partisi,opposition,government,63,122,30,26,141.6,19.2225,16.81277,2.4097300000000006,0.0701754385964912
+2003,Anavatan Partisi,Cumhuriyet Halk Partisi,opposition,opposition,26,29,3,7,32.5,1.35,4.8875,-3.5375,-0.3636363636363636
+2003,Anavatan Partisi,Doğru Yol Partisi,opposition,opposition,4,4,1,0,4.35,0.675,0.0,0.675,0.5
+2003,Cumhuriyet Halk Partisi,Adalet ve Kalkınma Partisi,opposition,government,1679,3869,969,1140,4607.15,693.82866,826.097395,-132.268735,-0.081042654028436
+2003,Cumhuriyet Halk Partisi,Anavatan Partisi,opposition,opposition,30,41,3,4,43.45,2.0250000000000004,7.48339,-5.45839,-0.125
+2003,Cumhuriyet Halk Partisi,Doğru Yol Partisi,opposition,opposition,16,19,1,6,21.45,0.675,4.78348,-4.10848,-0.625
+2003,Doğru Yol Partisi,Adalet ve Kalkınma Partisi,opposition,government,12,21,13,5,27.3,8.69384,1.7600000000000002,6.93384,0.4210526315789473
+2003,Doğru Yol Partisi,Cumhuriyet Halk Partisi,opposition,opposition,8,13,2,0,13.7,2.46679,0.0,2.46679,0.6666666666666666
+2004,Adalet ve Kalkınma Partisi,Anavatan Partisi,government,opposition,8,28,8,6,32.9,6.71,2.62196,4.0880399999999995,0.1333333333333333
+2004,Adalet ve Kalkınma Partisi,Cumhuriyet Halk Partisi,government,opposition,290,364,82,45,408.45,58.18391,25.39195,32.79196,0.2890625
+2004,Adalet ve Kalkınma Partisi,Doğru Yol Partisi,government,opposition,14,14,5,2,16.45,2.8875,1.35,1.5375,0.375
+2004,Anavatan Partisi,Adalet ve Kalkınma Partisi,opposition,government,35,71,18,30,87.8,8.31268,20.71205,-12.39937,-0.2448979591836734
+2004,Anavatan Partisi,Cumhuriyet Halk Partisi,opposition,opposition,14,16,3,1,17.4,1.5375,1.175,0.3624999999999998,0.4
+2004,Anavatan Partisi,Doğru Yol Partisi,opposition,opposition,13,15,4,2,17.1,2.48339,1.13339,1.35,0.2857142857142857
+2004,Cumhuriyet Halk Partisi,Adalet ve Kalkınma Partisi,opposition,government,1136,2465,618,662,2913.0,437.524265,482.92562,-45.40135500000001,-0.0343481654957064
+2004,Cumhuriyet Halk Partisi,Anavatan Partisi,opposition,opposition,24,28,1,2,29.05,1.175,1.35,-0.175,-0.25
+2004,Cumhuriyet Halk Partisi,Doğru Yol Partisi,opposition,opposition,9,10,3,2,11.75,1.35,0.675,0.675,0.1666666666666666
+2004,Doğru Yol Partisi,Adalet ve Kalkınma Partisi,opposition,government,48,112,32,42,137.9,19.03286,27.20456,-8.1717,-0.1333333333333333
+2004,Doğru Yol Partisi,Anavatan Partisi,opposition,opposition,2,3,1,0,3.35,0.675,0.0,0.675,0.5
+2004,Doğru Yol Partisi,Cumhuriyet Halk Partisi,opposition,opposition,23,31,8,7,36.25,5.02089,4.33339,0.6874999999999998,0.0625
+2005,Adalet ve Kalkınma Partisi,Anavatan Partisi,government,opposition,81,125,23,25,141.8,13.97955,19.574695,-5.5951450000000005,-0.0408163265306122
+2005,Adalet ve Kalkınma Partisi,Cumhuriyet Halk Partisi,government,opposition,438,550,82,92,610.9,56.19178,61.79356,-5.601780000000001,-0.0571428571428571
+2005,Adalet ve Kalkınma Partisi,Doğru Yol Partisi,government,opposition,29,33,6,2,35.8,4.050000000000001,1.35,2.7,0.4444444444444444
+2005,Anavatan Partisi,Adalet ve Kalkınma Partisi,opposition,government,165,369,89,105,436.9,77.33078,81.30036,-3.9695799999999983,-0.082051282051282
+2005,Anavatan Partisi,Cumhuriyet Halk Partisi,opposition,opposition,12,17,3,2,18.75,1.80839,2.35,-0.5416100000000001,0.1666666666666666
+2005,Anavatan Partisi,Doğru Yol Partisi,opposition,opposition,3,4,0,0,4.0,0.0,0.0,0.0,0.0
+2005,Cumhuriyet Halk Partisi,Adalet ve Kalkınma Partisi,opposition,government,1710,3549,886,1148,4260.9,603.72543,803.113525,-199.388095,-0.1287469287469287
+2005,Cumhuriyet Halk Partisi,Anavatan Partisi,opposition,opposition,28,36,9,2,39.85,5.37089,1.35,4.02089,0.5833333333333334
+2005,Cumhuriyet Halk Partisi,Doğru Yol Partisi,opposition,opposition,16,17,2,0,17.7,1.35,0.0,1.35,0.6666666666666666
+2005,Doğru Yol Partisi,Adalet ve Kalkınma Partisi,opposition,government,188,346,61,66,390.45,59.92717,48.124365,11.802805,-0.0390625
+2005,Doğru Yol Partisi,Anavatan Partisi,opposition,opposition,2,4,2,1,5.05,1.0125,0.0,1.0125,0.25
+2005,Doğru Yol Partisi,Cumhuriyet Halk Partisi,opposition,opposition,57,77,22,9,87.85,17.220835,6.67509,10.545745,0.40625
+2006,Adalet ve Kalkınma Partisi,Anavatan Partisi,government,opposition,214,292,72,50,334.7,47.86604,33.41964,14.4464,0.1788617886178861
+2006,Adalet ve Kalkınma Partisi,Cumhuriyet Halk Partisi,government,opposition,416,540,81,85,598.1,53.293695,65.9393,-12.645605000000003,-0.0239520958083832
+2006,Adalet ve Kalkınma Partisi,Doğru Yol Partisi,government,opposition,37,42,3,3,44.1,3.5250000000000004,2.0250000000000004,1.5,0.0
+2006,Anavatan Partisi,Adalet ve Kalkınma Partisi,opposition,government,430,1076,300,317,1291.95,195.54046,218.07347,-22.533010000000004,-0.0275080906148867
+2006,Anavatan Partisi,Cumhuriyet Halk Partisi,opposition,opposition,22,29,8,3,32.85,6.08357,3.3083899999999997,2.77518,0.4166666666666667
+2006,Cumhuriyet Halk Partisi,Adalet ve Kalkınma Partisi,opposition,government,1497,3209,752,1041,3836.55,461.126495,767.65918,-306.532685,-0.161092530657748
+2006,Cumhuriyet Halk Partisi,Anavatan Partisi,opposition,opposition,39,43,12,6,49.3,6.700125,2.2125,4.487625,0.3157894736842105
+2006,Cumhuriyet Halk Partisi,Doğru Yol Partisi,opposition,opposition,14,14,8,3,17.85,4.75017,2.0250000000000004,2.725169999999999,0.4166666666666667
+2006,Doğru Yol Partisi,Adalet ve Kalkınma Partisi,opposition,government,233,408,69,103,468.2,50.52721,74.027825,-23.500615,-0.1965317919075144
+2006,Doğru Yol Partisi,Anavatan Partisi,opposition,opposition,20,22,13,1,26.9,7.82428,0.675,7.149279999999999,0.8
+2006,Doğru Yol Partisi,Cumhuriyet Halk Partisi,opposition,opposition,49,70,14,15,80.15,11.82509,10.29187,1.5332199999999994,-0.0333333333333333
+2007,Adalet ve Kalkınma Partisi,Anavatan Partisi,government,opposition,75,95,26,19,110.75,19.47303,12.833265,6.639764999999999,0.1521739130434782
+2007,Adalet ve Kalkınma Partisi,Cumhuriyet Halk Partisi,government,opposition,268,363,43,66,401.15,22.125,47.2416,-25.1166,-0.209090909090909
+2007,Adalet ve Kalkınma Partisi,Doğru Yol Partisi,government,opposition,13,13,3,1,14.4,1.35,0.0,1.35,0.4
+2007,Anavatan Partisi,Adalet ve Kalkınma Partisi,opposition,government,188,540,142,145,640.45,112.02952,74.543075,37.486445,-0.0104166666666666
+2007,Anavatan Partisi,Cumhuriyet Halk Partisi,opposition,opposition,17,19,6,1,21.45,2.76839,0.0,2.76839,0.625
+2007,Cumhuriyet Halk Partisi,Adalet ve Kalkınma Partisi,opposition,government,729,1478,264,462,1732.1,182.520365,379.924635,-197.40427,-0.2723521320495186
+2007,Cumhuriyet Halk Partisi,Anavatan Partisi,opposition,opposition,24,30,6,6,34.2,5.16679,4.28348,0.88331,0.0
+2007,Cumhuriyet Halk Partisi,Doğru Yol Partisi,opposition,opposition,1,2,0,0,2.0,0.0,0.0,0.0,0.0
+2007,Doğru Yol Partisi,Adalet ve Kalkınma Partisi,opposition,government,84,154,16,24,168.0,12.55813,26.79654,-14.238409999999998,-0.1951219512195122
+2007,Doğru Yol Partisi,Anavatan Partisi,opposition,opposition,7,8,3,0,9.05,1.80839,0.0,1.80839,0.75
+2007,Doğru Yol Partisi,Cumhuriyet Halk Partisi,opposition,opposition,16,18,2,2,19.4,2.35,1.35,1.0,0.0

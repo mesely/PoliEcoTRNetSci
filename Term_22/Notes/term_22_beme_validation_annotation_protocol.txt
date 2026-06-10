@@ -1,0 +1,22 @@
+Term 22 | BEME validation annotation protocol
+
+Goal:
+Build an expert-adjudicated benchmark for the signed window texts that feed the directed inter-party network.
+
+Sampling design:
+- Heuristically stratified by year (2002-2007) and by BEME label (positive / mixed / negative).
+- Draft sample target: 6 windows per year per heuristic label.
+- Final annotated sample size: 108
+
+Annotation scheme:
+- positive: supportive, approving, cooperative, or explicitly constructive language toward the target party.
+- negative: attacking, blaming, mocking, accusatory, or clearly critical language toward the target party.
+- mixed: descriptive mention, unclear stance, self-reference, or passages where target-specific sentiment is ambiguous.
+
+Important note:
+This benchmark is expert-coded by a single adjudicator inside the current project workflow. It is strong enough for model screening, but a future publication-grade extension should add a second annotator and inter-annotator agreement statistics.
+
+Observed manual class distribution:
+- negative: 69
+- mixed: 21
+- positive: 18

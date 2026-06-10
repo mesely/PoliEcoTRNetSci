@@ -1,0 +1,9 @@
+model,accuracy,macro_f1,negative_f1,positive_f1,cohen_kappa,roc_auc
+AutoBEME Apocalypse,,0.702,0.904,0.500,0.413,
+AutoBEME Sovereign,,0.660,0.863,0.457,0.321,
+BERTurk (savasy),0.770,0.597,0.861,0.333,0.201,0.588
+TurkishBERTweet (LoRA-SA),0.793,0.565,0.880,0.250,0.163,0.562
+AutoBEME Vanguard,,0.492,0.883,0.100,0.061,
+Logistic Regression,0.782,0.486,0.876,0.095,0.038,0.513
+Linear SVM,0.782,0.439,0.877,0.000,-0.022,0.493
+Lexicon heuristic (zero-shot),0.448,0.436,0.520,0.351,0.056,0.550

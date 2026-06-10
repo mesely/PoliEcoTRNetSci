@@ -1,0 +1,11 @@
+fold,best_params,model
+1,"{""clf__C"": 0.25, ""clf__class_weight"": ""balanced""}",Logistic Regression
+2,"{""clf__C"": 0.25, ""clf__class_weight"": ""balanced""}",Logistic Regression
+3,"{""clf__C"": 0.25, ""clf__class_weight"": ""balanced""}",Logistic Regression
+4,"{""clf__C"": 2.0, ""clf__class_weight"": ""balanced""}",Logistic Regression
+5,"{""clf__C"": 0.25, ""clf__class_weight"": null}",Logistic Regression
+1,"{""clf__C"": 0.5, ""clf__class_weight"": null}",Linear SVM
+2,"{""clf__C"": 0.25, ""clf__class_weight"": null}",Linear SVM
+3,"{""clf__C"": 0.5, ""clf__class_weight"": ""balanced""}",Linear SVM
+4,"{""clf__C"": 0.25, ""clf__class_weight"": ""balanced""}",Linear SVM
+5,"{""clf__C"": 0.25, ""clf__class_weight"": null}",Linear SVM

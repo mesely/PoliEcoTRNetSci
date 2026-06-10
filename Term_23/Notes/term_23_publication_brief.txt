@@ -1,0 +1,29 @@
+Term 23 (2007–2011) — Publication Brief
+========================================================================
+
+Core claim: Term 23 is strongest when read as a reframing sequence: the closure case lowers AKP's constitutional negativity, the global crisis pushes both AKP and CHP into macroeconomic attack, and the 2010 referendum restores AKP's democratic-reform legitimation.
+
+Target outlets: Political Communication, Comparative Political Studies, BJPS (stretch)
+
+Strongest event findings:
+- AKP constitutional negativity collapses after the closure case: down (RR=0.25, p=4.23e-05, 0.205->0.051; event=2008-07).
+- AKP also shifts into macroeconomic negativity after the crisis: up (RR=2.30, p=2.68e-13, 0.153->0.350; event=2008-09).
+- CHP macroeconomic negativity surges with the global crisis: up (RR=1.78, p=3.13e-14, 0.304->0.540; event=2008-09).
+- AKP democratic-reform legitimation rises after the closure case: up (RR=1.44, p=1.78e-05, 0.336->0.483; event=2008-07).
+- AKP referendum campaign leans on democratic-reform positivity: up (RR=1.19, p=0.0024, 0.388->0.461; event=2010-09).
+
+Active figures to use first:
+- Figures/term_23_causal_identification.png
+- Figures/term_23_political_dynamics.png
+- Figures/term_23_comprehensive_analysis.png
+- Figures/term_23_institutional_conflict.png
+
+Auxiliary visuals kept active:
+- Figures/term_23_layered_bipartite_networks.png
+- Figures/term_23_negative_yearly_networks.png
+- Figures/term_23_positive_yearly_networks.png
+
+Notes:
+- `neg_rate` / `pos_rate` are sentiment-hit intensities over concept mentions.
+- `agenda_share` is the concept's share within a party's total monthly agenda.
+- Term 25 is intentionally framed as a short interregnum note, not a long-window panel paper.

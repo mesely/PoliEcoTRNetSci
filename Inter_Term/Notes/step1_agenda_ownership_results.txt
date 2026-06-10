@@ -1,0 +1,28 @@
+Step 1 agenda ownership summary
+
+Term 23 · Global crisis reaction
+  Event month : 2008-10
+  Pre owner   : Cumhuriyet Halk Partisi (0.305)
+  Shock owner : Adalet ve Kalkınma Partisi (0.317)
+  Post owner  : Adalet ve Kalkınma Partisi (0.314)
+  Salience Δ  : 0.176
+  Owner shift : True
+  Owner persistence : True
+
+Term 27 · FX crisis
+  Event month : 2022-01
+  Pre owner   : Cumhuriyet Halk Partisi (0.302)
+  Shock owner : İYİ Parti (0.359)
+  Post owner  : Cumhuriyet Halk Partisi (0.311)
+  Salience Δ  : 0.178
+  Owner shift : True
+  Owner persistence : False
+
+Term 28 · Simsek return
+  Event month : 2023-06
+  Pre owner   : nan
+  Shock owner : Cumhuriyet Halk Partisi (0.442)
+  Post owner  : Cumhuriyet Halk Partisi (0.306)
+  Salience Δ  : n/a
+  Owner shift : True
+  Owner persistence : True

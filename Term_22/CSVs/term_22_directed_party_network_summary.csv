@@ -1,0 +1,4 @@
+layer,node_count,edge_count,density,binary_reciprocity,weighted_reciprocity
+total,4,12,1.0,1.0,0.1708586773132367
+positive,4,12,1.0,1.0,0.1462298496294867
+negative,4,12,1.0,1.0,0.0939333389916661

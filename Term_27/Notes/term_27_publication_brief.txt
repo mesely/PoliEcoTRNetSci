@@ -1,0 +1,29 @@
+Term 27 (2018–2023) — Publication Brief
+========================================================================
+
+Core claim: Term 27 is most convincing as a monetary narrative war under presidential atrophy. Parliament's overall weight falls, yet Albayrak's resignation reactivates constitutional attack and the 2022 FX crisis reallocates opposition speech toward macroeconomic attack.
+
+Target outlets: Party Politics, Comparative Politics, Political Economy journal outlets
+
+Strongest event findings:
+- CHP constitutional negativity doubles after the Albayrak break: up (RR=2.22, p=0, 0.217->0.481; event=2020-11).
+- AKP itself also shifts toward constitutional conflict after Albayrak: up (RR=1.71, p=7.24e-06, 0.288->0.493; event=2020-11).
+- AKP security negativity softens as the agenda shifts back to the economy: down (RR=0.62, p=5.43e-05, 0.498->0.311; event=2022-01).
+- IYI Party dramatically expands its macroeconomic agenda in the FX crisis: up (RR=1.47, p=0, 0.490->0.719; event=2022-01).
+- CHP macroeconomic negativity intensifies in the FX crisis: up (RR=1.19, p=0.00101, 0.426->0.508; event=2022-01).
+
+Active figures to use first:
+- Figures/term_27_causal_identification.png
+- Figures/term_27_political_dynamics.png
+- Figures/term_27_comprehensive_analysis.png
+- Figures/term_27_institutional_conflict.png
+
+Auxiliary visuals kept active:
+- Figures/term_27_layered_bipartite_networks.png
+- Figures/term_27_negative_yearly_networks.png
+- Figures/term_27_positive_yearly_networks.png
+
+Notes:
+- `neg_rate` / `pos_rate` are sentiment-hit intensities over concept mentions.
+- `agenda_share` is the concept's share within a party's total monthly agenda.
+- Term 25 is intentionally framed as a short interregnum note, not a long-window panel paper.

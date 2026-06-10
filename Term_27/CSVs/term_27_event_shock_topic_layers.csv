@@ -1,0 +1,13 @@
+﻿term,event_month,event_label,topic,topic_label,salience_pre,salience_post,salience_delta,neg_rate_pre,neg_rate_post,neg_rate_delta,top_party_pre,top_party_post
+27,2020-11,Albayrak resignation,constitutional_conflict,Constitutional conflict,0.2051384985949418,0.09906668193215844,-0.10607181666278336,0.2583170254403131,0.3866325382001891,0.12831551275987602,Saadet Partisi,Türkiye İşçi Partisi
+27,2020-11,Albayrak resignation,democratic_reform,Democratic reform,0.3400240867121638,0.3819873585917238,0.041963271879560005,0.2644628099173554,0.31551519032434316,0.051052380406987785,Halkların Demokratik Partisi,Türkiye İşçi Partisi
+27,2020-11,Albayrak resignation,macro_economy,Macro economy,0.2769971898835809,0.3583596399605047,0.08136245007692378,0.3507246376811594,0.3897067638917768,0.03898212621061736,İYİ Parti,Saadet Partisi
+27,2020-11,Albayrak resignation,security_conflict,Security conflict,0.17784022480931352,0.16058631951561309,-0.01725390529370044,0.4221218961625282,0.3849696840761621,-0.0371522120863661,Milliyetçi Hareket Partisi,Saadet Partisi
+27,2022-01,FX crisis,constitutional_conflict,Constitutional conflict,0.0877555586960618,0.13852481932960312,0.05076926063354131,0.26356282535470044,0.21365854126686348,-0.04990428408783695,Adalet ve Kalkınma Partisi,Cumhuriyet Halk Partisi
+27,2022-01,FX crisis,democratic_reform,Democratic reform,0.2979084228377614,0.27044625117369914,-0.027462171664062285,0.27573797887877766,0.2954073275875168,0.019669348708739154,Türkiye İşçi Partisi,Türkiye İşçi Partisi
+27,2022-01,FX crisis,macro_economy,Macro economy,0.4874634916148483,0.4786134864654396,-0.008850005149408702,0.4127714005497769,0.43446045029349545,0.021689049743718547,Saadet Partisi,Saadet Partisi
+27,2022-01,FX crisis,security_conflict,Security conflict,0.12687252685132844,0.11241544303125812,-0.014457083820070313,0.5128862150920974,0.4945445140483215,-0.018341701043775915,Saadet Partisi,Büyük Birlik Partisi
+27,2023-05,Election,constitutional_conflict,Constitutional conflict,0.17055645050838392,,,0.21614994912208535,,,Cumhuriyet Halk Partisi,
+27,2023-05,Election,democratic_reform,Democratic reform,0.36278362214584325,,,0.3054436987322893,,,Türkiye İşçi Partisi,
+27,2023-05,Election,macro_economy,Macro economy,0.3535387956616165,,,0.38567741780599935,,,Demokrat Parti,
+27,2023-05,Election,security_conflict,Security conflict,0.1131211316841563,,,0.6426637660140199,,,Milliyetçi Hareket Partisi,

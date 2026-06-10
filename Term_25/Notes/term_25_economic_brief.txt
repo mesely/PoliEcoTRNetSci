@@ -1,0 +1,14 @@
+Term 25 — Economic publication brief
+========================================================================
+
+Pre-November election macro reset (2015-10)
+- Macro pressure shift: -0.608
+- Economy salience shift: +0.137
+- Economic spread shift: -2.300
+- Negative-edge share shift: n/a
+- Signed modularity shift: n/a
+- Null p (economy salience / spread): n/a
+- Top attack party in shock month: Adalet ve Kalkınma Partisi (+0.500)
+- Top defense party in shock month: Adalet ve Kalkınma Partisi (+0.500)
+- Top owner of the economic agenda: Adalet ve Kalkınma Partisi
+- Owner persistence into post window: False

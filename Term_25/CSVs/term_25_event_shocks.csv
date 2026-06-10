@@ -1,0 +1,4 @@
+﻿term,event_month,event_label,spread_pre,spread_post,spread_delta,akp_chp_gap_pre,akp_chp_gap_post,akp_chp_gap_delta,top_gatekeeper_pre_speaker,top_gatekeeper_pre_party,top_gatekeeper_pre_score,top_gatekeeper_post_speaker,top_gatekeeper_post_party,top_gatekeeper_post_score
+25,2015-07,Violence escalation,,6.79768581165567,,,6.314340256392191,,,,,Mehmet Doğan Kubat,Adalet ve Kalkınma Partisi,1.8745152821050082
+25,2015-09,Conflict peak,2.2634557151866863,9.634630648931592,7.371174933744906,1.3823224584058886,9.59185172205851,8.209529263652623,Mehmet Doğan Kubat,Adalet ve Kalkınma Partisi,1.73310695363689,Ahmet Aydın,Adalet ve Kalkınma Partisi,0.0
+25,2015-10,Pre-Nov election,11.331915908124653,7.937345389738532,-3.3945705183861214,11.246358054378492,7.937345389738532,-3.30901266463996,,,,Ahmet Aydın,Adalet ve Kalkınma Partisi,0.0
