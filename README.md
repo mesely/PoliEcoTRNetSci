@@ -46,11 +46,32 @@ windows and allows different shocks to produce different effects.
    data are sparse, incomplete, or incomparable — with an explicit robustness battery
    (placebo months, bootstrap, anchor permutation, leave-one-anchor-out).
 
+## Key Findings
+
+Five non-directional hypotheses are tested; each is supported in a form richer than a simple
+"shocks increase conflict" story.
+
+- **Shocks raise economic salience (H1).** The 2008 global-crisis reaction (Term 23) and the
+  2022 FX crisis (Term 27) each lift macroeconomic salience by ≈ 0.18.
+- **Ownership reallocates — but not always toward government (H2).** Term 23 moves agenda
+  ownership CHP → AKP (and it stays); Term 27 moves CHP → IYI → CHP (temporary). No single
+  government/opposition rule holds.
+- **Partisan distance is reconfigured, not just widened (H3).** Term 23 *widens* discourse
+  spread (0.86 → 1.51); Term 27 *compresses* it (5.40 → 4.91) as parties converge on a shared
+  crisis vocabulary while conflict stays visible.
+- **Brokerage turns over under stress (H4).** The leading party-level broker changes identity in
+  every focal shock (e.g. DSP → HDP in Term 28); broker persistence is false throughout.
+- **Economic pressure ≠ economic centrality (H5).** Under the 2007 e-memorandum, constitutional
+  and security frames *displace* the economy (displacement index +0.19), whereas core economic
+  shocks stay economy-dominant.
+- **Robust.** Headline shocks exceed within-term placebo months (z = 2.89 and 2.79), and the
+  pooled inter-term latent axis is stable (anchor r = 0.711; minimum leave-one-anchor-out 0.972).
+
 ## Dataset Description
 
 | Layer | What it is | Location |
 |-------|-----------|----------|
-| **Raw network dataset** | Row-per-speech-turn TBMM corpus, Terms 22–28 (~919 MB ×2) | **Google Drive** (too large for GitHub — see [`docs/DATA.md`](docs/DATA.md)) |
+| **Raw network dataset** | Row-per-speech-turn TBMM corpus, Terms 22–28 (~919 MB ×2) | **[Google Drive](https://drive.google.com/drive/folders/1Z1zCytImXABvIRBK7msO6vorx7DfUn2t)** (too large for GitHub) |
 | **MP roster** | Canonical MP↔party reference (`milletvekilleri.csv/json`) | [`Data/`](Data/) |
 | **Macroeconomic indicators** | Monthly macro series used for event windows | [`economy_data/`](economy_data/) |
 | **Processed per-term data** | BEME concept edges, event summaries, gatekeepers, null tests | `Term_22/CSVs … Term_28/CSVs` |
@@ -58,6 +79,12 @@ windows and allows different shocks to produce different effects.
 
 Full provenance, schema, cleaning steps, assumptions and limitations are documented in
 **[`docs/DATA.md`](docs/DATA.md)**.
+
+> **📦 Large raw dataset (~1.8 GB) — Google Drive:**
+> https://drive.google.com/drive/folders/1Z1zCytImXABvIRBK7msO6vorx7DfUn2t
+> Download `TBMM_Network_Dataset.csv` and `TBMM_Network_Dataset_partyfixed.csv` into `Data/`
+> for a full rebuild from raw transcripts. The published figures regenerate from the committed
+> processed CSVs **without** this download.
 
 ## Repository Structure
 
